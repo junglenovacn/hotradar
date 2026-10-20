@@ -1,47 +1,135 @@
 {
- "date": "2026-10-19",
- "generated_at": "2026-10-19T22:01:11+08:00",
+ "date": "2026-10-20",
+ "generated_at": "2026-10-20T08:55:29+08:00",
  "sources": {
   "hackernews": {
    "items": [
     {
-     "title": "Documents: Police officer gave her Flock login to her ICE agent husband",
-     "url": "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816",
-     "score": 399,
-     "comments": 196,
-     "author": "DeepLogin",
+     "title": "France's Supermarket Fridges Were Vulnerable Online for Months",
+     "url": "https://ipinfo.io/blog/france-fridges-hack",
+     "score": 28,
+     "comments": 19,
+     "author": "emot",
      "tags": [],
      "desc": "",
-     "time": 1792406714,
-     "id": "50150750"
+     "time": 1792454449,
+     "id": "50159616"
     },
     {
-     "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
-     "url": "https://100toolkit.com/blog/deslop-model/",
-     "score": 46,
-     "comments": 18,
-     "author": "erikkannike",
+     "title": "MiniMax M3.1 Flash",
+     "url": "https://www.minimax.io/blog/minimax-m31f",
+     "score": 372,
+     "comments": 162,
+     "author": "jtg",
      "tags": [],
      "desc": "",
-     "time": 1792414847,
-     "id": "50151928"
+     "time": 1792427949,
+     "id": "50154540"
     },
     {
-     "title": "Linux 7.3 Released",
-     "url": "https://lwn.net/Articles/1101143/",
-     "score": 391,
-     "comments": 172,
-     "author": "cjd8",
+     "title": "I built a drone with only one motor [video]",
+     "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
+     "score": 370,
+     "comments": 77,
+     "author": "hakonjdjohnsen",
      "tags": [],
      "desc": "",
-     "time": 1792394637,
-     "id": "50149392"
+     "time": 1792400707,
+     "id": "50150089"
     },
     {
-     "title": "Timestral: Mistral release time-series foundation models",
+     "title": "Wine ported to OpenBSD",
+     "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+     "score": 490,
+     "comments": 163,
+     "author": "iamnothere",
+     "tags": [],
+     "desc": "",
+     "time": 1792416934,
+     "id": "50152307"
+    },
+    {
+     "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
+     "url": "https://bsd.network/@brynet/117407035545900963",
+     "score": 75,
+     "comments": 10,
+     "author": "doener",
+     "tags": [],
+     "desc": "",
+     "time": 1792444305,
+     "id": "50158138"
+    },
+    {
+     "title": "RuneScape Bench: MMOs for Agents [video]",
+     "url": "https://www.youtube.com/watch?v=cNm4zyUtWj0",
+     "score": 147,
+     "comments": 59,
+     "author": "evakhoury",
+     "tags": [],
+     "desc": "",
+     "time": 1792279445,
+     "id": "50136126"
+    },
+    {
+     "title": "One Hash Bloom Filters",
+     "url": "https://calabro.io/ohbf",
+     "score": 42,
+     "comments": 2,
+     "author": "jcalabro",
+     "tags": [],
+     "desc": "",
+     "time": 1792443008,
+     "id": "50157865"
+    },
+    {
+     "title": "Android apps running native on macOS",
+     "url": "https://github.com/kksimp/Mac.apk",
+     "score": 251,
+     "comments": 127,
+     "author": "flocked",
+     "tags": [],
+     "desc": "",
+     "time": 1792428330,
+     "id": "50154624"
+    },
+    {
+     "title": "It's still ok to enjoy programming",
+     "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
+     "score": 427,
+     "comments": 405,
+     "author": "goostavos",
+     "tags": [],
+     "desc": "",
+     "time": 1792266800,
+     "id": "50134472"
+    },
+    {
+     "title": "Putting Linux on my RTX Spark laptop because I don't have a Microsoft account",
+     "url": "https://josie.lol/blog/linux-rtx-spark",
+     "score": 169,
+     "comments": 73,
+     "author": "pfeifferj",
+     "tags": [],
+     "desc": "",
+     "time": 1792444098,
+     "id": "50158100"
+    },
+    {
+     "title": "Weball: Play Katamari on Websites",
+     "url": "https://www.funwithcomputervision.com/weball/",
+     "score": 21,
+     "comments": 4,
+     "author": "croes",
+     "tags": [],
+     "desc": "",
+     "time": 1792327196,
+     "id": "50140584"
+    },
+    {
+     "title": "Timestral: Mistral's time-series foundation models",
      "url": "https://mistral.ai/news/timestral/",
-     "score": 193,
-     "comments": 39,
+     "score": 539,
+     "comments": 102,
      "author": "groar",
      "tags": [],
      "desc": "",
@@ -49,10 +137,54 @@
      "id": "50150434"
     },
     {
-     "title": "Alternatives to Animal Testing Are Finally Taking Off",
+     "title": "Starcraft: Ashfall",
+     "url": "https://starcraft-shooter-2026.pages.dev/",
+     "score": 299,
+     "comments": 102,
+     "author": "debo_",
+     "tags": [],
+     "desc": "",
+     "time": 1792372682,
+     "id": "50147233"
+    },
+    {
+     "title": "Ukraine claims first drone evacuation of wounded soldier",
+     "url": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
+     "score": 92,
+     "comments": 78,
+     "author": "yzydserd",
+     "tags": [],
+     "desc": "",
+     "time": 1792423894,
+     "id": "50153664"
+    },
+    {
+     "title": "The fire retardant in the seafood chain",
+     "url": "https://insideclimatenews.org/news/14102026/ethoxyquin-fire-retardant-in-seafood-chain/",
+     "score": 103,
+     "comments": 34,
+     "author": "gumby",
+     "tags": [],
+     "desc": "",
+     "time": 1792265874,
+     "id": "50134359"
+    },
+    {
+     "title": "Token-maxxing is dead, OpenRouter's token usage plateaus",
+     "url": "https://openrouter.ai/rankings",
+     "score": 26,
+     "comments": 24,
+     "author": "pranshuchittora",
+     "tags": [],
+     "desc": "",
+     "time": 1792453215,
+     "id": "50159464"
+    },
+    {
+     "title": "Alternatives to animal testing are finally taking off",
      "url": "https://spectrum.ieee.org/alternatives-to-animal-testing",
-     "score": 74,
-     "comments": 10,
+     "score": 317,
+     "comments": 94,
      "author": "rbanffy",
      "tags": [],
      "desc": "",
@@ -60,169 +192,37 @@
      "id": "50150927"
     },
     {
-     "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
-     "url": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
-     "score": 75,
-     "comments": 23,
-     "author": "gslin",
+     "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+     "url": "https://news.ycombinator.com/item?id=50151036",
+     "score": 245,
+     "comments": 384,
+     "author": "rzk",
      "tags": [],
      "desc": "",
-     "time": 1792407219,
-     "id": "50150809"
+     "time": 1792409074,
+     "id": "50151036"
     },
     {
-     "title": "Harness Engineering 101: The LLM is the brain, the harness is the body",
-     "url": "https://github.com/IsuruMaduranga/harness-engineering-101",
-     "score": 77,
-     "comments": 34,
-     "author": "isuruwijesiri",
+     "title": "Agentic Monitoring",
+     "url": "https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/",
+     "score": 38,
+     "comments": 3,
+     "author": "bcongdon",
      "tags": [],
      "desc": "",
-     "time": 1792411661,
-     "id": "50151390"
+     "time": 1792421524,
+     "id": "50153225"
     },
     {
-     "title": "ESA's Hera Will View Asteroid Scars from DART's Strike",
-     "url": "https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous",
-     "score": 31,
-     "comments": 0,
-     "author": "rbanffy",
-     "tags": [],
-     "desc": "",
-     "time": 1792408322,
-     "id": "50150935"
-    },
-    {
-     "title": "Gdynia and the Dream of a Maritime Poland",
-     "url": "https://engelsbergideas.com/notebook/gdynia-and-the-dream-of-a-maritime-poland/",
-     "score": 52,
-     "comments": 13,
-     "author": "lermontov",
-     "tags": [],
-     "desc": "",
-     "time": 1792185188,
-     "id": "50124811"
-    },
-    {
-     "title": "Stripe will acquire OpenRouter for $7.5B",
-     "url": "https://startupfortune.com/stripe-will-pay-75-billion-for-openrouter-the-ai-model-traffic-cop/",
-     "score": 37,
-     "comments": 4,
-     "author": "novaRom",
-     "tags": [],
-     "desc": "",
-     "time": 1792416469,
-     "id": "50152207"
-    },
-    {
-     "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-     "url": "https://arxiv.org/abs/2610.18861",
-     "score": 454,
-     "comments": 222,
-     "author": "allinonai",
-     "tags": [],
-     "desc": "",
-     "time": 1792356494,
-     "id": "50145337"
-    },
-    {
-     "title": "How to Train Your Robot",
-     "url": "https://www.construction-physics.com/p/how-to-train-your-robot",
-     "score": 91,
-     "comments": 27,
-     "author": "crescit_eundo",
-     "tags": [],
-     "desc": "",
-     "time": 1792077201,
-     "id": "50104874"
-    },
-    {
-     "title": "Beyond the Glass",
-     "url": "https://longreads.com/2026/10/15/mother-museum-skulls-grief-agni/",
+     "title": "The ovary doesn't retire after menopause",
+     "url": "https://news.northwestern.edu/stories/2026/10/the-ovary-doesnt-retire-after-menopause?fj=1&utm_source=join1440&utm_medium=email&utm_placement=newsletter&user_id=66c4bf745d78644b3aa57b08",
      "score": 5,
      "comments": 0,
-     "author": "Petiver",
+     "author": "gmays",
      "tags": [],
      "desc": "",
-     "time": 1792131421,
-     "id": "50114766"
-    },
-    {
-     "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
-     "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
-     "score": 446,
-     "comments": 559,
-     "author": "mdp2021",
-     "tags": [],
-     "desc": "",
-     "time": 1792279595,
-     "id": "50136150"
-    },
-    {
-     "title": "William Gibson and the trademarking of cyberspace",
-     "url": "https://colo.to/cyberspace.html",
-     "score": 228,
-     "comments": 107,
-     "author": "Eric_Gullichsen",
-     "tags": [],
-     "desc": "",
-     "time": 1792366677,
-     "id": "50146625"
-    },
-    {
-     "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
-     "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
-     "score": 92,
-     "comments": 53,
-     "author": "ankitg12",
-     "tags": [],
-     "desc": "",
-     "time": 1792389331,
-     "id": "50148855"
-    },
-    {
-     "title": "If you don't run your own LLM proxy, how do you know whats going on?",
-     "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
-     "score": 234,
-     "comments": 157,
-     "author": "amrrs",
-     "tags": [],
-     "desc": "",
-     "time": 1792357752,
-     "id": "50145507"
-    },
-    {
-     "title": "Rabbits were a medieval royal luxury in England until the Black Death",
-     "url": "https://phys.org/news/2026-10-rabbits-medieval-royal-luxury-england.html",
-     "score": 112,
-     "comments": 110,
-     "author": "samizdis",
-     "tags": [],
-     "desc": "",
-     "time": 1792246056,
-     "id": "50131315"
-    },
-    {
-     "title": "Tennyson's Faith: A Nobler Type",
-     "url": "https://hedgehogreview.com/issues/the-fading-promise-of-higher-education/articles/tennysons-faith",
-     "score": 8,
-     "comments": 1,
-     "author": "prismatic",
-     "tags": [],
-     "desc": "",
-     "time": 1792256987,
-     "id": "50132906"
-    },
-    {
-     "title": "Someone behind the software",
-     "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
-     "score": 499,
-     "comments": 180,
-     "author": "tosh",
-     "tags": [],
-     "desc": "",
-     "time": 1792341120,
-     "id": "50142573"
+     "time": 1792295290,
+     "id": "50137754"
     }
    ]
   },
@@ -231,8 +231,8 @@
     {
      "title": "Gathin23/cleanyourtv",
      "url": "https://github.com/Gathin23/cleanyourtv",
-     "score": 3689,
-     "comments": 39,
+     "score": 5312,
+     "comments": 75,
      "author": "Gathin23",
      "tags": [
       "Java"
@@ -242,22 +242,9 @@
      "id": "1423101235"
     },
     {
-     "title": "Arekejoker/qwen21-nsfw-pose-skill",
-     "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
-     "score": 3309,
-     "comments": 4,
-     "author": "Arekejoker",
-     "tags": [
-      "Python"
-     ],
-     "desc": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
-     "time": 1791860982,
-     "id": "1416386910"
-    },
-    {
      "title": "feder-cr/git-ai",
      "url": "https://github.com/feder-cr/git-ai",
-     "score": 2395,
+     "score": 2453,
      "comments": 0,
      "author": "feder-cr",
      "tags": [
@@ -268,22 +255,9 @@
      "id": "1420751050"
     },
     {
-     "title": "HeyPuter/everything",
-     "url": "https://github.com/HeyPuter/everything",
-     "score": 2292,
-     "comments": 11,
-     "author": "HeyPuter",
-     "tags": [
-      "JavaScript"
-     ],
-     "desc": "We're rebuilding and open-sourcing the world’s software from scratch.",
-     "time": 1791908302,
-     "id": "1417456983"
-    },
-    {
      "title": "ahwootech/BRUTAL",
      "url": "https://github.com/ahwootech/BRUTAL",
-     "score": 1953,
+     "score": 1992,
      "comments": 12,
      "author": "ahwootech",
      "tags": [
@@ -296,7 +270,7 @@
     {
      "title": "chenglou/handwired",
      "url": "https://github.com/chenglou/handwired",
-     "score": 1781,
+     "score": 1811,
      "comments": 9,
      "author": "chenglou",
      "tags": [
@@ -307,23 +281,10 @@
      "id": "1420063501"
     },
     {
-     "title": "Supermedo/uncharted_pc",
-     "url": "https://github.com/Supermedo/uncharted_pc",
-     "score": 1514,
-     "comments": 270,
-     "author": "Supermedo",
-     "tags": [
-      "C++"
-     ],
-     "desc": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
-     "time": 1792023443,
-     "id": "1419982962"
-    },
-    {
      "title": "ly05010419/MacNativeGames",
      "url": "https://github.com/ly05010419/MacNativeGames",
-     "score": 1392,
-     "comments": 20,
+     "score": 1736,
+     "comments": 25,
      "author": "ly05010419",
      "tags": [
       "C"
@@ -333,9 +294,35 @@
      "id": "1423689866"
     },
     {
+     "title": "Supermedo/uncharted_pc",
+     "url": "https://github.com/Supermedo/uncharted_pc",
+     "score": 1583,
+     "comments": 295,
+     "author": "Supermedo",
+     "tags": [
+      "C++"
+     ],
+     "desc": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
+     "time": 1792023443,
+     "id": "1419982962"
+    },
+    {
+     "title": "Leonxlnx/earshot",
+     "url": "https://github.com/Leonxlnx/earshot",
+     "score": 1536,
+     "comments": 3,
+     "author": "Leonxlnx",
+     "tags": [
+      "Python"
+     ],
+     "desc": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+     "time": 1792047166,
+     "id": "1420305104"
+    },
+    {
      "title": "Caho1/open-claude-ui",
      "url": "https://github.com/Caho1/open-claude-ui",
-     "score": 1237,
+     "score": 1247,
      "comments": 0,
      "author": "Caho1",
      "tags": [
@@ -346,35 +333,9 @@
      "id": "1419078245"
     },
     {
-     "title": "Leonxlnx/earshot",
-     "url": "https://github.com/Leonxlnx/earshot",
-     "score": 1236,
-     "comments": 1,
-     "author": "Leonxlnx",
-     "tags": [
-      "Python"
-     ],
-     "desc": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
-     "time": 1792047166,
-     "id": "1420305104"
-    },
-    {
-     "title": "outcrawlai/scout",
-     "url": "https://github.com/outcrawlai/scout",
-     "score": 948,
-     "comments": 4,
-     "author": "outcrawlai",
-     "tags": [
-      "TypeScript"
-     ],
-     "desc": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
-     "time": 1791883135,
-     "id": "1416766144"
-    },
-    {
      "title": "xscreensaver-official/xscreensaver",
      "url": "https://github.com/xscreensaver-official/xscreensaver",
-     "score": 936,
+     "score": 998,
      "comments": 0,
      "author": "xscreensaver-official",
      "tags": [],
@@ -383,10 +344,23 @@
      "id": "1422399929"
     },
     {
+     "title": "aicodeking/leanrea",
+     "url": "https://github.com/aicodeking/leanrea",
+     "score": 993,
+     "comments": 6,
+     "author": "aicodeking",
+     "tags": [
+      "Python"
+     ],
+     "desc": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
+     "time": 1792205604,
+     "id": "1422883896"
+    },
+    {
      "title": "Tencent-Hunyuan/Hy-Memory",
      "url": "https://github.com/Tencent-Hunyuan/Hy-Memory",
-     "score": 928,
-     "comments": 36,
+     "score": 965,
+     "comments": 50,
      "author": "Tencent-Hunyuan",
      "tags": [
       "Python"
@@ -398,8 +372,8 @@
     {
      "title": "OpenMOSS/MOSS-Image",
      "url": "https://github.com/OpenMOSS/MOSS-Image",
-     "score": 888,
-     "comments": 9,
+     "score": 949,
+     "comments": 10,
      "author": "OpenMOSS",
      "tags": [
       "Python"
@@ -409,22 +383,9 @@
      "id": "1421497958"
     },
     {
-     "title": "aicodeking/leanrea",
-     "url": "https://github.com/aicodeking/leanrea",
-     "score": 859,
-     "comments": 6,
-     "author": "aicodeking",
-     "tags": [
-      "Python"
-     ],
-     "desc": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
-     "time": 1792205604,
-     "id": "1422883896"
-    },
-    {
      "title": "LiCinCan/blender-ai-mcp-addon",
      "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
-     "score": 852,
+     "score": 930,
      "comments": 31,
      "author": "LiCinCan",
      "tags": [
@@ -435,35 +396,22 @@
      "id": "1421389432"
     },
     {
-     "title": "MyLuxy/overdrive",
-     "url": "https://github.com/MyLuxy/overdrive",
-     "score": 850,
-     "comments": 12,
-     "author": "MyLuxy",
+     "title": "xiaoyang111222/cn-math-taxonomy",
+     "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+     "score": 921,
+     "comments": 1,
+     "author": "xiaoyang111222",
      "tags": [
-      "C++"
+      "Python"
      ],
-     "desc": "Overdrive, a PS5 homebrew game store with 1,800+ games.",
-     "time": 1791936428,
-     "id": "1418155445"
-    },
-    {
-     "title": "CoolkHz/gptibo",
-     "url": "https://github.com/CoolkHz/gptibo",
-     "score": 831,
-     "comments": 0,
-     "author": "CoolkHz",
-     "tags": [
-      "TypeScript"
-     ],
-     "desc": "Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source",
-     "time": 1791907039,
-     "id": "1417411861"
+     "desc": "中小学数学知识图谱 + 前置诊断：课标对齐、人教版一–九年级、531 知识点、2271 题、自适应诊断",
+     "time": 1792314283,
+     "id": "1424183124"
     },
     {
      "title": "alchaincyf/huashu-motion",
      "url": "https://github.com/alchaincyf/huashu-motion",
-     "score": 809,
+     "score": 917,
      "comments": 0,
      "author": "alchaincyf",
      "tags": [
@@ -474,17 +422,69 @@
      "id": "1424340323"
     },
     {
-     "title": "Zfinix/eleven",
-     "url": "https://github.com/Zfinix/eleven",
-     "score": 779,
-     "comments": 8,
-     "author": "Zfinix",
+     "title": "MyLuxy/overdrive",
+     "url": "https://github.com/MyLuxy/overdrive",
+     "score": 905,
+     "comments": 12,
+     "author": "MyLuxy",
      "tags": [
-      "TypeScript"
+      "C++"
      ],
-     "desc": "Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you.",
-     "time": 1791899251,
-     "id": "1417155242"
+     "desc": "Overdrive, a PS5 homebrew game store with 1,800+ games.",
+     "time": 1791936428,
+     "id": "1418155445"
+    },
+    {
+     "title": "Noniv/web-ocean",
+     "url": "https://github.com/Noniv/web-ocean",
+     "score": 768,
+     "comments": 5,
+     "author": "Noniv",
+     "tags": [
+      "HTML"
+     ],
+     "desc": "Real-time WebGPU ocean renderer written from scratch, no engine. FFT waves, whitecaps, sun glitter, physically based sunset sky with clouds, free camera. Built with Claude Code (Opus 5.5). Opens from a single 61 KB HTML file in Chrome.",
+     "time": 1792194593,
+     "id": "1422783076"
+    },
+    {
+     "title": "0xProbabillity/house-control",
+     "url": "https://github.com/0xProbabillity/house-control",
+     "score": 660,
+     "comments": 9,
+     "author": "0xProbabillity",
+     "tags": [
+      "Swift"
+     ],
+     "desc": "Your home as a live 3D model in the Mac menu bar and on iPhone — lights and ACs via Smart Life, Home Assistant, Philips Hue and Apple Home.",
+     "time": 1791981141,
+     "id": "1418878693"
+    },
+    {
+     "title": "cranebeaker/coop-anything",
+     "url": "https://github.com/cranebeaker/coop-anything",
+     "score": 590,
+     "comments": 43,
+     "author": "cranebeaker",
+     "tags": [
+      "C"
+     ],
+     "desc": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
+     "time": 1792149123,
+     "id": "1422053844"
+    },
+    {
+     "title": "humblemuzzu/dumbtv",
+     "url": "https://github.com/humblemuzzu/dumbtv",
+     "score": 566,
+     "comments": 15,
+     "author": "humblemuzzu",
+     "tags": [
+      "JavaScript"
+     ],
+     "desc": "",
+     "time": 1792343052,
+     "id": "1424613188"
     }
    ]
   },
@@ -494,10 +494,10 @@
      "title": "备孕 2 年，最后试管生下健康女儿，分享一下经历，顺带吐槽一下深圳市妇幼。",
      "url": "https://www.v2ex.com/t/1250023",
      "score": 0,
-     "comments": 162,
+     "comments": 180,
      "author": "callmejoejoe",
      "tags": [
-      "生活"
+      "深圳"
      ],
      "desc": "## 大概时间线：\r\n\r\n1. 2023 年 9 月开始备孕，本来我老婆想晚几年的，我说可以先试试，怕有问题可以及早干预，结果一语成谶。。。\r\n2. 2024 年 7 月发帖咨询 v 友[https://v2ex.com/t/1055069#reply265]，表面是能放松下来，但实际内心还是没法真正放松吧。因为一直没",
      "time": 1792393441,
@@ -507,7 +507,7 @@
      "title": "发现大家对拖欠工资这件事接受度很高",
      "url": "https://www.v2ex.com/t/1249882",
      "score": 0,
-     "comments": 115,
+     "comments": 118,
      "author": "coldmonkeybit",
      "tags": [
       "职场话题"
@@ -520,10 +520,10 @@
      "title": "房贷还有 14w 多，存款有差不多 19w，要不要提前还掉房贷",
      "url": "https://www.v2ex.com/t/1249936",
      "score": 0,
-     "comments": 111,
+     "comments": 116,
      "author": "jiliguluDa",
      "tags": [
-      "问与答"
+      "生活"
      ],
      "desc": "主包情况，大龄女程序员，工作目前稳定，但是也不确定哪天突然就失业了\r\n失业后大概率就要强制转行了，未来经济收入不确定\r\n请 V 友给给建议，感谢思密达~",
      "time": 1792379838,
@@ -546,7 +546,7 @@
      "title": "[送激活码] 我做了一个跟随 Finder 窗口的路径工具 FinderNav，送 80 个激活码",
      "url": "https://www.v2ex.com/t/1249891",
      "score": 0,
-     "comments": 100,
+     "comments": 106,
      "author": "shuxiaoshengss",
      "tags": [
       "macOS"
@@ -559,7 +559,7 @@
      "title": "大家的 giffgaff 还能用吗",
      "url": "https://www.v2ex.com/t/1249905",
      "score": 0,
-     "comments": 77,
+     "comments": 85,
      "author": "nomisk",
      "tags": [
       "程序员"
@@ -569,36 +569,10 @@
      "id": "1249905"
     },
     {
-     "title": "NSFW/姿势出图 skill",
-     "url": "https://www.v2ex.com/t/1249850",
-     "score": 0,
-     "comments": 76,
-     "author": "SayHelloHi",
-     "tags": [
-      "分享发现"
-     ],
-     "desc": "## 项目\r\n \r\n https://github.com/Arekejoker/qwen21-nsfw-pose-skill\r\n \r\n ## 预览\r\n \r\n ![]( https://i.imgur.com/iuGodRJ.gif)",
-     "time": 1792364745,
-     "id": "1249850"
-    },
-    {
-     "title": "突然发现逛小吃摊比想象中贵，所以我做了一个逛夜市模拟器，看看大家金钱的数字敏感度有多高",
-     "url": "https://www.v2ex.com/t/1249864",
-     "score": 0,
-     "comments": 72,
-     "author": "studyingss",
-     "tags": [
-      "分享创造"
-     ],
-     "desc": "一直觉得自己平常很省钱，日常最多的开支就是买点吃的，支出都是 11 ，21 ，16 ，6.4 ，9.9 ，10.9 这样的，反正感觉挺节省的\r\n\r\n结果前几天心血来潮算了下帐，被震惊了一下，钱比想象中花得快得多得多，\r\n\r\n为了分享这种感觉，我搞了个模拟逛夜市小模拟器，大家可以一起来试试自己对于 100 块的感受准不准",
-     "time": 1792371478,
-     "id": "1249864"
-    },
-    {
      "title": "利用学生优惠$8.99 开通 2 年半 Google AI Pro + YouTube Premium + 5TB 存储",
      "url": "https://www.v2ex.com/t/1249913",
      "score": 0,
-     "comments": 71,
+     "comments": 81,
      "author": "tunggt",
      "tags": [
       "程序员"
@@ -608,10 +582,23 @@
      "id": "1249913"
     },
     {
+     "title": "突然发现逛小吃摊比想象中贵，所以我做了一个逛夜市模拟器，看看大家金钱的数字敏感度有多高",
+     "url": "https://www.v2ex.com/t/1249864",
+     "score": 0,
+     "comments": 76,
+     "author": "studyingss",
+     "tags": [
+      "分享创造"
+     ],
+     "desc": "一直觉得自己平常很省钱，日常最多的开支就是买点吃的，支出都是 11 ，21 ，16 ，6.4 ，9.9 ，10.9 这样的，反正感觉挺节省的\r\n\r\n结果前几天心血来潮算了下帐，被震惊了一下，钱比想象中花得快得多得多，\r\n\r\n为了分享这种感觉，我搞了个模拟逛夜市小模拟器，大家可以一起来试试自己对于 100 块的感受准不准",
+     "time": 1792371478,
+     "id": "1249864"
+    },
+    {
      "title": "男孩子青春期问题（迷茫 没信心）怎么解决",
      "url": "https://www.v2ex.com/t/1249955",
      "score": 0,
-     "comments": 67,
+     "comments": 70,
      "author": "liangrongze",
      "tags": [
       "生活"
@@ -619,6 +606,19 @@
      "desc": "孩子情况\r\n1 广州市 男孩子 初二\r\n2 成长经历 幼儿园前在乡下长大，后在广州市读幼儿园，小学，初中\r\n3 财务状态 濒临破产 欠债 100 万 工作收入 10k 左右 \r\n4 家庭情况 一儿子  一 女儿 （特殊儿童）老婆没有收入（要陪读）\r\n5 孩子成绩 B+\r\n遇到的问题：\r\n1 学习情况：只学数学，英语物理",
      "time": 1792381498,
      "id": "1249955"
+    },
+    {
+     "title": "也分享下我起起伏伏伏伏伏的 2026 年吧",
+     "url": "https://www.v2ex.com/t/1249995",
+     "score": 0,
+     "comments": 63,
+     "author": "ssshooter",
+     "tags": [
+      "职场话题"
+     ],
+     "desc": "写博客之后，我每年都会发[年终总结]( https://ssshooter.com/tag/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/)，今年我多次想象我的 2026 年终总结会有多刺激，但现在我已经无法等到年末再回顾今年了。在睡前或者早上半梦半醒的时候，我多次回想起一些事件的细节，总觉",
+     "time": 1792388861,
+     "id": "1249995"
     }
    ]
   },
@@ -630,8 +630,8 @@
     {
      "title": "Your Browser Can Do WHAT?! 5 AI Features That Actually Work",
      "url": "https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb",
-     "score": 197,
-     "comments": 124,
+     "score": 200,
+     "comments": 126,
      "author": "Sylwia Laskowska",
      "tags": [
       "ai",
@@ -644,10 +644,26 @@
      "id": "4846656"
     },
     {
+     "title": "Promise Delivered: Welcome to the DEV Hall of Fame (65 Authors, 65 Masterpieces)",
+     "url": "https://dev.to/georgekobaidze/promise-delivered-welcome-to-the-dev-hall-of-fame-65-authors-65-masterpieces-15fa",
+     "score": 168,
+     "comments": 78,
+     "author": "Giorgi Kobaidze",
+     "tags": [
+      "community",
+      "discuss",
+      "showdev",
+      "writing"
+     ],
+     "desc": "Status: Promise delivered ✅              The Doors Are Open   A little over a month ago, I published...",
+     "time": 1792320938,
+     "id": "4868657"
+    },
+    {
      "title": "How I Feel about the Grace Hopper Celebration Getting Cancelled",
      "url": "https://dev.to/jess/how-i-feel-about-the-grace-hopper-celebration-getting-cancelled-3l2k",
-     "score": 99,
-     "comments": 13,
+     "score": 100,
+     "comments": 14,
      "author": "Jess Lee",
      "tags": [
       "wecoded",
@@ -660,20 +676,20 @@
      "id": "4844771"
     },
     {
-     "title": "Promise Delivered: Welcome to the DEV Hall of Fame (65 Authors, 65 Masterpieces)",
-     "url": "https://dev.to/georgekobaidze/promise-delivered-welcome-to-the-dev-hall-of-fame-65-authors-65-masterpieces-15fa",
-     "score": 133,
-     "comments": 69,
+     "title": "Natural Languages Have Design Trade-offs Too: Georgian Is Dynamically Typed, English Is Statically Typed",
+     "url": "https://dev.to/georgekobaidze/natural-languages-have-design-trade-offs-too-georgian-is-dynamically-typed-english-is-statically-emi",
+     "score": 107,
+     "comments": 60,
      "author": "Giorgi Kobaidze",
      "tags": [
-      "community",
-      "discuss",
-      "showdev",
-      "writing"
+      "programming",
+      "writing",
+      "design",
+      "languages"
      ],
-     "desc": "Status: Promise delivered ✅              The Doors Are Open   A little over a month ago, I published...",
-     "time": 1792320938,
-     "id": "4868657"
+     "desc": "Table of Contents    How This Started  Feature #1: Articles (or the Lack of Them)   The...",
+     "time": 1792092166,
+     "id": "4858196"
     },
     {
      "title": "AI Fatigue? Yea I know.",
@@ -692,25 +708,9 @@
      "id": "4826108"
     },
     {
-     "title": "Natural Languages Have Design Trade-offs Too: Georgian Is Dynamically Typed, English Is Statically Typed",
-     "url": "https://dev.to/georgekobaidze/natural-languages-have-design-trade-offs-too-georgian-is-dynamically-typed-english-is-statically-emi",
-     "score": 97,
-     "comments": 53,
-     "author": "Giorgi Kobaidze",
-     "tags": [
-      "programming",
-      "writing",
-      "design",
-      "languages"
-     ],
-     "desc": "Table of Contents    How This Started  Feature #1: Articles (or the Lack of Them)   The...",
-     "time": 1792092166,
-     "id": "4858196"
-    },
-    {
      "title": "Dev Opportunity Radar #21: $500K Y Combinator Funding, Bolt Builders Week, and AI Safety Research Residency",
      "url": "https://dev.to/devengers/dev-opportunity-radar-21-500k-y-combinator-funding-bolt-builders-week-and-ai-safety-research-12b8",
-     "score": 88,
+     "score": 89,
      "comments": 9,
      "author": "Hemapriya Kanagala",
      "tags": [
@@ -726,7 +726,7 @@
     {
      "title": "AI Avatar v25 (Avatar Run, Voxel Avatar, Muscle Brain)💪",
      "url": "https://dev.to/webdeveloperhyper/ai-avatar-v25-avatar-run-voxel-avatar-muscle-brain-5gi3",
-     "score": 63,
+     "score": 69,
      "comments": 27,
      "author": "Web Developer Hyper",
      "tags": [
@@ -756,6 +756,51 @@
      "id": "4860786"
     },
     {
+     "title": "I Vibe-Coded My Way Out of Angular Upgrades",
+     "url": "https://dev.to/gramli/i-vibe-coded-my-way-out-of-angular-upgrades-4fkh",
+     "score": 86,
+     "comments": 55,
+     "author": "Daniel Balcarek",
+     "tags": [
+      "ai",
+      "vibecoding",
+      "angular",
+      "showdev"
+     ],
+     "desc": "Do you also hate upgrading Angular versions? Because I do. I maintain a few open-source projects, and...",
+     "time": 1792048218,
+     "id": "4808239"
+    },
+    {
+     "title": "Integrating SEO Components into Discord",
+     "url": "https://dev.to/thomasbnt/integrating-seo-components-into-discord-2d8g",
+     "score": 22,
+     "comments": 11,
+     "author": "Thomas Bonnet",
+     "tags": [
+      "webdev",
+      "seo",
+      "html",
+      "discord"
+     ],
+     "desc": "If you paste a link to your website in a Discord channel, a small card appears automatically: title,...",
+     "time": 1791929430,
+     "id": "4846764"
+    },
+    {
+     "title": "What was your win this week?!",
+     "url": "https://dev.to/devteam/what-was-your-win-this-week-36am",
+     "score": 31,
+     "comments": 37,
+     "author": "Jess Lee",
+     "tags": [
+      "weeklyretro"
+     ],
+     "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+     "time": 1792155600,
+     "id": "4766369"
+    },
+    {
      "title": "Design for Churn",
      "url": "https://dev.to/dailycontext/design-for-churn-5c6h",
      "score": 50,
@@ -772,39 +817,26 @@
      "id": "4846219"
     },
     {
-     "title": "I Vibe-Coded My Way Out of Angular Upgrades",
-     "url": "https://dev.to/gramli/i-vibe-coded-my-way-out-of-angular-upgrades-4fkh",
-     "score": 80,
-     "comments": 48,
-     "author": "Daniel Balcarek",
+     "title": "What I Actually Learn When I Build With AI",
+     "url": "https://dev.to/sizzlebop/what-i-actually-learn-when-i-build-with-ai-1074",
+     "score": 51,
+     "comments": 17,
+     "author": "Jessica Doering",
      "tags": [
       "ai",
-      "vibecoding",
-      "angular",
-      "showdev"
+      "programming",
+      "learning",
+      "discuss"
      ],
-     "desc": "Do you also hate upgrading Angular versions? Because I do. I maintain a few open-source projects, and...",
-     "time": 1792048218,
-     "id": "4808239"
-    },
-    {
-     "title": "What was your win this week?!",
-     "url": "https://dev.to/devteam/what-was-your-win-this-week-36am",
-     "score": 24,
-     "comments": 28,
-     "author": "Jess Lee",
-     "tags": [
-      "weeklyretro"
-     ],
-     "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
-     "time": 1792155600,
-     "id": "4766369"
+     "desc": "I've spent entire nights building something with AI, gotten a bunch of features working, and then...",
+     "time": 1792112769,
+     "id": "4859158"
     },
     {
      "title": "🐾 DEV Pet Corner #2: Show Us Your Pets!",
      "url": "https://dev.to/hemapriya_kanagala/dev-pet-corner-2-show-us-your-pets-37nj",
-     "score": 77,
-     "comments": 24,
+     "score": 81,
+     "comments": 31,
      "author": "Hemapriya Kanagala",
      "tags": [
       "discuss",
@@ -820,7 +852,7 @@
      "title": "The minimum you need to know about GitHub Actions",
      "url": "https://dev.to/julies1/the-minimum-you-need-to-know-about-github-actions-6p7",
      "score": 20,
-     "comments": 13,
+     "comments": 15,
      "author": "Julie",
      "tags": [
       "github",
@@ -831,38 +863,6 @@
      "desc": "What is GitHub Actions?   Have you heard of GitHub Actions but assumed it was too...",
      "time": 1791954960,
      "id": "4847645"
-    },
-    {
-     "title": "'Localhost' is a Lie: Everything Uni Missed About Real-World Tech",
-     "url": "https://dev.to/maame-codes/localhost-is-a-lie-everything-uni-missed-about-real-world-tech-66n",
-     "score": 64,
-     "comments": 25,
-     "author": "Maame Afua A. P. Fordjour ",
-     "tags": [
-      "career",
-      "watercooler",
-      "learning",
-      "webdev"
-     ],
-     "desc": "Every CS student knows the drill. You get an assignment, write your code on your laptop using...",
-     "time": 1791920856,
-     "id": "4846326"
-    },
-    {
-     "title": "Building Better Agents through End-to-End Evals",
-     "url": "https://dev.to/dailycontext/building-better-agents-through-end-to-end-evals-pgh",
-     "score": 36,
-     "comments": 11,
-     "author": "Ryan Stevens",
-     "tags": [
-      "ai",
-      "agents",
-      "evals",
-      "aie"
-     ],
-     "desc": "Deeply understand the task at hand   The biggest mistake teams make with agents is...",
-     "time": 1791979513,
-     "id": "4845718"
     }
    ]
   },
@@ -871,8 +871,8 @@
     {
      "title": "Updates to site guidelines and AI/LLM tags",
      "url": "https://lobste.rs/s/h0eate",
-     "score": 213,
-     "comments": 151,
+     "score": 318,
+     "comments": 269,
      "author": "355E3B",
      "tags": [
       "announce",
@@ -883,10 +883,67 @@
      "id": "h0eate"
     },
     {
+     "title": "Wine ported to OpenBSD",
+     "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+     "score": 80,
+     "comments": 12,
+     "author": "nbyqvist",
+     "tags": [
+      "openbsd"
+     ],
+     "desc": "",
+     "time": 1792403042,
+     "id": "gqepzd"
+    },
+    {
+     "title": "One Hash Bloom Filters",
+     "url": "https://www.calabro.io/ohbf",
+     "score": 40,
+     "comments": 6,
+     "author": "pushcx",
+     "tags": [
+      "compsci",
+      "databases"
+     ],
+     "desc": "",
+     "time": 1792406823,
+     "id": "mpytbn"
+    },
+    {
+     "title": "A5 v1.0",
+     "url": "https://a5geo.org/blog/2026/10/14/a5-v1",
+     "score": 17,
+     "comments": 11,
+     "author": "pheelicks",
+     "tags": [
+      "compsci",
+      "math",
+      "rust",
+      "visualization"
+     ],
+     "desc": "",
+     "time": 1792400210,
+     "id": "wtthju"
+    },
+    {
+     "title": "Making all divisions slower to fix a bug in 0.000000000000000000542% of cases",
+     "url": "https://futhark-lang.org/blog/2026-10-14-defining-division.html",
+     "score": 27,
+     "comments": 2,
+     "author": "NoahTheDuke",
+     "tags": [
+      "c",
+      "compilers"
+     ],
+     "desc": "",
+     "time": 1792410127,
+     "id": "a9f6z1"
+    },
+    {
      "title": "What are you doing this week?",
      "url": "https://lobste.rs/s/vyfegx",
-     "score": 13,
-     "comments": 13,
+     "score": 23,
+     "comments": 38,
      "author": "caius",
      "tags": [
       "ask",
@@ -897,10 +954,51 @@
      "id": "vyfegx"
     },
     {
+     "title": "Beginning of the Ende (a community Deno fork)",
+     "url": "https://blog.webb.page/WM-105",
+     "score": 29,
+     "comments": 20,
+     "author": "hongminhee",
+     "tags": [
+      "javascript"
+     ],
+     "desc": "",
+     "time": 1792379592,
+     "id": "8ejwsp"
+    },
+    {
+     "title": "In Context",
+     "url": "https://www.youtube.com/watch?v=P5eO7BNyJao",
+     "score": 13,
+     "comments": 6,
+     "author": "veqq",
+     "tags": [
+      "programming",
+      "video"
+     ],
+     "desc": "",
+     "time": 1792416348,
+     "id": "b36ixw"
+    },
+    {
+     "title": "2026 is an exciting year for the Rust compiler (and me)",
+     "url": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
+     "score": 13,
+     "comments": 3,
+     "author": "novedevo",
+     "tags": [
+      "compilers",
+      "rust"
+     ],
+     "desc": "",
+     "time": 1792414361,
+     "id": "c2ouz0"
+    },
+    {
      "title": "Tor VPN Beta: What we've learned building our own VPN for Android from scratch",
      "url": "https://blog.torproject.org/tor-vpn-beta/",
-     "score": 14,
-     "comments": 1,
+     "score": 29,
+     "comments": 5,
      "author": "confusedalex",
      "tags": [
       "android",
@@ -912,132 +1010,50 @@
      "id": "s3w7hd"
     },
     {
-     "title": "It's enough - vibecoding tag crossed from useless to harmful",
-     "url": "https://lobste.rs/s/ggpwfi",
-     "score": 304,
-     "comments": 266,
-     "author": "viraptor",
+     "title": "Hanami, Why?: Model Citizens",
+     "url": "https://aaronmallen.me/writing/hanami-why-model-citizens",
+     "score": 12,
+     "comments": 0,
+     "author": "aaronmallen",
      "tags": [
-      "meta",
-      "vibecoding"
+      "ruby"
      ],
-     "desc": "<p>The vibecoding tag has been getting more and more useless for a while now. It lost the original meaning as the culture of software engineering with LLMs matured a bit. It got silly when posts talking about LLMs in general got tagged. It got useless when posts even mentioning some project created with LLMs in passing got tagged. Now it actually got harmful to the community when tagging posts turns away very valuable members <a href=\"https://lobste.rs/c/vecuxj\" rel=\"ugc\">https://lobste.rs/c/vecuxj</a></p>\n<p>I sighed and moved on for a while now as almost everything gets tagged - you can skip a word. But now it not only carries no signal whatsoever, it turns away people creating original technical content - which is what I assume anti-vibecoding people would actually like to see more of.</p>\n<p>Please split it or kill it. But we'd be better off without what exists today.</p>\n<p>Added: To be clear, I totally support people filtering out llm-generated or llm-centric posts. But right now everyone loses. And every day we lose a little bit more. Whether it's an original, interesting article that turns out to be nth-degree related to llms and filtered out, or a community member annoyed by this recurring problem and leaving us with even fewer actual non-llm-centric entries.</p>\n",
-     "time": 1792301711,
-     "id": "ggpwfi"
+     "desc": "",
+     "time": 1792400588,
+     "id": "ygp18d"
     },
     {
-     "title": "Men in tech #YesAllMen",
-     "url": "https://media.ccc.de/v/emf2026-240-1-men-in-tech-yesallmen",
-     "score": 122,
-     "comments": 27,
-     "author": "gmem",
+     "title": "Finding a home amidst the wreckage",
+     "url": "https://blog.zerodogg.org/2026/10/18/finding-a-home-amidst-the-wreckage/",
+     "score": 24,
+     "comments": 3,
+     "author": "abnercoimbre",
      "tags": [
       "culture",
-      "video"
+      "linux"
      ],
      "desc": "",
-     "time": 1792330501,
-     "id": "mp8qye"
+     "time": 1792409436,
+     "id": "mpdk1e"
     },
     {
-     "title": "ARP! Tell your network to explain itself",
-     "url": "https://benjcal.space/blog/arp-tell-your-network-to-explain-itself/",
-     "score": 40,
-     "comments": 15,
-     "author": "benj",
-     "tags": [
-      "networking"
-     ],
-     "desc": "",
-     "time": 1792309682,
-     "id": "mmvhup"
-    },
-    {
-     "title": "Superoptimizing an FPU emulator",
-     "url": "https://purplesyringa.moe/blog/superoptimizing-an-fpu-emulator/",
-     "score": 29,
+     "title": "Making dns_erlang Fast: Binary Tricks for the BEAM",
+     "url": "https://blog.dnsimple.com/2026/10/making-dns-erlang-fast/",
+     "score": 11,
      "comments": 4,
-     "author": "herabit",
+     "author": "jparise",
      "tags": [
-      "performance",
-      "rust"
+      "erlang"
      ],
      "desc": "",
-     "time": 1792349474,
-     "id": "1s3dve"
-    },
-    {
-     "title": "August in Servo: CSS Grid, text selection, and more",
-     "url": "https://servo.org/blog/2026/10/09/august-in-servo/",
-     "score": 36,
-     "comments": 0,
-     "author": "kreeft",
-     "tags": [
-      "browsers"
-     ],
-     "desc": "",
-     "time": 1792346713,
-     "id": "ilul4v"
-    },
-    {
-     "title": "A New Way to Think About Borrow Checking (In Reverse)",
-     "url": "https://verdagon.dev/blog/reverse-borrow-checking",
-     "score": 39,
-     "comments": 5,
-     "author": "Verdagon",
-     "tags": [
-      "compilers"
-     ],
-     "desc": "",
-     "time": 1792315756,
-     "id": "vwgrix"
-    },
-    {
-     "title": "Outside the Scope of Our Support",
-     "url": "https://fireborn.mataroa.blog/blog/outside-the-scope-of-our-support/",
-     "score": 44,
-     "comments": 3,
-     "author": "7tehdt3cnw6kir6o",
-     "tags": [
-      "a11y",
-      "android"
-     ],
-     "desc": "",
-     "time": 1792331521,
-     "id": "brrnpm"
-    },
-    {
-     "title": "Inline rendering with document.currentScript",
-     "url": "https://leanrada.com/notes/inline-rendering-currentscript/",
-     "score": 20,
-     "comments": 3,
-     "author": "carlana",
-     "tags": [
-      "javascript"
-     ],
-     "desc": "",
-     "time": 1792353775,
-     "id": "ogp1wf"
-    },
-    {
-     "title": "Programming Language Fundamentals in Agda",
-     "url": "https://plfa.github.io/",
-     "score": 12,
-     "comments": 2,
-     "author": "solomon",
-     "tags": [
-      "math",
-      "plt"
-     ],
-     "desc": "",
-     "time": 1792372364,
-     "id": "dtwbpu"
+     "time": 1792398418,
+     "id": "p3pruv"
     },
     {
      "title": "What the heck is /pkg?",
      "url": "https://anderegg.ca/2026/10/18/what-the-heck-is-pkg",
-     "score": 14,
-     "comments": 1,
+     "score": 30,
+     "comments": 5,
      "author": "trousers",
      "tags": [
       "mac",
@@ -1048,32 +1064,18 @@
      "id": "w6xosj"
     },
     {
-     "title": "What requirements don't you have?",
-     "url": "https://www.seangoedecke.com/what-requirements-dont-you-have/",
-     "score": 12,
-     "comments": 4,
-     "author": "nolan",
+     "title": "The Netherlands is building its own Linux OS to break free from Microsoft",
+     "url": "https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html",
+     "score": 6,
+     "comments": 0,
+     "author": "pocket_walrus",
      "tags": [
-      "ai-tooling",
-      "practices"
+      "linux",
+      "windows"
      ],
      "desc": "",
-     "time": 1792360747,
-     "id": "nuepys"
-    },
-    {
-     "title": "QML for C & Zig",
-     "url": "https://gist.github.com/rcalixte/d2de5c816fc1de3970cc501b5ae9706e",
-     "score": 16,
-     "comments": 4,
-     "author": "rcalixte",
-     "tags": [
-      "c",
-      "zig"
-     ],
-     "desc": "",
-     "time": 1792332604,
-     "id": "izjf9o"
+     "time": 1792422646,
+     "id": "nne5uh"
     }
    ]
   }
@@ -1082,50 +1084,50 @@
   {
    "id": "bitcoin",
    "name": "BTC 比特币",
-   "cny": 548635,
-   "change": 0.6552855242721325
+   "cny": 545704,
+   "change": -0.8584899748676087
   },
   {
    "id": "ethereum",
    "name": "ETH 以太坊",
-   "cny": 16034.76,
-   "change": 0.07014954481536272
+   "cny": 16028.1,
+   "change": -0.6935422760679683
   },
   {
    "id": "binancecoin",
    "name": "BNB 币安币",
-   "cny": 4855.48,
-   "change": 1.0846784327513854
+   "cny": 4870.72,
+   "change": 0.5833136675355814
   },
   {
    "id": "solana",
    "name": "SOL",
-   "cny": 696.46,
-   "change": 1.1682193387458149
+   "cny": 699.76,
+   "change": 0.30378042700553504
   },
   {
    "id": "ripple",
    "name": "XRP 瑞波",
-   "cny": 8.69,
-   "change": 1.3955393330422425
+   "cny": 8.67,
+   "change": -0.7379439746905165
   },
   {
    "id": "dogecoin",
    "name": "DOGE",
-   "cny": 0.528739,
-   "change": 0.9569261695874101
+   "cny": 0.530448,
+   "change": -0.17946549411745938
   },
   {
    "id": "cardano",
    "name": "ADA 艾达",
    "cny": 1.45,
-   "change": -0.2596004762794251
+   "change": -2.0500717481836745
   },
   {
    "id": "tron",
    "name": "TRX 波场",
    "cny": 2.22,
-   "change": -0.14218306110786783
+   "change": -0.1227168698178257
   }
  ]
 }
