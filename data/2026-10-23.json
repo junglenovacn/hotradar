@@ -1,0 +1,1112 @@
+{
+ "date": "2026-10-23",
+ "generated_at": "2026-10-23T08:24:43+08:00",
+ "sources": {
+  "hackernews": {
+   "items": [
+    {
+     "title": "Quad9 (DNS Resolver) to Exit France",
+     "url": "https://quad9.net/news/blog/au-revoir-france/",
+     "score": 964,
+     "comments": 348,
+     "author": "farrokhi",
+     "tags": [],
+     "desc": "",
+     "time": 1792679558,
+     "id": "50195959"
+    },
+    {
+     "title": "LLMs are making formal software verification feasible at a much larger scale",
+     "url": "https://www.anthropic.com/research/formal-verification",
+     "score": 36,
+     "comments": 6,
+     "author": "johnbender",
+     "tags": [],
+     "desc": "",
+     "time": 1792709683,
+     "id": "50202217"
+    },
+    {
+     "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+     "url": "https://github.com/NVIDIA/OpenShell",
+     "score": 281,
+     "comments": 144,
+     "author": "niemandhier",
+     "tags": [],
+     "desc": "",
+     "time": 1792691046,
+     "id": "50198675"
+    },
+    {
+     "title": "Woman faces six years in prison over Cash App account she never opened",
+     "url": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
+     "score": 456,
+     "comments": 461,
+     "author": "oidar",
+     "tags": [],
+     "desc": "",
+     "time": 1792674660,
+     "id": "50194833"
+    },
+    {
+     "title": "Every AI model has the same \"controversial\" take on humans",
+     "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+     "score": 214,
+     "comments": 256,
+     "author": "rakannimer",
+     "tags": [],
+     "desc": "",
+     "time": 1792685280,
+     "id": "50197313"
+    },
+    {
+     "title": "Getting ready to operate GNU Taler in Germany",
+     "url": "https://www.taler.net/en/news/2026-13.html",
+     "score": 220,
+     "comments": 82,
+     "author": "dewey",
+     "tags": [],
+     "desc": "",
+     "time": 1792685671,
+     "id": "50197404"
+    },
+    {
+     "title": "Run full iOS 16.5 firmware on Android Devices",
+     "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+     "score": 313,
+     "comments": 119,
+     "author": "aghuang",
+     "tags": [],
+     "desc": "",
+     "time": 1792682782,
+     "id": "50196718"
+    },
+    {
+     "title": "Docker Is Weird",
+     "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+     "score": 10,
+     "comments": 1,
+     "author": "psxuaw",
+     "tags": [],
+     "desc": "",
+     "time": 1792712756,
+     "id": "50202681"
+    },
+    {
+     "title": "Mapping the Northern Sky",
+     "url": "https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/",
+     "score": 5,
+     "comments": 0,
+     "author": "tmseidman",
+     "tags": [],
+     "desc": "",
+     "time": 1792713399,
+     "id": "50202766"
+    },
+    {
+     "title": "Jailbreaking the Switch 2",
+     "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+     "score": 699,
+     "comments": 244,
+     "author": "ledoge",
+     "tags": [],
+     "desc": "",
+     "time": 1792656112,
+     "id": "50192536"
+    },
+    {
+     "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
+     "url": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
+     "score": 115,
+     "comments": 28,
+     "author": "maxilevi",
+     "tags": [],
+     "desc": "",
+     "time": 1792694676,
+     "id": "50199389"
+    },
+    {
+     "title": "What Is Gridifcation",
+     "url": "https://musicalform.substack.com/p/what-is-gridifcation",
+     "score": 388,
+     "comments": 194,
+     "author": "gumby",
+     "tags": [],
+     "desc": "",
+     "time": 1792401192,
+     "id": "50150163"
+    },
+    {
+     "title": "eMudhra to exit global SSL/TLS certificate business",
+     "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+     "score": 909,
+     "comments": 620,
+     "author": "bo0tzz",
+     "tags": [],
+     "desc": "",
+     "time": 1792676019,
+     "id": "50195110"
+    },
+    {
+     "title": "AI and the Enclosure of the Scientific Commons",
+     "url": "https://arxiv.org/abs/2610.27251",
+     "score": 104,
+     "comments": 59,
+     "author": "jrepinc",
+     "tags": [],
+     "desc": "",
+     "time": 1792693696,
+     "id": "50199230"
+    },
+    {
+     "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
+     "url": "https://news.ycombinator.com/item?id=50193416",
+     "score": 342,
+     "comments": 143,
+     "author": "petecooper",
+     "tags": [],
+     "desc": "",
+     "time": 1792663904,
+     "id": "50193416"
+    },
+    {
+     "title": "AI compute is the new oil–and needs a new market",
+     "url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
+     "score": 3,
+     "comments": 2,
+     "author": "ijidak",
+     "tags": [],
+     "desc": "",
+     "time": 1792712716,
+     "id": "50202671"
+    },
+    {
+     "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you bought",
+     "url": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
+     "score": 184,
+     "comments": 195,
+     "author": "entryleveljobsc",
+     "tags": [],
+     "desc": "",
+     "time": 1792669323,
+     "id": "50194009"
+    },
+    {
+     "title": "Railpass",
+     "url": "https://train.samismith.com/",
+     "score": 34,
+     "comments": 8,
+     "author": "CharlesW",
+     "tags": [],
+     "desc": "",
+     "time": 1792705112,
+     "id": "50201414"
+    },
+    {
+     "title": "Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions",
+     "url": "https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations",
+     "score": 253,
+     "comments": 103,
+     "author": "ck2",
+     "tags": [],
+     "desc": "",
+     "time": 1792704281,
+     "id": "50201259"
+    },
+    {
+     "title": "How to Design Flowers",
+     "url": "https://www.asimov.press/p/flowers",
+     "score": 11,
+     "comments": 2,
+     "author": "surprisetalk",
+     "tags": [],
+     "desc": "",
+     "time": 1792504807,
+     "id": "50166604"
+    }
+   ]
+  },
+  "github": {
+   "items": [
+    {
+     "title": "Gathin23/cleanyourtv",
+     "url": "https://github.com/Gathin23/cleanyourtv",
+     "score": 24015,
+     "comments": 135,
+     "author": "Gathin23",
+     "tags": [
+      "Java"
+     ],
+     "desc": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+     "time": 1792224755,
+     "id": "1423101235"
+    },
+    {
+     "title": "ly05010419/MacNativeGames",
+     "url": "https://github.com/ly05010419/MacNativeGames",
+     "score": 4469,
+     "comments": 87,
+     "author": "ly05010419",
+     "tags": [
+      "C"
+     ],
+     "desc": "",
+     "time": 1792266720,
+     "id": "1423689866"
+    },
+    {
+     "title": "simbasjungles/free-my-tv",
+     "url": "https://github.com/simbasjungles/free-my-tv",
+     "score": 3428,
+     "comments": 54,
+     "author": "simbasjungles",
+     "tags": [
+      "Java"
+     ],
+     "desc": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
+     "time": 1792438141,
+     "id": "1426080579"
+    },
+    {
+     "title": "pengchujin/aerial-tv",
+     "url": "https://github.com/pengchujin/aerial-tv",
+     "score": 3075,
+     "comments": 152,
+     "author": "pengchujin",
+     "tags": [
+      "Kotlin"
+     ],
+     "desc": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+     "time": 1792487586,
+     "id": "1426780056"
+    },
+    {
+     "title": "xiaoyang111222/cn-math-taxonomy",
+     "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+     "score": 2195,
+     "comments": 4,
+     "author": "xiaoyang111222",
+     "tags": [
+      "Python"
+     ],
+     "desc": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
+     "time": 1792314283,
+     "id": "1424183124"
+    },
+    {
+     "title": "tek-sys-hub/Rubix-lang",
+     "url": "https://github.com/tek-sys-hub/Rubix-lang",
+     "score": 1902,
+     "comments": 6,
+     "author": "tek-sys-hub",
+     "tags": [
+      "Assembly"
+     ],
+     "desc": "The 100% Pure x86-64 Assembly Systems Language",
+     "time": 1792388077,
+     "id": "1425154779"
+    },
+    {
+     "title": "ikow/php2shell-poc",
+     "url": "https://github.com/ikow/php2shell-poc",
+     "score": 1519,
+     "comments": 3,
+     "author": "ikow",
+     "tags": [
+      "Python"
+     ],
+     "desc": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+     "time": 1792569316,
+     "id": "1428058681"
+    },
+    {
+     "title": "JoasASantos/REA-Prompts",
+     "url": "https://github.com/JoasASantos/REA-Prompts",
+     "score": 1481,
+     "comments": 0,
+     "author": "JoasASantos",
+     "tags": [],
+     "desc": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
+     "time": 1792448447,
+     "id": "1426240325"
+    },
+    {
+     "title": "alchaincyf/huashu-motion",
+     "url": "https://github.com/alchaincyf/huashu-motion",
+     "score": 1437,
+     "comments": 2,
+     "author": "alchaincyf",
+     "tags": [
+      "JavaScript"
+     ],
+     "desc": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
+     "time": 1792325967,
+     "id": "1424340323"
+    },
+    {
+     "title": "aicodeking/leanrea",
+     "url": "https://github.com/aicodeking/leanrea",
+     "score": 1367,
+     "comments": 6,
+     "author": "aicodeking",
+     "tags": [
+      "Python"
+     ],
+     "desc": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
+     "time": 1792205604,
+     "id": "1422883896"
+    },
+    {
+     "title": "humblemuzzu/dumbtv",
+     "url": "https://github.com/humblemuzzu/dumbtv",
+     "score": 1304,
+     "comments": 6,
+     "author": "humblemuzzu",
+     "tags": [
+      "Java"
+     ],
+     "desc": "Take the ads, tracking and clutter out of your Fire TV over ADB, no root. Every step can be undone. Comes with its own open-source home screen.",
+     "time": 1792343052,
+     "id": "1424613188"
+    },
+    {
+     "title": "Ansub/tv-detox",
+     "url": "https://github.com/Ansub/tv-detox",
+     "score": 1289,
+     "comments": 11,
+     "author": "Ansub",
+     "tags": [
+      "Java"
+     ],
+     "desc": "Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up",
+     "time": 1792305749,
+     "id": "1424070461"
+    },
+    {
+     "title": "9bie/php2shell-bypass-aslr-exp",
+     "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
+     "score": 954,
+     "comments": 4,
+     "author": "9bie",
+     "tags": [
+      "Python"
+     ],
+     "desc": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
+     "time": 1792581117,
+     "id": "1428268121"
+    },
+    {
+     "title": "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
+     "url": "https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
+     "score": 887,
+     "comments": 4,
+     "author": "eness",
+     "tags": [
+      "Shell"
+     ],
+     "desc": "Proof-of-Concept (PoC) exploit for php2shell (CVE-2026-109618 / CVE-2026-109619), demonstrating remote code execution in vulnerable PHP environments. For security research and educational purposes only.",
+     "time": 1792571503,
+     "id": "1428098303"
+    },
+    {
+     "title": "eagle-hq/EAGLE-4",
+     "url": "https://github.com/eagle-hq/EAGLE-4",
+     "score": 869,
+     "comments": 5,
+     "author": "eagle-hq",
+     "tags": [
+      "Python"
+     ],
+     "desc": "Official Inference Code of EAGLE-4",
+     "time": 1792504984,
+     "id": "1427107663"
+    },
+    {
+     "title": "ELY-Open-Source/ElyOffice",
+     "url": "https://github.com/ELY-Open-Source/ElyOffice",
+     "score": 862,
+     "comments": 18,
+     "author": "ELY-Open-Source",
+     "tags": [
+      "Rust"
+     ],
+     "desc": "Ely Office: offline-first desktop apps in Rust and GPUI",
+     "time": 1792451082,
+     "id": "1426270002"
+    },
+    {
+     "title": "openai/php2shell-checker",
+     "url": "https://github.com/openai/php2shell-checker",
+     "score": 814,
+     "comments": 0,
+     "author": "openai",
+     "tags": [
+      "JavaScript"
+     ],
+     "desc": "",
+     "time": 1792542552,
+     "id": "1427704805"
+    },
+    {
+     "title": "UniXNU/UniXNU",
+     "url": "https://github.com/UniXNU/UniXNU",
+     "score": 770,
+     "comments": 10,
+     "author": "UniXNU",
+     "tags": [
+      "Python"
+     ],
+     "desc": "Run iOS and macOS on non-Apple ARM64 hardware through UEFI.",
+     "time": 1792406815,
+     "id": "1425469723"
+    },
+    {
+     "title": "stackedlol/ascii-sharks",
+     "url": "https://github.com/stackedlol/ascii-sharks",
+     "score": 767,
+     "comments": 4,
+     "author": "stackedlol",
+     "tags": [
+      "TypeScript"
+     ],
+     "desc": "ascii shark components in typescript",
+     "time": 1792446859,
+     "id": "1426220635"
+    },
+    {
+     "title": "colinhacks/reylo",
+     "url": "https://github.com/colinhacks/reylo",
+     "score": 662,
+     "comments": 16,
+     "author": "colinhacks",
+     "tags": [
+      "Rust"
+     ],
+     "desc": "Import .sql files into TypeScript with full type inference and zero codegen.",
+     "time": 1792541814,
+     "id": "1427696883"
+    }
+   ]
+  },
+  "v2ex": {
+   "items": [
+    {
+     "title": "00 后结婚 10 个月，老婆回娘家了，我该怎么处理，求各位帮助",
+     "url": "https://www.v2ex.com/t/1250834",
+     "score": 0,
+     "comments": 522,
+     "author": "lz362636786",
+     "tags": [
+      "生活"
+     ],
+     "desc": "我和老婆是相亲认识的，媒人是我母亲和丈母娘共同的朋友。我和老婆都是初恋，恋爱了一年多结婚。我们的家离娘家很近，走路 10 几分钟。\r\n\r\n [家庭与财务状况] \r\n我工资 8k，老婆 4k。结婚前 7 个月我都上交工资（最近两个月没交了），自己每个月只留 2k 作为家用。我父母给的彩礼、她父母给的嫁妆，还有杂七杂八的钱",
+     "time": 1792635112,
+     "id": "1250834"
+    },
+    {
+     "title": "我的一个朋友（真的是一个朋友）目前深陷于一段感情骗局中，请 V 友们支招",
+     "url": "https://www.v2ex.com/t/1250830",
+     "score": 0,
+     "comments": 104,
+     "author": "FaustinaD",
+     "tags": [
+      "生活"
+     ],
+     "desc": "首先，真的是我的一个朋友，因为众所周知我是女的而这位朋友是个男的\r\n\r\n这位朋友在 2025 年前后谈了一段恋爱，自始至终只有对方的微信号（是的，手机号身份证号均无，对面的理由是被前男友纠缠过所以不想再遭遇类似事情）\r\n两人在一起并发生关系（在男方家中），一两个月之后（ 2025 年上半年）女方声称怀孕，孩子是男方的。",
+     "time": 1792634714,
+     "id": "1250830"
+    },
+    {
+     "title": "大 A 遥遥领先",
+     "url": "https://www.v2ex.com/t/1250819",
+     "score": 0,
+     "comments": 99,
+     "author": "510908220",
+     "tags": [
+      "投资"
+     ],
+     "desc": "哎，一直想等个反弹，少亏点，结果等到沟里了",
+     "time": 1792633319,
+     "id": "1250819"
+    },
+    {
+     "title": "现在有多少人还在维护自建的博客的？",
+     "url": "https://www.v2ex.com/t/1250808",
+     "score": 0,
+     "comments": 86,
+     "author": "letmatte",
+     "tags": [
+      "Blogger"
+     ],
+     "desc": "php 爆出漏洞，今早紧急进行版本升级，顺便看了下自己博客当年添加的友情链接，竟然一个都打不开了，只有我每年还在给域名服务器续费，大家都放弃了这个网络上的自留地了吗",
+     "time": 1792631939,
+     "id": "1250808"
+    },
+    {
+     "title": "老哥们，你们焦虑吗？未来的某天就会被突然失业，这几乎是必然，但自己别的什么也不会",
+     "url": "https://www.v2ex.com/t/1250940",
+     "score": 0,
+     "comments": 80,
+     "author": "Eension",
+     "tags": [
+      "职场话题"
+     ],
+     "desc": "就一个所有人都看得到的节点就在未来的某天，来得快来得慢靠运气。\r\n做什么样的准备才能扛住呢？",
+     "time": 1792651591,
+     "id": "1250940"
+    },
+    {
+     "title": "根管治疗过的聊聊",
+     "url": "https://www.v2ex.com/t/1250922",
+     "score": 0,
+     "comments": 68,
+     "author": "mrzhoudjq",
+     "tags": [
+      "生活"
+     ],
+     "desc": "平时没怎么注意牙齿，突然发现六号牙蛀了个大洞，去看了牙医说补不了，只能根管了。做过根管是不是牙齿就变脆了，还能用多久。",
+     "time": 1792649951,
+     "id": "1250922"
+    },
+    {
+     "title": "SuperShot（爱截图）截图领域的缝合怪，欢迎评价体验",
+     "url": "https://www.v2ex.com/t/1250850",
+     "score": 0,
+     "comments": 65,
+     "author": "chenyao6134",
+     "tags": [
+      "Apple"
+     ],
+     "desc": "截图只是开始，SuperShot 让画面更有用\r\n\r\nSuperShot （爱截图）是一款面向 macOS 和 iOS 的截图与图像处理工具，把截图、标注、拼接、文字识别和分享整合在一起。整理资料、反馈问题、制作教程，不必来回切换工具。\r\n\r\nmacOS 和 iOS 共用一份订阅。\r\n\r\n💻 macOS\r\n\r\n[查看 ",
+     "time": 1792636911,
+     "id": "1250850"
+    },
+    {
+     "title": "说说现在你都有哪些 PTSD",
+     "url": "https://www.v2ex.com/t/1250812",
+     "score": 0,
+     "comments": 65,
+     "author": "AIgogo",
+     "tags": [
+      "问与答"
+     ],
+     "desc": "我先来说三个：\r\n\r\n- 正常使用的 claude ，看到别人说封号\r\n- 每天正常搬砖，不时看到经济下行，别人失业\r\n- 网上快乐的冲着浪，突然看到有人说湾湾要独立",
+     "time": 1792632522,
+     "id": "1250812"
+    },
+    {
+     "title": "关于手动剃刀，最近从吉列换成舒适了，消费降级，体验没降。",
+     "url": "https://www.v2ex.com/t/1250878",
+     "score": 0,
+     "comments": 64,
+     "author": "xtx",
+     "tags": [
+      "生活"
+     ],
+     "desc": "一直用的是吉列的锋隐致护刀头，用了六年，感觉耐久度越来越低，我一周差不多刮个五次左右，一个多月就感觉刀头钝了，剃须时有拉扯感，想要有更好的剃须体验，只能换新刀头。\n查了一下，吉列在出了新款后，会把老刀头转到越南工厂生产，现在只有最新的极光系列刀头是在美国产的，本来想直接换成极光的，发现极光的刀头真是一点不便宜，8 个刀",
+     "time": 1792640827,
+     "id": "1250878"
+    }
+   ]
+  },
+  "reddit": {
+   "items": []
+  },
+  "devto": {
+   "items": [
+    {
+     "title": "Promise Delivered: Welcome to the DEV Hall of Fame (65 Authors, 65 Masterpieces)",
+     "url": "https://dev.to/georgekobaidze/promise-delivered-welcome-to-the-dev-hall-of-fame-65-authors-65-masterpieces-15fa",
+     "score": 213,
+     "comments": 105,
+     "author": "Giorgi Kobaidze",
+     "tags": [
+      "community",
+      "discuss",
+      "showdev",
+      "writing"
+     ],
+     "desc": "Status: Promise delivered ✅              The Doors Are Open   A little over a month ago, I published...",
+     "time": 1792320938,
+     "id": "4868657"
+    },
+    {
+     "title": "How to Become a Tech Conference Speaker (And Why You Might Regret It)",
+     "url": "https://dev.to/sylwia-lask/how-to-become-a-tech-conference-speaker-and-why-you-might-regret-it-2ink",
+     "score": 133,
+     "comments": 70,
+     "author": "Sylwia Laskowska",
+     "tags": [
+      "career",
+      "speaking",
+      "techtalks"
+     ],
+     "desc": "So you want to be a conference speaker? Are you sure?   Recently, a few people have asked me what...",
+     "time": 1792569930,
+     "id": "4885759"
+    },
+    {
+     "title": "Dev Opportunity Radar #21: $500K Y Combinator Funding, Bolt Builders Week, and AI Safety Research Residency",
+     "url": "https://dev.to/devengers/dev-opportunity-radar-21-500k-y-combinator-funding-bolt-builders-week-and-ai-safety-research-12b8",
+     "score": 104,
+     "comments": 10,
+     "author": "Hemapriya Kanagala",
+     "tags": [
+      "discuss",
+      "community",
+      "opportunities",
+      "resources"
+     ],
+     "desc": "TL;DR  Welcome back to Dev Opportunity Radar!  This is a weekly series where I share opportunities,...",
+     "time": 1792172416,
+     "id": "4863859"
+    },
+    {
+     "title": "I Got Tired of Coming Into My Lab To Check the Pressure of My Cryocooler so I Built a Tool To Do It for Me",
+     "url": "https://dev.to/pahorton/i-got-tired-of-coming-into-my-lab-to-check-the-pressure-of-my-cryocooler-so-i-built-a-tool-to-do-it-4ob7",
+     "score": 55,
+     "comments": 15,
+     "author": "Paul Horton",
+     "tags": [
+      "devchallenge",
+      "hf26challenge",
+      "tigerdata",
+      "githubcopilot"
+     ],
+     "desc": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady          ...",
+     "time": 1792601940,
+     "id": "4890855"
+    },
+    {
+     "title": "Stuck in the same dev.to topics? An open model fixed it.",
+     "url": "https://dev.to/thomasbnt/stuck-in-the-same-devto-topics-an-open-model-fixed-it-4mbc",
+     "score": 44,
+     "comments": 23,
+     "author": "Thomas Bonnet",
+     "tags": [
+      "devchallenge",
+      "hf26challenge",
+      "ai",
+      "javascript"
+     ],
+     "desc": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady          ...",
+     "time": 1792548780,
+     "id": "4882857"
+    },
+    {
+     "title": "Don't Be a Proxy Between Me and Your AI",
+     "url": "https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn",
+     "score": 48,
+     "comments": 26,
+     "author": "Adam - The Developer ✨",
+     "tags": [
+      "ai",
+      "discuss",
+      "career",
+      "programming"
+     ],
+     "desc": "I've had this conversation more times than I'd like to admit.  I raise a technical question in a...",
+     "time": 1792643469,
+     "id": "4893750"
+    },
+    {
+     "title": "What I Actually Learn When I Build With AI",
+     "url": "https://dev.to/sizzlebop/what-i-actually-learn-when-i-build-with-ai-1074",
+     "score": 63,
+     "comments": 19,
+     "author": "Jessica Doering",
+     "tags": [
+      "ai",
+      "programming",
+      "learning",
+      "discuss"
+     ],
+     "desc": "I've spent entire nights building something with AI, gotten a bunch of features working, and then...",
+     "time": 1792112769,
+     "id": "4859158"
+    },
+    {
+     "title": "🐾 DEV Pet Corner #2: Show Us Your Pets!",
+     "url": "https://dev.to/hemapriya_kanagala/dev-pet-corner-2-show-us-your-pets-37nj",
+     "score": 86,
+     "comments": 33,
+     "author": "Hemapriya Kanagala",
+     "tags": [
+      "discuss",
+      "community",
+      "watercooler",
+      "pets"
+     ],
+     "desc": "TL;DR  DEV Pet Corner is back for another Sunday! It's a weekly series where we take a little break...",
+     "time": 1792331291,
+     "id": "4872187"
+    },
+    {
+     "title": "10 Prompting Techniques My Deep Learning Exam Taught Me (That I Actually Use Now)",
+     "url": "https://dev.to/dj29/10-prompting-techniques-my-deep-learning-exam-taught-me-that-i-actually-use-now-43h0",
+     "score": 104,
+     "comments": 29,
+     "author": "Dhruv Jani",
+     "tags": [
+      "promptengineering",
+      "ai",
+      "discuss",
+      "beginners"
+     ],
+     "desc": "You already use prompting every day.  You just don't know the names of what you're doing.  Every time...",
+     "time": 1792208360,
+     "id": "4627125"
+    },
+    {
+     "title": "What Are Your Chances of Surviving Resident Evil Based on Your Tech Job?",
+     "url": "https://dev.to/xulingfeng/what-are-your-chances-of-surviving-resident-evil-based-on-your-tech-job-4b9o",
+     "score": 114,
+     "comments": 77,
+     "author": "xulingfeng",
+     "tags": [
+      "discuss",
+      "career",
+      "jokes",
+      "programming"
+     ],
+     "desc": "I recently watched the new Resident Evil movie. 🎬  Watching the main character stumble from one...",
+     "time": 1792135642,
+     "id": "4860786"
+    },
+    {
+     "title": "What was your win this week?!",
+     "url": "https://dev.to/devteam/what-was-your-win-this-week-36am",
+     "score": 34,
+     "comments": 41,
+     "author": "Jess Lee",
+     "tags": [
+      "weeklyretro"
+     ],
+     "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+     "time": 1792155600,
+     "id": "4766369"
+    },
+    {
+     "title": "is-kit Reached 100 Stars ⭐🎉 Here’s What Changed Since 50",
+     "url": "https://dev.to/nyaomaru/is-kit-reached-100-stars-heres-what-changed-since-50-49pf",
+     "score": 89,
+     "comments": 23,
+     "author": "nyaomaru",
+     "tags": [
+      "typescript",
+      "opensource",
+      "webdev",
+      "frontend"
+     ],
+     "desc": "Hoi hoi!  YAY! is-kit just reached 100 GitHub stars⭐ 🎉🎉🎉  When it reached 50 stars, I wrote about how...",
+     "time": 1792595305,
+     "id": "4858037"
+    },
+    {
+     "title": "How to publish posts via the dev.to API",
+     "url": "https://dev.to/julies1/how-to-publish-posts-via-the-devto-api-2fkd",
+     "score": 24,
+     "comments": 6,
+     "author": "Julie",
+     "tags": [
+      "python",
+      "automation",
+      "beginners",
+      "productivity"
+     ],
+     "desc": "Every time I copied a post into the dev.to editor, added tags and cleaned up the formatting, I'd...",
+     "time": 1792566060,
+     "id": "4886799"
+    },
+    {
+     "title": "Fine-Tuning Qwen3-8B with Tinker: From 50% to 76% Accuracy, and Burning Through My Budget",
+     "url": "https://dev.to/gramli/fine-tuning-qwen3-8b-with-tinker-from-50-to-76-accuracy-and-burning-through-my-budget-48mh",
+     "score": 90,
+     "comments": 54,
+     "author": "Daniel Balcarek",
+     "tags": [
+      "devchallenge",
+      "hf26challenge",
+      "ai",
+      "machinelearning"
+     ],
+     "desc": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle  Oktoberfest?...",
+     "time": 1792306987,
+     "id": "4845404"
+    },
+    {
+     "title": "In Ruby, Objects Don't Have Methods. How Method Lookup Actually Works.",
+     "url": "https://dev.to/smtahosin/in-ruby-objects-dont-have-methods-how-method-lookup-actually-works-31g9",
+     "score": 19,
+     "comments": 1,
+     "author": "S M Tahosin",
+     "tags": [
+      "ruby",
+      "programming",
+      "webdev",
+      "oop"
+     ],
+     "desc": "A visual deep dive into Ruby's object model under the hood. Why objects store state but zero methods, how hidden eigenclasses work, and the real method lookup path.",
+     "time": 1792576638,
+     "id": "4825930"
+    }
+   ]
+  },
+  "lobsters": {
+   "items": [
+    {
+     "title": "Docker is weird",
+     "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+     "score": 18,
+     "comments": 7,
+     "author": "nick4",
+     "tags": [
+      "programming"
+     ],
+     "desc": "",
+     "time": 1792681762,
+     "id": "xsz9sc"
+    },
+    {
+     "title": "examining the macOS gcc binary",
+     "url": "https://zoey-on-github.github.io/blog/macgcc.html",
+     "score": 54,
+     "comments": 17,
+     "author": "juliethefoxcoon",
+     "tags": [
+      "mac",
+      "reversing"
+     ],
+     "desc": "",
+     "time": 1792633558,
+     "id": "hplfis"
+    },
+    {
+     "title": "jailbreaking the switch 2",
+     "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+     "score": 41,
+     "comments": 6,
+     "author": "kwas",
+     "tags": [
+      "ai-tooling",
+      "hardware",
+      "reversing",
+      "security"
+     ],
+     "desc": "",
+     "time": 1792653048,
+     "id": "me75ey"
+    },
+    {
+     "title": "a hacky fucked up way to portably access errno from outside of c",
+     "url": "https://sebsite.pw/w/20260925-errno.html",
+     "score": 10,
+     "comments": 4,
+     "author": "seb",
+     "tags": [
+      "c"
+     ],
+     "desc": "",
+     "time": 1792687324,
+     "id": "jgull9"
+    },
+    {
+     "title": "Quad9 DNS Resolver to exit France",
+     "url": "https://quad9.net/news/blog/au-revoir-france/",
+     "score": 28,
+     "comments": 0,
+     "author": "mond",
+     "tags": [
+      "law",
+      "networking"
+     ],
+     "desc": "",
+     "time": 1792680459,
+     "id": "s0aktw"
+    },
+    {
+     "title": "Expose only share links of a private service with caddy",
+     "url": "https://dataswamp.org/~solene/2026-10-21-caddy-forward-auth-public-share-links.html",
+     "score": 19,
+     "comments": 3,
+     "author": "ggpsv",
+     "tags": [
+      "devops",
+      "security"
+     ],
+     "desc": "",
+     "time": 1792668614,
+     "id": "tu5ynp"
+    },
+    {
+     "title": "Objects, attributes, maps, oh my",
+     "url": "https://bernsteinbear.com/blog/object-shapes/",
+     "score": 17,
+     "comments": 3,
+     "author": "priime",
+     "tags": [
+      "compilers"
+     ],
+     "desc": "",
+     "time": 1792672552,
+     "id": "8rkyrl"
+    },
+    {
+     "title": "Tell your network to explain itself and then some",
+     "url": "https://unixdigest.com/tutorials/tell-your-network-to-explain-itself-and-then-some.html",
+     "score": 18,
+     "comments": 8,
+     "author": "confusedalex",
+     "tags": [
+      "networking"
+     ],
+     "desc": "",
+     "time": 1792655606,
+     "id": "m6l6ld"
+    },
+    {
+     "title": "I built a garbage collector for Rust (2023)",
+     "url": "https://claytonwramsey.com/blog/dumpster/",
+     "score": 14,
+     "comments": 5,
+     "author": "abhin4v",
+     "tags": [
+      "rust"
+     ],
+     "desc": "",
+     "time": 1792662562,
+     "id": "ju4q1u"
+    },
+    {
+     "title": "Firefox Local Mode",
+     "url": "https://firefox-source-docs.mozilla.org/devtools-user/local_mode/index.html",
+     "score": 140,
+     "comments": 24,
+     "author": "lim",
+     "tags": [
+      "browsers"
+     ],
+     "desc": "",
+     "time": 1792579679,
+     "id": "w9sxxq"
+    },
+    {
+     "title": "Script dependencies with Nix",
+     "url": "https://entropicthoughts.com/python-dependencies-with-nix",
+     "score": 15,
+     "comments": 1,
+     "author": "abhin4v",
+     "tags": [
+      "nix"
+     ],
+     "desc": "",
+     "time": 1792660444,
+     "id": "oeehgs"
+    },
+    {
+     "title": "Using a lookup-table to correct an approximation",
+     "url": "https://www.corsix.org/content/using-a-lookup-table-to-correct-an-approximation",
+     "score": 32,
+     "comments": 5,
+     "author": "fanf",
+     "tags": [
+      "performance"
+     ],
+     "desc": "",
+     "time": 1792624717,
+     "id": "os7brs"
+    },
+    {
+     "title": "Google's Rust Style Guide",
+     "url": "https://google.github.io/styleguide/rustguide.html",
+     "score": 48,
+     "comments": 17,
+     "author": "kaycebasques",
+     "tags": [
+      "rust"
+     ],
+     "desc": "",
+     "time": 1792591922,
+     "id": "9jgl3x"
+    },
+    {
+     "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+     "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+     "score": 75,
+     "comments": 26,
+     "author": "pims",
+     "tags": [
+      "cryptography",
+      "security"
+     ],
+     "desc": "",
+     "time": 1792572610,
+     "id": "ebsqsp"
+    },
+    {
+     "title": "We have Traits at Home",
+     "url": "https://www.axelmagn.com/blog/202610-zig-traits/",
+     "score": 3,
+     "comments": 1,
+     "author": "Defelo",
+     "tags": [
+      "zig"
+     ],
+     "desc": "",
+     "time": 1792687930,
+     "id": "05xrj8"
+    }
+   ]
+  }
+ },
+ "crypto": [
+  {
+   "id": "bitcoin",
+   "name": "BTC 比特币",
+   "cny": 541306,
+   "change": -3.672099198679732
+  },
+  {
+   "id": "ethereum",
+   "name": "ETH 以太坊",
+   "cny": 15906.43,
+   "change": -3.748972455629741
+  },
+  {
+   "id": "binancecoin",
+   "name": "BNB 币安币",
+   "cny": 4870.97,
+   "change": -2.455981732527545
+  },
+  {
+   "id": "solana",
+   "name": "SOL",
+   "cny": 691.16,
+   "change": -3.3727100699819443
+  },
+  {
+   "id": "ripple",
+   "name": "XRP 瑞波",
+   "cny": 8.72,
+   "change": -4.341513253561516
+  },
+  {
+   "id": "dogecoin",
+   "name": "DOGE",
+   "cny": 0.525304,
+   "change": -4.135918186787881
+  },
+  {
+   "id": "cardano",
+   "name": "ADA 艾达",
+   "cny": 1.41,
+   "change": -6.253477858686029
+  },
+  {
+   "id": "tron",
+   "name": "TRX 波场",
+   "cny": 2.19,
+   "change": -0.6284683936317816
+  }
+ ]
+}
