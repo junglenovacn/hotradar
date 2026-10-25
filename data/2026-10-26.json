@@ -1,0 +1,1118 @@
+{
+ "date": "2026-10-26",
+ "generated_at": "2026-10-26T07:50:36+08:00",
+ "sources": {
+  "hackernews": {
+   "items": [
+    {
+     "title": "Dolly Parton's Imagination Library",
+     "url": "https://imaginationlibrary.com/",
+     "score": 322,
+     "comments": 55,
+     "author": "jumploops",
+     "tags": [],
+     "desc": "",
+     "time": 1792952634,
+     "id": "50234474"
+    },
+    {
+     "title": "Overgrown, when plants invade your abandoned tabs",
+     "url": "https://charliegerard.dev/blog/overgrown-extension/",
+     "score": 99,
+     "comments": 24,
+     "author": "speckx",
+     "tags": [],
+     "desc": "",
+     "time": 1792684341,
+     "id": "50197108"
+    },
+    {
+     "title": "What goes into making an animated film?",
+     "url": "https://www.disneyanimation.com/process/",
+     "score": 66,
+     "comments": 29,
+     "author": "embedding-shape",
+     "tags": [],
+     "desc": "",
+     "time": 1792960029,
+     "id": "50235738"
+    },
+    {
+     "title": "The State of Context Engineering",
+     "url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+     "score": 56,
+     "comments": 11,
+     "author": "pchristensen",
+     "tags": [],
+     "desc": "",
+     "time": 1792960351,
+     "id": "50235780"
+    },
+    {
+     "title": "Why I Am a Programmer",
+     "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+     "score": 97,
+     "comments": 27,
+     "author": "jruohonen",
+     "tags": [],
+     "desc": "",
+     "time": 1792955491,
+     "id": "50235017"
+    },
+    {
+     "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+     "url": "https://lynchlab.net/llm-skin-cancer",
+     "score": 383,
+     "comments": 183,
+     "author": "sungam",
+     "tags": [],
+     "desc": "",
+     "time": 1792948538,
+     "id": "50233779"
+    },
+    {
+     "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+     "url": "https://talkweb.eu/openweb/4558/",
+     "score": 359,
+     "comments": 178,
+     "author": "Tomte",
+     "tags": [],
+     "desc": "",
+     "time": 1792949455,
+     "id": "50233929"
+    },
+    {
+     "title": "Serbia's Vucic concedes election defeat in historic win for student movement",
+     "url": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
+     "score": 176,
+     "comments": 73,
+     "author": "consumer451",
+     "tags": [],
+     "desc": "",
+     "time": 1792962508,
+     "id": "50236081"
+    },
+    {
+     "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+     "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+     "score": 343,
+     "comments": 84,
+     "author": "tdeck",
+     "tags": [],
+     "desc": "",
+     "time": 1792951451,
+     "id": "50234232"
+    },
+    {
+     "title": "Reverse engineering a Beyblade launch tracker",
+     "url": "https://blog.simone.computer/reverse-beyblade-launch-tracker",
+     "score": 10,
+     "comments": 1,
+     "author": "syx",
+     "tags": [],
+     "desc": "",
+     "time": 1792761912,
+     "id": "50208628"
+    },
+    {
+     "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+     "url": "https://minimaxir.com/2026/10/cheap-llms/",
+     "score": 77,
+     "comments": 97,
+     "author": "minimaxir",
+     "tags": [],
+     "desc": "",
+     "time": 1792962691,
+     "id": "50236102"
+    },
+    {
+     "title": "Eunice is almost here",
+     "url": "https://armincat.com/articles/eunice-is-almost-here",
+     "score": 54,
+     "comments": 46,
+     "author": "armcat",
+     "tags": [],
+     "desc": "",
+     "time": 1792957227,
+     "id": "50235316"
+    },
+    {
+     "title": "Where the Romans Fought (interactive map)",
+     "url": "https://iosiflazaridis.github.io/battles-of-the-romans/",
+     "score": 32,
+     "comments": 11,
+     "author": "endorphine",
+     "tags": [],
+     "desc": "",
+     "time": 1792954694,
+     "id": "50234879"
+    },
+    {
+     "title": "Making the Buddha Head from Merv Whole Again",
+     "url": "https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/",
+     "score": 8,
+     "comments": 0,
+     "author": "laybak",
+     "tags": [],
+     "desc": "",
+     "time": 1792781160,
+     "id": "50213610"
+    },
+    {
+     "title": "Amazon's \"digital pacifier\" for toddlers",
+     "url": "https://oligarchwatch.substack.com/p/amazons-digital-pacifier-for-toddlers",
+     "score": 69,
+     "comments": 103,
+     "author": "jumploops",
+     "tags": [],
+     "desc": "",
+     "time": 1792607868,
+     "id": "50185534"
+    },
+    {
+     "title": "We should be more ambitious with the software we build",
+     "url": "https://danluu.com/ambitious/",
+     "score": 736,
+     "comments": 675,
+     "author": "ltratt",
+     "tags": [],
+     "desc": "",
+     "time": 1792878451,
+     "id": "50225695"
+    },
+    {
+     "title": "Active incident at Dreamhost forcing password reset",
+     "url": "https://www.dreamhoststatus.com/",
+     "score": 102,
+     "comments": 37,
+     "author": "greenchair",
+     "tags": [],
+     "desc": "",
+     "time": 1792933756,
+     "id": "50231166"
+    },
+    {
+     "title": "VCF Southwest 2026, but Edited on Silicon Graphics for '90s TV [video]",
+     "url": "https://www.youtube.com/watch?v=46wxttvq9qY",
+     "score": 56,
+     "comments": 12,
+     "author": "zdw",
+     "tags": [],
+     "desc": "",
+     "time": 1792863728,
+     "id": "50223435"
+    },
+    {
+     "title": "The U.S. Power Grid",
+     "url": "https://nomagicpill.site/knowledge/powergrid.html",
+     "score": 64,
+     "comments": 18,
+     "author": "surprisetalk",
+     "tags": [],
+     "desc": "",
+     "time": 1792682404,
+     "id": "50196623"
+    },
+    {
+     "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
+     "url": "https://huggingface.co/destined/hurston-1",
+     "score": 36,
+     "comments": 19,
+     "author": "Gcarter08",
+     "tags": [],
+     "desc": "",
+     "time": 1792891813,
+     "id": "50227330"
+    }
+   ]
+  },
+  "github": {
+   "items": [
+    {
+     "title": "pengchujin/aerial-tv",
+     "url": "https://github.com/pengchujin/aerial-tv",
+     "score": 4975,
+     "comments": 252,
+     "author": "pengchujin",
+     "tags": [
+      "Kotlin"
+     ],
+     "desc": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+     "time": 1792487586,
+     "id": "1426780056"
+    },
+    {
+     "title": "simbasjungles/free-my-tv",
+     "url": "https://github.com/simbasjungles/free-my-tv",
+     "score": 4602,
+     "comments": 75,
+     "author": "simbasjungles",
+     "tags": [
+      "Java"
+     ],
+     "desc": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
+     "time": 1792438141,
+     "id": "1426080579"
+    },
+    {
+     "title": "JustAResearcher/gpu-unlock-ada",
+     "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
+     "score": 2569,
+     "comments": 47,
+     "author": "JustAResearcher",
+     "tags": [
+      "C"
+     ],
+     "desc": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
+     "time": 1792789253,
+     "id": "1431545439"
+    },
+    {
+     "title": "JoasASantos/REA-Prompts",
+     "url": "https://github.com/JoasASantos/REA-Prompts",
+     "score": 2419,
+     "comments": 0,
+     "author": "JoasASantos",
+     "tags": [
+      "Batchfile"
+     ],
+     "desc": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
+     "time": 1792448447,
+     "id": "1426240325"
+    },
+    {
+     "title": "EthanArbuckle/fairplay-decrypt",
+     "url": "https://github.com/EthanArbuckle/fairplay-decrypt",
+     "score": 2092,
+     "comments": 7,
+     "author": "EthanArbuckle",
+     "tags": [
+      "C"
+     ],
+     "desc": "Offline FairPlay App Store IPA decryption with independent key derivation",
+     "time": 1792404478,
+     "id": "1425429552"
+    },
+    {
+     "title": "xevrion/hatchzip",
+     "url": "https://github.com/xevrion/hatchzip",
+     "score": 1934,
+     "comments": 3,
+     "author": "xevrion",
+     "tags": [
+      "Rust"
+     ],
+     "desc": "HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.",
+     "time": 1792603768,
+     "id": "1428714039"
+    },
+    {
+     "title": "wesbos/3d-model-anything",
+     "url": "https://github.com/wesbos/3d-model-anything",
+     "score": 1915,
+     "comments": 10,
+     "author": "wesbos",
+     "tags": [
+      "Swift"
+     ],
+     "desc": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
+     "time": 1792611530,
+     "id": "1428848843"
+    },
+    {
+     "title": "ikow/php2shell-poc",
+     "url": "https://github.com/ikow/php2shell-poc",
+     "score": 1790,
+     "comments": 6,
+     "author": "ikow",
+     "tags": [
+      "Python"
+     ],
+     "desc": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+     "time": 1792569316,
+     "id": "1428058681"
+    },
+    {
+     "title": "Jakeschincariol/day-trader-skill",
+     "url": "https://github.com/Jakeschincariol/day-trader-skill",
+     "score": 1596,
+     "comments": 8,
+     "author": "Jakeschincariol",
+     "tags": [
+      "Python"
+     ],
+     "desc": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
+     "time": 1792505874,
+     "id": "1427126014"
+    },
+    {
+     "title": "oosexgang/hackios-xnu-kernel",
+     "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+     "score": 1454,
+     "comments": 8,
+     "author": "oosexgang",
+     "tags": [
+      "C"
+     ],
+     "desc": "",
+     "time": 1792650011,
+     "id": "1429328794"
+    },
+    {
+     "title": "9bie/php2shell-bypass-aslr-exp",
+     "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
+     "score": 1433,
+     "comments": 6,
+     "author": "9bie",
+     "tags": [
+      "Python"
+     ],
+     "desc": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
+     "time": 1792581117,
+     "id": "1428268121"
+    },
+    {
+     "title": "openai/php2shell-checker",
+     "url": "https://github.com/openai/php2shell-checker",
+     "score": 1396,
+     "comments": 2,
+     "author": "openai",
+     "tags": [
+      "JavaScript"
+     ],
+     "desc": "",
+     "time": 1792542552,
+     "id": "1427704805"
+    },
+    {
+     "title": "colinhacks/reylo",
+     "url": "https://github.com/colinhacks/reylo",
+     "score": 1263,
+     "comments": 10,
+     "author": "colinhacks",
+     "tags": [
+      "Rust"
+     ],
+     "desc": "Import .sql files into TypeScript with full type inference and zero codegen.",
+     "time": 1792541814,
+     "id": "1427696883"
+    },
+    {
+     "title": "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
+     "url": "https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
+     "score": 1002,
+     "comments": 7,
+     "author": "eness",
+     "tags": [
+      "Shell"
+     ],
+     "desc": "Proof-of-Concept (PoC) exploit for php2shell (CVE-2026-109618 / CVE-2026-109619), demonstrating remote code execution in vulnerable PHP environments. For security research and educational purposes only.",
+     "time": 1792571503,
+     "id": "1428098303"
+    },
+    {
+     "title": "ELY-Open-Source/ElyOffice",
+     "url": "https://github.com/ELY-Open-Source/ElyOffice",
+     "score": 992,
+     "comments": 13,
+     "author": "ELY-Open-Source",
+     "tags": [
+      "Rust"
+     ],
+     "desc": "Ely Office: offline-first desktop apps in Rust and GPUI",
+     "time": 1792451082,
+     "id": "1426270002"
+    },
+    {
+     "title": "UniXNU/UniXNU",
+     "url": "https://github.com/UniXNU/UniXNU",
+     "score": 990,
+     "comments": 9,
+     "author": "UniXNU",
+     "tags": [
+      "Python"
+     ],
+     "desc": "Run iOS and macOS on non-Apple ARM64 hardware through UEFI.",
+     "time": 1792406815,
+     "id": "1425469723"
+    },
+    {
+     "title": "eagle-hq/EAGLE-4",
+     "url": "https://github.com/eagle-hq/EAGLE-4",
+     "score": 989,
+     "comments": 7,
+     "author": "eagle-hq",
+     "tags": [
+      "Python"
+     ],
+     "desc": "Official Inference Code of EAGLE-4",
+     "time": 1792504984,
+     "id": "1427107663"
+    },
+    {
+     "title": "Snapintosh/Snapintosh",
+     "url": "https://github.com/Snapintosh/Snapintosh",
+     "score": 942,
+     "comments": 10,
+     "author": "Snapintosh",
+     "tags": [
+      "Python"
+     ],
+     "desc": "EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
+     "time": 1792633205,
+     "id": "1429116361"
+    },
+    {
+     "title": "assetnote/php2shell-scanner",
+     "url": "https://github.com/assetnote/php2shell-scanner",
+     "score": 899,
+     "comments": 2,
+     "author": "assetnote",
+     "tags": [
+      "Python"
+     ],
+     "desc": "High fidelity scanner for php2shell (CVE-2026-109618 and CVE-2026-109619)",
+     "time": 1792641200,
+     "id": "1429213407"
+    },
+    {
+     "title": "stackedlol/ascii-sharks",
+     "url": "https://github.com/stackedlol/ascii-sharks",
+     "score": 833,
+     "comments": 2,
+     "author": "stackedlol",
+     "tags": [
+      "TypeScript"
+     ],
+     "desc": "ascii shark components in typescript",
+     "time": 1792446859,
+     "id": "1426220635"
+    }
+   ]
+  },
+  "v2ex": {
+   "items": [
+    {
+     "title": "Bing 中国大陆搜索是否存在对部分国外网站的刻意降权或隐藏？",
+     "url": "https://www.v2ex.com/t/1251598",
+     "score": 0,
+     "comments": 31,
+     "author": "charley008",
+     "tags": [
+      "Bing"
+     ],
+     "desc": "最近发现一个非常奇怪的现象。\r\n\r\n在中国大陆使用 Bing 搜索时，输入一些知名国外网站的名称或域名，例如：\r\n\r\n- `themoviedb`\r\n- `google`\r\n- `youtube`\r\n- `telegram`\r\n- `x.com`\r\n- `openai`\r\n\r\nBing 似乎不会优先展示这些网站的官方网",
+     "time": 1792892916,
+     "id": "1251598"
+    },
+    {
+     "title": "有没有发现一个奇怪的现象？",
+     "url": "https://www.v2ex.com/t/1251636",
+     "score": 0,
+     "comments": 30,
+     "author": "xueshi",
+     "tags": [
+      "奇思妙想"
+     ],
+     "desc": "我发现一个很奇怪，但也很有意思的现象。\r\n\r\n如果做一个 app ，开源免费发布出来，唉，不一定有多少人用。\r\n\r\n但是你说收费，然后发码，那就会有很多人要。\r\n\r\n挺奇怪的逻辑, 特别在 V2 上，我见过很多这样的。\r\n\r\n（当然，我说的这种 case 也不是绝对的\r\n\r\n有没有人愿意分析一下这是什么心理呢？ \r\n如",
+     "time": 1792911452,
+     "id": "1251636"
+    },
+    {
+     "title": "[Day 20] - 10.25 - Tibo 又要重置了",
+     "url": "https://www.v2ex.com/t/1251616",
+     "score": 0,
+     "comments": 27,
+     "author": "privateproxies",
+     "tags": [
+      "OpenAI"
+     ],
+     "desc": "下午 3 点前\r\nhttps://codex-reset.com/zh/#signals",
+     "time": 1792899892,
+     "id": "1251616"
+    },
+    {
+     "title": "有什么工具可以测试鼠标的微动是否有问题",
+     "url": "https://www.v2ex.com/t/1251609",
+     "score": 0,
+     "comments": 25,
+     "author": "crayhuang",
+     "tags": [
+      "问与答"
+     ],
+     "desc": "请问各位大神，有什么工具可以测试鼠标的微动是否有问题？",
+     "time": 1792897168,
+     "id": "1251609"
+    },
+    {
+     "title": "有没有感觉 Codex 越来越比不上 Claude 了",
+     "url": "https://www.v2ex.com/t/1251671",
+     "score": 0,
+     "comments": 25,
+     "author": "Wenwener",
+     "tags": [
+      "问与答"
+     ],
+     "desc": "",
+     "time": 1792924851,
+     "id": "1251671"
+    },
+    {
+     "title": "搓了一个“V2EX 评论上下文”的 chrome 插件，方便 V 友阅读评论",
+     "url": "https://www.v2ex.com/t/1251601",
+     "score": 0,
+     "comments": 21,
+     "author": "whoisharry",
+     "tags": [
+      "分享创造"
+     ],
+     "desc": "![v2ex 评论区楼层引用信息自动展示插件]( https://www.mdview.cn/static/other/screenshot_marked.png)\r\n\r\n作用是，根据评论中的 #17 ，或者 @xxx ，或者“十七楼”，这样的信息，找到最近的一条回复，自动在当前这条评论上方展示。\r\n\r\n刚刚已上架到 ",
+     "time": 1792893543,
+     "id": "1251601"
+    },
+    {
+     "title": "codex 最新的功能，居然和我之前做的小功能如此雷同",
+     "url": "https://www.v2ex.com/t/1251621",
+     "score": 0,
+     "comments": 19,
+     "author": "break",
+     "tags": [
+      "OpenAI"
+     ],
+     "desc": "https://i.imgur.com/UZZm3dU.png\r\n\r\nhttps://i.imgur.com/x5tsYce.png\r\n\r\nhttps://i.imgur.com/B4nccST.png",
+     "time": 1792902207,
+     "id": "1251621"
+    },
+    {
+     "title": "用 ai 实现书法作品自动生成",
+     "url": "https://www.v2ex.com/t/1251592",
+     "score": 0,
+     "comments": 18,
+     "author": "dvbs2000",
+     "tags": [
+      "分享创造"
+     ],
+     "desc": "昨天忽然想试试看让 ai 学习字帖的文字结构\r\n用一个真实字贴，学习后，生成任何文字的书法作品\r\n\r\n\r\n使用了三层动态书法异形引擎（同字异形 PUA 轮换 + 部件级错落微变 + 弹性笔势场与蘸墨呼吸）与随字赋形不等距纵向排版（ True Bounding-Box Vertical Kerning ），彻底消除电脑排",
+     "time": 1792888908,
+     "id": "1251592"
+    },
+    {
+     "title": "有件事我搞不明白， V 站为何不升级一下交互和 UI？然后出一个官方的 APP？",
+     "url": "https://www.v2ex.com/t/1251696",
+     "score": 0,
+     "comments": 18,
+     "author": "Veliqo",
+     "tags": [
+      "V2EX"
+     ],
+     "desc": "好多 V 友都做过针对 V 站优化，有做油猴脚本的，chrome 插件的，有做 APP 的，各式各样，光我见过的不下 10 个了，说明大家对这个有需求的。\r\n既然有需求为何 V 站不自己去做呢？\r\n实在搞不懂，让 AI 来一梭子分分钟的事情。",
+     "time": 1792936959,
+     "id": "1251696"
+    }
+   ]
+  },
+  "reddit": {
+   "items": []
+  },
+  "devto": {
+   "items": [
+    {
+     "title": "How to Become a Tech Conference Speaker (And Why You Might Regret It)",
+     "url": "https://dev.to/sylwia-lask/how-to-become-a-tech-conference-speaker-and-why-you-might-regret-it-2ink",
+     "score": 209,
+     "comments": 108,
+     "author": "Sylwia Laskowska",
+     "tags": [
+      "career",
+      "speaking",
+      "techtalks"
+     ],
+     "desc": "So you want to be a conference speaker? Are you sure?   Recently, a few people have asked me what...",
+     "time": 1792569930,
+     "id": "4885759"
+    },
+    {
+     "title": "Dev Opportunity Radar #22: $50K Basis Fellowship, Perplexity AI Research Fellowship, and FC Barcelona Analytics Hackathon",
+     "url": "https://dev.to/devengers/dev-opportunity-radar-22-50k-basis-fellowship-perplexity-ai-research-fellowship-and-fc-4806",
+     "score": 84,
+     "comments": 9,
+     "author": "Hemapriya Kanagala",
+     "tags": [
+      "discuss",
+      "community",
+      "opportunities",
+      "resources"
+     ],
+     "desc": "TL;DR  Welcome back to Dev Opportunity Radar!  This is a weekly series where I share opportunities,...",
+     "time": 1792780147,
+     "id": "4907044"
+    },
+    {
+     "title": "I Got Tired of Coming Into My Lab To Check the Pressure of My Cryocooler so I Built a Tool To Do It for Me",
+     "url": "https://dev.to/pahorton/i-got-tired-of-coming-into-my-lab-to-check-the-pressure-of-my-cryocooler-so-i-built-a-tool-to-do-it-4ob7",
+     "score": 58,
+     "comments": 22,
+     "author": "Paul Horton",
+     "tags": [
+      "devchallenge",
+      "hf26challenge",
+      "tigerdata",
+      "githubcopilot"
+     ],
+     "desc": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady          ...",
+     "time": 1792601940,
+     "id": "4890855"
+    },
+    {
+     "title": "Stuck in the same dev.to topics? An open model fixed it.",
+     "url": "https://dev.to/thomasbnt/stuck-in-the-same-devto-topics-an-open-model-fixed-it-4mbc",
+     "score": 70,
+     "comments": 36,
+     "author": "Thomas Bonnet",
+     "tags": [
+      "devchallenge",
+      "hf26challenge",
+      "ai",
+      "javascript"
+     ],
+     "desc": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady          ...",
+     "time": 1792548780,
+     "id": "4882857"
+    },
+    {
+     "title": "Don't Be a Proxy Between Me and Your AI",
+     "url": "https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn",
+     "score": 83,
+     "comments": 51,
+     "author": "Adam - The Developer ✨",
+     "tags": [
+      "ai",
+      "discuss",
+      "career",
+      "programming"
+     ],
+     "desc": "I've had this conversation more times than I'd like to admit.  I raise a technical question in a...",
+     "time": 1792643469,
+     "id": "4893750"
+    },
+    {
+     "title": "is-kit Reached 100 Stars ⭐🎉 Here’s What Changed Since 50",
+     "url": "https://dev.to/nyaomaru/is-kit-reached-100-stars-heres-what-changed-since-50-49pf",
+     "score": 114,
+     "comments": 34,
+     "author": "nyaomaru",
+     "tags": [
+      "typescript",
+      "opensource",
+      "webdev",
+      "frontend"
+     ],
+     "desc": "Hoi hoi!  YAY! is-kit just reached 100 GitHub stars⭐ 🎉🎉🎉  When it reached 50 stars, I wrote about how...",
+     "time": 1792595305,
+     "id": "4858037"
+    },
+    {
+     "title": "I'm Not on the DEV Team. I Still Debugged Their Missing Badges From Public Code. (And My First Test Was Wrong.)",
+     "url": "https://dev.to/dj29/im-not-on-the-dev-team-i-still-debugged-their-missing-badges-from-public-code-and-my-first-test-18oo",
+     "score": 43,
+     "comments": 23,
+     "author": "Dhruv Jani",
+     "tags": [
+      "opensource",
+      "ruby",
+      "rails",
+      "testing"
+     ],
+     "desc": "I’m not on the DEV team. I don’t have an admin panel, production database access, or internal Slack....",
+     "time": 1792865574,
+     "id": "4911807"
+    },
+    {
+     "title": "How to publish posts via the dev.to API",
+     "url": "https://dev.to/julies1/how-to-publish-posts-via-the-devto-api-2fkd",
+     "score": 30,
+     "comments": 13,
+     "author": "Julie",
+     "tags": [
+      "python",
+      "automation",
+      "beginners",
+      "productivity"
+     ],
+     "desc": "Every time I copied a post into the dev.to editor, added tags and cleaned up the formatting, I'd...",
+     "time": 1792566060,
+     "id": "4886799"
+    },
+    {
+     "title": "I Built slothd: A Local-First, Offline-Capable AI Daemon That Patiently Organizes Your Messy Workspace",
+     "url": "https://dev.to/dj29/i-built-slothd-a-local-first-offline-capable-ai-daemon-that-patiently-organizes-your-messy-53e7",
+     "score": 86,
+     "comments": 33,
+     "author": "Dhruv Jani",
+     "tags": [
+      "devchallenge",
+      "hf26challenge",
+      "opensource",
+      "gemma"
+     ],
+     "desc": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady         💡...",
+     "time": 1792619488,
+     "id": "4892006"
+    },
+    {
+     "title": "Somewhere, Coding Stopped Being Allowed to Be Fun",
+     "url": "https://dev.to/james_anderson_h/somewhere-coding-stopped-being-allowed-to-be-fun-14pe",
+     "score": 91,
+     "comments": 111,
+     "author": "James Anderson",
+     "tags": [
+      "career",
+      "discuss",
+      "ai",
+      "mentalhealth"
+     ],
+     "desc": "Somewhere in the last couple of years, a strange feeling crept in, and I don't think I'm the only one...",
+     "time": 1792474546,
+     "id": "4881368"
+    },
+    {
+     "title": "In Ruby, Objects Don't Have Methods. How Method Lookup Actually Works.",
+     "url": "https://dev.to/smtahosin/in-ruby-objects-dont-have-methods-how-method-lookup-actually-works-31g9",
+     "score": 27,
+     "comments": 1,
+     "author": "S M Tahosin",
+     "tags": [
+      "ruby",
+      "programming",
+      "webdev",
+      "oop"
+     ],
+     "desc": "A visual deep dive into Ruby's object model under the hood. Why objects store state but zero methods, how hidden eigenclasses work, and the real method lookup path.",
+     "time": 1792576638,
+     "id": "4825930"
+    },
+    {
+     "title": "AI Made Coding Cheaper. So Why Is Building Software Still So Expensive?",
+     "url": "https://dev.to/harsh2644/ai-made-coding-cheaper-so-why-is-building-software-still-so-expensive-59m",
+     "score": 45,
+     "comments": 52,
+     "author": "Harsh ",
+     "tags": [
+      "ai",
+      "productivity",
+      "career",
+      "programming"
+     ],
+     "desc": "I can generate a full authentication flow with a database schema, API routes, and unit tests in under...",
+     "time": 1792611775,
+     "id": "4891584"
+    },
+    {
+     "title": "Bank alerts to a day-book, with a local Gemma",
+     "url": "https://dev.to/dannwaneri/bank-alerts-to-a-day-book-with-a-local-gemma-21dl",
+     "score": 33,
+     "comments": 7,
+     "author": "Daniel Nwaneri",
+     "tags": [
+      "devchallenge",
+      "hf26challenge",
+      "gemma",
+      "opensource"
+     ],
+     "desc": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle          ...",
+     "time": 1792387140,
+     "id": "4874497"
+    },
+    {
+     "title": "I Earned a Seat at GitHub Universe. It'll Stay Empty, and That's Not Fair",
+     "url": "https://dev.to/georgekobaidze/i-earned-a-seat-at-github-universe-itll-stay-empty-and-thats-not-fair-3d7k",
+     "score": 27,
+     "comments": 30,
+     "author": "Giorgi Kobaidze",
+     "tags": [
+      "conference",
+      "github"
+     ],
+     "desc": "Why Am I Writing This?   I'm writing this to show how unfair the world we live in can be,...",
+     "time": 1792910660,
+     "id": "4913784"
+    },
+    {
+     "title": "5 Steps on How to not loose at a hackathon?",
+     "url": "https://dev.to/sanidhya_at_mlh/5-steps-on-how-to-not-loose-at-a-hackathon-3hd1",
+     "score": 24,
+     "comments": 3,
+     "author": "Sanidhya Goel",
+     "tags": [
+      "ai",
+      "programming",
+      "majorleaguehacking",
+      "hackathon"
+     ],
+     "desc": "In 1999, ten developers gathered to work on cryptographic frameworks, IPv6, and IPsec for OpenBSD, in...",
+     "time": 1792752466,
+     "id": "4904732"
+    }
+   ]
+  },
+  "lobsters": {
+   "items": [
+    {
+     "title": "POSIX wordexp(3) is dangerous",
+     "url": "https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/",
+     "score": 44,
+     "comments": 11,
+     "author": "yossarian",
+     "tags": [
+      "c",
+      "security"
+     ],
+     "desc": "",
+     "time": 1792922969,
+     "id": "tbbiqb"
+    },
+    {
+     "title": "The Slurptop: A home-built luggable that runs on power tool batteries",
+     "url": "https://slurpburgers.com/slurpbuilds/the-slurptop/",
+     "score": 82,
+     "comments": 21,
+     "author": "hoistbypetard",
+     "tags": [
+      "art",
+      "hardware"
+     ],
+     "desc": "",
+     "time": 1792917791,
+     "id": "zfoiw1"
+    },
+    {
+     "title": "Vim Classic",
+     "url": "https://vim-classic.org/",
+     "score": 48,
+     "comments": 23,
+     "author": "datboi",
+     "tags": [
+      "editors",
+      "vim"
+     ],
+     "desc": "",
+     "time": 1792922745,
+     "id": "cxwpil"
+    },
+    {
+     "title": "Partial Order Precedence",
+     "url": "https://ziglang.org/devlog/2026/#2026-10-24",
+     "score": 28,
+     "comments": 7,
+     "author": "liberty",
+     "tags": [
+      "zig"
+     ],
+     "desc": "",
+     "time": 1792919901,
+     "id": "kiivg2"
+    },
+    {
+     "title": "The Goose Programming Language",
+     "url": "https://aardappel.github.io/goose/",
+     "score": 12,
+     "comments": 3,
+     "author": "mpweiher",
+     "tags": [
+      "plt"
+     ],
+     "desc": "",
+     "time": 1792941047,
+     "id": "dkoryq"
+    },
+    {
+     "title": "A vision for a next-generation timeline",
+     "url": "https://media.ccc.de/v/matrix-conference-2026-99070-a-vision-for-a-next-generation-timeline",
+     "score": 11,
+     "comments": 1,
+     "author": "JadedBlueEyes",
+     "tags": [
+      "distributed",
+      "video"
+     ],
+     "desc": "<p>Slides: <a href=\"https://cfp.2026.matrix.org/media/matrix-conference-2026/submissions/WRGTRX/resources/sli_ZZVyXQu.pdf\" rel=\"ugc\">https://cfp.2026.matrix.org/media/matrix-conference-2026/submissions/WRGTRX/resources/sli_ZZVyXQu.pdf</a></p>\n",
+     "time": 1792922590,
+     "id": "jdczl6"
+    },
+    {
+     "title": "I want my Wednesday back",
+     "url": "https://blog.luitjes.it/posts/i-want-my-wednesday-back/",
+     "score": 115,
+     "comments": 31,
+     "author": "lucasluitjes",
+     "tags": [
+      "php",
+      "security"
+     ],
+     "desc": "",
+     "time": 1792818568,
+     "id": "xgih2x"
+    },
+    {
+     "title": "Building Java ME Apps with Modern Tooling",
+     "url": "https://voxelmanip.se/2026/10/24/building-java-me-apps-with-modern-tooling/",
+     "score": 7,
+     "comments": 1,
+     "author": "mhd",
+     "tags": [
+      "java",
+      "retrocomputing"
+     ],
+     "desc": "",
+     "time": 1792945999,
+     "id": "ekwolo"
+    },
+    {
+     "title": "When a glibc update accidentally breaks Chromium's audio (2021)",
+     "url": "https://refi64.dev/posts/chromium-audio-break.html",
+     "score": 12,
+     "comments": 2,
+     "author": "seb",
+     "tags": [
+      "c",
+      "debugging",
+      "programming"
+     ],
+     "desc": "",
+     "time": 1792924461,
+     "id": "5ullyu"
+    },
+    {
+     "title": "Simple NetBSD webserver",
+     "url": "https://bsandro.tech/posts/simple-netbsd-webserver/",
+     "score": 2,
+     "comments": 0,
+     "author": "bsandro",
+     "tags": [
+      "netbsd"
+     ],
+     "desc": "",
+     "time": 1792952020,
+     "id": "hzrmwz"
+    },
+    {
+     "title": "Balloting has completed for C++26. Unfortunately it was Disapproved",
+     "url": "https://www.linkedin.com/posts/robertseacord_balloting-has-completed-for-c26-unfortunately-activity-7519795140887035918-5PWL",
+     "score": 50,
+     "comments": 26,
+     "author": "mond",
+     "tags": [
+      "c++"
+     ],
+     "desc": "<p>tl;dr: it looks like C++ 26 got turned down by the national bodies (afaik unprecedented)</p>\n",
+     "time": 1792846836,
+     "id": "rlrfew"
+    },
+    {
+     "title": "SIMD-accelerated computer vision on a $2 microcontroller",
+     "url": "https://shraiwi.com/blog/simd-fast-esp32s3/",
+     "score": 10,
+     "comments": 0,
+     "author": "nrposner",
+     "tags": [
+      "assembly"
+     ],
+     "desc": "",
+     "time": 1792922240,
+     "id": "qsmmke"
+    },
+    {
+     "title": "MacOS Extensions pack for the Apple Network Server v1.0",
+     "url": "http://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html",
+     "score": 14,
+     "comments": 0,
+     "author": "classichasclass",
+     "tags": [
+      "retrocomputing",
+      "reversing"
+     ],
+     "desc": "",
+     "time": 1792873365,
+     "id": "7byfjv"
+    },
+    {
+     "title": "Reverse-Engineering Instruction Encodings (2001)",
+     "url": "https://www.usenix.org/legacy/events/usenix01/full_papers/hsieh/hsieh_html/",
+     "score": 2,
+     "comments": 0,
+     "author": "calvin",
+     "tags": [
+      "assembly",
+      "reversing"
+     ],
+     "desc": "",
+     "time": 1792947522,
+     "id": "1q1rc1"
+    },
+    {
+     "title": "Bringing uv and ty together",
+     "url": "https://astral.sh/blog/uv-ty-integration",
+     "score": 54,
+     "comments": 0,
+     "author": "uds",
+     "tags": [
+      "python"
+     ],
+     "desc": "",
+     "time": 1792837654,
+     "id": "dfieqa"
+    }
+   ]
+  }
+ },
+ "crypto": [
+  {
+   "id": "bitcoin",
+   "name": "BTC 比特币",
+   "cny": 533530,
+   "change": -1.1095243659859149
+  },
+  {
+   "id": "ethereum",
+   "name": "ETH 以太坊",
+   "cny": 15482.46,
+   "change": -1.5655319393968328
+  },
+  {
+   "id": "binancecoin",
+   "name": "BNB 币安币",
+   "cny": 4916.59,
+   "change": -0.25982124678889995
+  },
+  {
+   "id": "solana",
+   "name": "SOL",
+   "cny": 673.8,
+   "change": -1.313049900725862
+  },
+  {
+   "id": "ripple",
+   "name": "XRP 瑞波",
+   "cny": 8.62,
+   "change": -0.5080135158907361
+  },
+  {
+   "id": "dogecoin",
+   "name": "DOGE",
+   "cny": 0.5113,
+   "change": -1.3166874893029208
+  },
+  {
+   "id": "cardano",
+   "name": "ADA 艾达",
+   "cny": 1.36,
+   "change": -2.3076191257227605
+  },
+  {
+   "id": "tron",
+   "name": "TRX 波场",
+   "cny": 2.2,
+   "change": 0.37203537848019363
+  }
+ ]
+}
