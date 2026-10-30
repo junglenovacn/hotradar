@@ -1,0 +1,1102 @@
+{
+ "date": "2026-10-30",
+ "generated_at": "2026-10-30T09:35:25+08:00",
+ "sources": {
+  "hackernews": {
+   "items": [
+    {
+     "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+     "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+     "score": 697,
+     "comments": 420,
+     "author": "Tiberium",
+     "tags": [],
+     "desc": "",
+     "time": 1793309939,
+     "id": "50296470"
+    },
+    {
+     "title": "We're releasing the weights of Mistral Large 4",
+     "url": "https://mistral.ai/news/mistral-large-4-oss/",
+     "score": 1194,
+     "comments": 338,
+     "author": "kuberwastaken",
+     "tags": [],
+     "desc": "",
+     "time": 1793283201,
+     "id": "50289418"
+    },
+    {
+     "title": "We ran AI agent swarms in Minecraft and Mindustry",
+     "url": "https://labs.ycombinator.com/projects/games/index.html",
+     "score": 151,
+     "comments": 58,
+     "author": "sandslash",
+     "tags": [],
+     "desc": "",
+     "time": 1793310028,
+     "id": "50296486"
+    },
+    {
+     "title": "El Niño Is Flooding California's Coasts with the Highest Tides to Come",
+     "url": "https://gizmodo.com/el-nino-is-already-flooding-californias-coasts-and-the-years-highest-tides-havent-arrived-2000832574",
+     "score": 78,
+     "comments": 23,
+     "author": "gumby",
+     "tags": [],
+     "desc": "",
+     "time": 1793310515,
+     "id": "50296585"
+    },
+    {
+     "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+     "url": "https://github.com/SheepSeb/tinyworldformer",
+     "score": 123,
+     "comments": 8,
+     "author": "airinei",
+     "tags": [],
+     "desc": "",
+     "time": 1793305948,
+     "id": "50295450"
+    },
+    {
+     "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
+     "url": "https://journal.animationstudies.org/article/id/66/",
+     "score": 43,
+     "comments": 6,
+     "author": "simonebrunozzi",
+     "tags": [],
+     "desc": "",
+     "time": 1793312798,
+     "id": "50297089"
+    },
+    {
+     "title": "Show HN: I Turned DOOM into a Transformer",
+     "url": "https://github.com/mottopanikeiku/doomformer",
+     "score": 30,
+     "comments": 8,
+     "author": "falperc",
+     "tags": [],
+     "desc": "",
+     "time": 1793316346,
+     "id": "50297697"
+    },
+    {
+     "title": "H.264 Is Magic (2016)",
+     "url": "https://sidbala.com/h-264-is-magic/",
+     "score": 330,
+     "comments": 124,
+     "author": "ea016",
+     "tags": [],
+     "desc": "",
+     "time": 1793289183,
+     "id": "50291054"
+    },
+    {
+     "title": "The Great American Rascal: Tom Sawyer at 150",
+     "url": "https://claremontreviewofbooks.com/the-great-american-rascal/",
+     "score": 39,
+     "comments": 10,
+     "author": "beatstop",
+     "tags": [],
+     "desc": "",
+     "time": 1793312063,
+     "id": "50296947"
+    },
+    {
+     "title": "Patrick Stewart has died",
+     "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+     "score": 2384,
+     "comments": 494,
+     "author": "j4mie",
+     "tags": [],
+     "desc": "",
+     "time": 1793302899,
+     "id": "50294702"
+    },
+    {
+     "title": "Cormac McCarthy's Library",
+     "url": "https://cormacmccarthy.lib.utk.edu/",
+     "score": 8,
+     "comments": 1,
+     "author": "maitland",
+     "tags": [],
+     "desc": "",
+     "time": 1793320260,
+     "id": "50298318"
+    },
+    {
+     "title": "DoorDash to acquire Instacart",
+     "url": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
+     "score": 419,
+     "comments": 598,
+     "author": "WalterSobchak",
+     "tags": [],
+     "desc": "",
+     "time": 1793277185,
+     "id": "50287919"
+    },
+    {
+     "title": "LLM Voice",
+     "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+     "score": 338,
+     "comments": 178,
+     "author": "ibobev",
+     "tags": [],
+     "desc": "",
+     "time": 1793285875,
+     "id": "50290177"
+    },
+    {
+     "title": "ElementaryUI – Swift, in the Browser",
+     "url": "https://elementary.codes",
+     "score": 56,
+     "comments": 12,
+     "author": "frizlab",
+     "tags": [],
+     "desc": "",
+     "time": 1793307399,
+     "id": "50295821"
+    },
+    {
+     "title": "Sylphide OS: a general-purpose OS for microcontroller-based computers",
+     "url": "https://projects.freehackers.org/sylphide-os/",
+     "score": 38,
+     "comments": 11,
+     "author": "iamnothere",
+     "tags": [],
+     "desc": "",
+     "time": 1793307595,
+     "id": "50295868"
+    },
+    {
+     "title": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
+     "url": "https://github.com/johncassil/dontallow",
+     "score": 99,
+     "comments": 76,
+     "author": "johncassil",
+     "tags": [],
+     "desc": "",
+     "time": 1793302064,
+     "id": "50294506"
+    },
+    {
+     "title": "Iterating Backwards in C",
+     "url": "https://www.davidpriver.com/Iterating-backwards-in-C.html",
+     "score": 12,
+     "comments": 6,
+     "author": "cremno",
+     "tags": [],
+     "desc": "",
+     "time": 1793042899,
+     "id": "50249598"
+    },
+    {
+     "title": "Chained PHP2Shell exploit roots 25 servers, including US Government servers",
+     "url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
+     "score": 285,
+     "comments": 139,
+     "author": "882542F3884314B",
+     "tags": [],
+     "desc": "",
+     "time": 1793270561,
+     "id": "50286987"
+    },
+    {
+     "title": "Historical Scientific Instruments",
+     "url": "https://nealstephenson.substack.com/p/historical-scientific-instruments",
+     "score": 14,
+     "comments": 0,
+     "author": "peteforde",
+     "tags": [],
+     "desc": "",
+     "time": 1793143955,
+     "id": "50267380"
+    },
+    {
+     "title": "If IPv4 were land",
+     "url": "https://iptrust.co/blog/if-ipv4-were-land",
+     "score": 230,
+     "comments": 315,
+     "author": "rokostik",
+     "tags": [],
+     "desc": "",
+     "time": 1793276340,
+     "id": "50287775"
+    }
+   ]
+  },
+  "github": {
+   "items": [
+    {
+     "title": "rddmwmddr/android-ad-cleaner",
+     "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+     "score": 4739,
+     "comments": 120,
+     "author": "rddmwmddr",
+     "tags": [
+      "Python"
+     ],
+     "desc": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+     "time": 1792820147,
+     "id": "1431851693"
+    },
+    {
+     "title": "unclebob/ub-mode",
+     "url": "https://github.com/unclebob/ub-mode",
+     "score": 4732,
+     "comments": 6,
+     "author": "unclebob",
+     "tags": [],
+     "desc": "",
+     "time": 1792944249,
+     "id": "1433377156"
+    },
+    {
+     "title": "interplains/Zero-Breach-Toolkit",
+     "url": "https://github.com/interplains/Zero-Breach-Toolkit",
+     "score": 3624,
+     "comments": 5,
+     "author": "interplains",
+     "tags": [
+      "Python"
+     ],
+     "desc": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
+     "time": 1792939294,
+     "id": "1433297111"
+    },
+    {
+     "title": "designfuchen/word-atlas",
+     "url": "https://github.com/designfuchen/word-atlas",
+     "score": 3239,
+     "comments": 23,
+     "author": "designfuchen",
+     "tags": [
+      "TypeScript"
+     ],
+     "desc": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
+     "time": 1792916842,
+     "id": "1432980411"
+    },
+    {
+     "title": "anhao/ai-pose-gallery-zh",
+     "url": "https://github.com/anhao/ai-pose-gallery-zh",
+     "score": 3197,
+     "comments": 3,
+     "author": "anhao",
+     "tags": [
+      "HTML"
+     ],
+     "desc": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+     "time": 1793103877,
+     "id": "1435695423"
+    },
+    {
+     "title": "t3dotgg/tstack",
+     "url": "https://github.com/t3dotgg/tstack",
+     "score": 2400,
+     "comments": 11,
+     "author": "t3dotgg",
+     "tags": [
+      "Python"
+     ],
+     "desc": "The agent skills I use every day. Works with Claude Code and Codex.",
+     "time": 1792818020,
+     "id": "1431830406"
+    },
+    {
+     "title": "andyhuo520/digital-human-koubo",
+     "url": "https://github.com/andyhuo520/digital-human-koubo",
+     "score": 1471,
+     "comments": 2,
+     "author": "andyhuo520",
+     "tags": [
+      "TypeScript"
+     ],
+     "desc": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+     "time": 1792989249,
+     "id": "1433904617"
+    },
+    {
+     "title": "DenisSergeevitch/ex-ussr-kinship-research",
+     "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
+     "score": 1269,
+     "comments": 0,
+     "author": "DenisSergeevitch",
+     "tags": [
+      "Python"
+     ],
+     "desc": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
+     "time": 1792922756,
+     "id": "1433057196"
+    },
+    {
+     "title": "Motionsites-AI/claude-skill",
+     "url": "https://github.com/Motionsites-AI/claude-skill",
+     "score": 1091,
+     "comments": 0,
+     "author": "Motionsites-AI",
+     "tags": [
+      "Python"
+     ],
+     "desc": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
+     "time": 1792997925,
+     "id": "1434017230"
+    },
+    {
+     "title": "KillaBoi/StealMyBitcoin-PoC",
+     "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
+     "score": 1006,
+     "comments": 3,
+     "author": "KillaBoi",
+     "tags": [
+      "Python"
+     ],
+     "desc": "A public release of the Steal My Bitcoin challenge",
+     "time": 1792964912,
+     "id": "1433653089"
+    },
+    {
+     "title": "aschmelyun/print-my-profile-pic",
+     "url": "https://github.com/aschmelyun/print-my-profile-pic",
+     "score": 954,
+     "comments": 3,
+     "author": "aschmelyun",
+     "tags": [],
+     "desc": "Say cheese! Star this repo and your profile picture gets printed out on a receipt printer.",
+     "time": 1793133605,
+     "id": "1436254894"
+    },
+    {
+     "title": "smithjohn78390/tongjiang-lab",
+     "url": "https://github.com/smithjohn78390/tongjiang-lab",
+     "score": 948,
+     "comments": 13,
+     "author": "smithjohn78390",
+     "tags": [
+      "HTML"
+     ],
+     "desc": "Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app",
+     "time": 1793161769,
+     "id": "1436598075"
+    },
+    {
+     "title": "ZiChuanLan/agent-purge",
+     "url": "https://github.com/ZiChuanLan/agent-purge",
+     "score": 876,
+     "comments": 0,
+     "author": "ZiChuanLan",
+     "tags": [
+      "JavaScript"
+     ],
+     "desc": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
+     "time": 1792908362,
+     "id": "1432883796"
+    },
+    {
+     "title": "kargulstudio/calender-app-design",
+     "url": "https://github.com/kargulstudio/calender-app-design",
+     "score": 806,
+     "comments": 1,
+     "author": "kargulstudio",
+     "tags": [
+      "TypeScript"
+     ],
+     "desc": "",
+     "time": 1793039936,
+     "id": "1434789878"
+    },
+    {
+     "title": "qybaihe/bla",
+     "url": "https://github.com/qybaihe/bla",
+     "score": 792,
+     "comments": 0,
+     "author": "qybaihe",
+     "tags": [
+      "TypeScript"
+     ],
+     "desc": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
+     "time": 1792905945,
+     "id": "1432859403"
+    },
+    {
+     "title": "daveebbelaar/bama",
+     "url": "https://github.com/daveebbelaar/bama",
+     "score": 785,
+     "comments": 0,
+     "author": "daveebbelaar",
+     "tags": [
+      "Swift"
+     ],
+     "desc": "BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and test native macOS apps with Swift and SwiftUI.",
+     "time": 1792831476,
+     "id": "1431986839"
+    },
+    {
+     "title": "DrWhax/unfairplay",
+     "url": "https://github.com/DrWhax/unfairplay",
+     "score": 774,
+     "comments": 11,
+     "author": "DrWhax",
+     "tags": [
+      "Go"
+     ],
+     "desc": "Decrypt IPA's on MacOS",
+     "time": 1792963340,
+     "id": "1433636611"
+    },
+    {
+     "title": "anonnerdfrenzy/survival-llm",
+     "url": "https://github.com/anonnerdfrenzy/survival-llm",
+     "score": 769,
+     "comments": 6,
+     "author": "anonnerdfrenzy",
+     "tags": [
+      "Python"
+     ],
+     "desc": "A free AI assistant and survival library that runs on your own computer, with no internet needed. Shows the source of every answer.",
+     "time": 1792869161,
+     "id": "1432512301"
+    },
+    {
+     "title": "mizorewww/gdirect",
+     "url": "https://github.com/mizorewww/gdirect",
+     "score": 765,
+     "comments": 0,
+     "author": "mizorewww",
+     "tags": [
+      "Rust"
+     ],
+     "desc": "Rust Google Drive direct downloader using pinned libaria2",
+     "time": 1792907542,
+     "id": "1432875224"
+    },
+    {
+     "title": "yaojingang/GEOInflow",
+     "url": "https://github.com/yaojingang/GEOInflow",
+     "score": 726,
+     "comments": 6,
+     "author": "yaojingang",
+     "tags": [
+      "TypeScript"
+     ],
+     "desc": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
+     "time": 1792984365,
+     "id": "1433846971"
+    }
+   ]
+  },
+  "v2ex": {
+   "items": [
+    {
+     "title": "亲戚来上海找工作想在我家打地铺，老婆不乐意，我妈说我不懂人情世故",
+     "url": "https://www.v2ex.com/t/1252878",
+     "score": 0,
+     "comments": 339,
+     "author": "wenchaotalk",
+     "tags": [
+      "上海"
+     ],
+     "desc": "我和老婆在上海租房，一室一厅，只有一张床。老家一个亲戚，男的，刚毕业，说来上海面试，想在我这打地铺住\r\n\r\n我同意了\r\n\r\n我老婆就有点怨我：说不方便。我也理解她一张床的房子，来一个成年男性住几天，她换衣服、起夜、跟我说话都不自在。\r\n\r\n现在人过来了  由于我上班没时间做饭  我妈就让我给他转几百块钱 让亲戚出去吃快",
+     "time": 1793259678,
+     "id": "1252878"
+    },
+    {
+     "title": "[送码] 做了个本地影音库 Inscura，支持电影剧集刮削和本地 Ai 画面检索（Mac/Windows）",
+     "url": "https://www.v2ex.com/t/1252752",
+     "score": 0,
+     "comments": 140,
+     "author": "hoythan",
+     "tags": [
+      "分享创造"
+     ],
+     "desc": "Inscura 主要用来整理和浏览自己硬盘里的视频。并且通过刮削插件可以快速补齐海报、简介、演职员等资料，用标签和合集分类，也可以非常自由的创建各种类型的标签.并支持刮削插件自定义。\r\n\r\n主要目的是为了*维护和管理本地的电影、视频、电视剧*\r\n\r\n---\r\n对标软件：\r\n> Movie Explorer Pro\\\r\n",
+     "time": 1793239828,
+     "id": "1252752"
+    },
+    {
+     "title": "被裁了，今天最后一天。",
+     "url": "https://www.v2ex.com/t/1252775",
+     "score": 0,
+     "comments": 92,
+     "author": "27tree",
+     "tags": [
+      "职场话题"
+     ],
+     "desc": "27 号通知的，29 号离职，谈了是协议离职，只给了 N ，公司蛮好的，所以也不想太撕破脸(别杠，杠就是你对)。\r\n谈一下这几天的感受，也记录一下，以后翻到了可能有不一样的心境。\r\n经常在网上摸鱼刷帖子，所以也看了不少，也心里准备，但是没想到这么快。\r\n反正很突然，给了 2 天交接，其实也没啥要交接的，就当缓冲一下。\r",
+     "time": 1793241920,
+     "id": "1252775"
+    },
+    {
+     "title": "OpenAI 有个小福利 去领一下",
+     "url": "https://www.v2ex.com/t/1252772",
+     "score": 0,
+     "comments": 79,
+     "author": "gptsapp",
+     "tags": [
+      "OpenAI"
+     ],
+     "desc": "OpenAI 官方宣布，ChatGPT Pro 和 Business 订阅用户每月可免费领取最高 500 美元 API 额度，已经订阅的用户也能领。\r\n\r\nhttps://help.openai.com/en/articles/20001626-api-credits-benefit-for-eligible-chat",
+     "time": 1793241773,
+     "id": "1252772"
+    },
+    {
+     "title": "Android 全平台纯自研内核 IPTV 播放器，各种格式都可以快速起播",
+     "url": "https://www.v2ex.com/t/1252867",
+     "score": 0,
+     "comments": 78,
+     "author": "FanDeBiao",
+     "tags": [
+      "Android"
+     ],
+     "desc": "## 为什么自己写内核\r\n\r\n一直都很喜欢俄罗斯的 tivimate ，无奈国内很多协议支持度有限：\r\n\r\n- 起播慢：按下去到画面动起来要 1 秒多\r\n- 国内 IPTV 的源五花八门，组播、udpxy 、RTSP 、各种奇怪的 TS 流，ExoPlayer 有的能播有的不行\r\n- 电视盒子性能差，播 4K 时 CP",
+     "time": 1793257922,
+     "id": "1252867"
+    },
+    {
+     "title": "准备卸载红果了",
+     "url": "https://www.v2ex.com/t/1252841",
+     "score": 0,
+     "comments": 78,
+     "author": "lizongwu",
+     "tags": [
+      "问与答"
+     ],
+     "desc": "看的爽是爽，建模都很棒，🐻大🍑翘的，但是越看离现实越远，越看大脑越萎缩\r\n\r\n等实现缸中之脑，不需要主动获取能量的时候，在泡在里面吧",
+     "time": 1793253959,
+     "id": "1252841"
+    },
+    {
+     "title": "我们只是普通人吗",
+     "url": "https://www.v2ex.com/t/1252838",
+     "score": 0,
+     "comments": 64,
+     "author": "6581",
+     "tags": [
+      "职场话题"
+     ],
+     "desc": "午休时刷小红书\r\n一个博主采访硅谷 AI 的创业者/或则员工的视频，随机路人（不知道是不是演员）\r\n感觉他们都很有目标\r\n也有一定的成就\r\n反观自己\r\n毕业近 10 年了\r\n就是随波逐流\r\n公司倒闭就换个公司\r\n公司裁员就换个公司\r\n没有目标\r\n没有特意培养自己的能力\r\n只是找个工作而已\r\n\r\n现在 AI 马上快把我取",
+     "time": 1793253290,
+     "id": "1252838"
+    },
+    {
+     "title": "100 块钱+一个下午的时间你会做什么？",
+     "url": "https://www.v2ex.com/t/1252815",
+     "score": 0,
+     "comments": 60,
+     "author": "CHAOFY",
+     "tags": [
+      "生活"
+     ],
+     "desc": "今天请假打算下午去医院检查下身体，如果快的话有一下午的时间空闲，除了回家刷手机还能有干啥🤔v 友们碰到这种空闲时间都是怎么打发的？",
+     "time": 1793247639,
+     "id": "1252815"
+    }
+   ]
+  },
+  "reddit": {
+   "items": []
+  },
+  "devto": {
+   "items": [
+    {
+     "title": "Your DEV posts have a beautiful new share card ✨",
+     "url": "https://dev.to/devteam/your-dev-posts-have-a-beautiful-new-share-card-4be8",
+     "score": 126,
+     "comments": 28,
+     "author": "Jess Lee",
+     "tags": [
+      "devto",
+      "showdev",
+      "opensource",
+      "design"
+     ],
+     "desc": "The image that shows up when you share a DEV post just got a brand-new look!  I got to work on...",
+     "time": 1793119469,
+     "id": "4929664"
+    },
+    {
+     "title": "I Earned a Seat at GitHub Universe. It'll Stay Empty, and That's Not Fair",
+     "url": "https://dev.to/georgekobaidze/i-earned-a-seat-at-github-universe-itll-stay-empty-and-thats-not-fair-3d7k",
+     "score": 136,
+     "comments": 91,
+     "author": "Giorgi Kobaidze",
+     "tags": [
+      "conference",
+      "github"
+     ],
+     "desc": "Why Am I Writing This?   I'm writing this to show how unfair the world we live in can be,...",
+     "time": 1792910660,
+     "id": "4913784"
+    },
+    {
+     "title": "I'm Not on the DEV Team. I Still Debugged Their Missing Badges From Public Code. (And My First Test Was Wrong.)",
+     "url": "https://dev.to/dj29/im-not-on-the-dev-team-i-still-debugged-their-missing-badges-from-public-code-and-my-first-test-18oo",
+     "score": 135,
+     "comments": 57,
+     "author": "Dhruv Jani",
+     "tags": [
+      "opensource",
+      "ruby",
+      "rails",
+      "testing"
+     ],
+     "desc": "I’m not on the DEV team. I don’t have an admin panel, production database access, or internal Slack....",
+     "time": 1792865574,
+     "id": "4911807"
+    },
+    {
+     "title": "Dev Opportunity Radar #22: $50K Basis Fellowship, Perplexity AI Research Fellowship, and FC Barcelona Analytics Hackathon",
+     "url": "https://dev.to/devengers/dev-opportunity-radar-22-50k-basis-fellowship-perplexity-ai-research-fellowship-and-fc-4806",
+     "score": 93,
+     "comments": 21,
+     "author": "Hemapriya Kanagala",
+     "tags": [
+      "discuss",
+      "community",
+      "opportunities",
+      "resources"
+     ],
+     "desc": "TL;DR  Welcome back to Dev Opportunity Radar!  This is a weekly series where I share opportunities,...",
+     "time": 1792780147,
+     "id": "4907044"
+    },
+    {
+     "title": "Doors I Walked Through to Reach DEV",
+     "url": "https://dev.to/devengers/doors-i-walked-through-to-reach-dev-5294",
+     "score": 118,
+     "comments": 77,
+     "author": "Giorgi Kobaidze",
+     "tags": [
+      "career",
+      "community",
+      "writing",
+      "devengers"
+     ],
+     "desc": "Table of Contents    Knock, Knock: The First Domino The Numbers and a Plot Twist How Did I...",
+     "time": 1793033179,
+     "id": "4916139"
+    },
+    {
+     "title": "Stratagems #32: The AI Logged a Withdrawal. P Took It as Proof.",
+     "url": "https://dev.to/xulingfeng/stratagems-32-the-ai-logged-a-withdrawal-p-took-it-as-proof-2jo2",
+     "score": 110,
+     "comments": 56,
+     "author": "xulingfeng",
+     "tags": [
+      "ai",
+      "discuss",
+      "programming",
+      "career"
+     ],
+     "desc": "Make empty what is already empty. Let doubt breed inside doubt. — The 36 Stratagems, The Empty Fort...",
+     "time": 1793119577,
+     "id": "4929675"
+    },
+    {
+     "title": "No Human Will Ever Write Code Better Than LLMs? Better at What?",
+     "url": "https://dev.to/dannwaneri/no-human-will-ever-write-code-better-than-llms-better-at-what-1dme",
+     "score": 36,
+     "comments": 19,
+     "author": "Daniel Nwaneri",
+     "tags": [
+      "ai",
+      "programming",
+      "softwareengineering",
+      "career"
+     ],
+     "desc": "A tweet went around saying: \"No human will ever write code better than LLMs. Accept this fact, stop...",
+     "time": 1793266459,
+     "id": "4919957"
+    },
+    {
+     "title": "🐾 DEV Pet Corner #3: Show Us Your Pets!",
+     "url": "https://dev.to/hemapriya_kanagala/dev-pet-corner-3-show-us-your-pets-35n",
+     "score": 78,
+     "comments": 15,
+     "author": "Hemapriya Kanagala",
+     "tags": [
+      "discuss",
+      "community",
+      "watercooler",
+      "pets"
+     ],
+     "desc": "TL;DR  DEV Pet Corner is back for another Sunday! It's a weekly series where we take a little break...",
+     "time": 1792952912,
+     "id": "4917021"
+    },
+    {
+     "title": "When Recovering From Burnout, Writing Became My Therapy. And This Week My First Coding Book Turns 1 Year Old. Ask Me Anything!",
+     "url": "https://dev.to/canro91/to-recover-from-burnout-writing-became-my-therapy-and-this-week-my-first-coding-book-turns-1-year-388e",
+     "score": 35,
+     "comments": 35,
+     "author": "Cesar Aguirre",
+     "tags": [
+      "discuss",
+      "watercooler",
+      "ama",
+      "coding"
+     ],
+     "desc": "Hi, I'm Cesar, a Senior Software Engineer with 10+ years of experience.  In 2023, I got sick and...",
+     "time": 1792990800,
+     "id": "4784405"
+    },
+    {
+     "title": "HEXAW programming language for WebAssembly instead WAT",
+     "url": "https://dev.to/pengeszikra/hexaw-a-lazy-wasm-text-format-5g5n",
+     "score": 40,
+     "comments": 12,
+     "author": "Peter Vivo",
+     "tags": [
+      "devchallenge",
+      "hf26challenge",
+      "webassembly"
+     ],
+     "desc": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady          ...",
+     "time": 1792966222,
+     "id": "4917658"
+    },
+    {
+     "title": "I Compared 6 TypeScript Validation Libraries. Here's What Surprised Me 🤔",
+     "url": "https://dev.to/nyaomaru/i-compared-6-typescript-validation-libraries-heres-what-surprised-me-325g",
+     "score": 74,
+     "comments": 31,
+     "author": "nyaomaru",
+     "tags": [
+      "typescript",
+      "opensource",
+      "webdev",
+      "frontend"
+     ],
+     "desc": "Hoi hoi! 👋 &nbsp;  I'm nyaomaru, a frontend engineer and OSS developer working mostly with...",
+     "time": 1793201873,
+     "id": "4857910"
+    },
+    {
+     "title": "A small, not-so-smart model went from 10% to 99.6% at reading property deeds for $1.15, and it says 'check this line' instead of bluffing",
+     "url": "https://dev.to/advikdivekar/a-small-not-so-smart-model-went-from-10-to-996-at-reading-property-deeds-for-115-and-it-says-490k",
+     "score": 79,
+     "comments": 30,
+     "author": "Advik Divekar",
+     "tags": [
+      "tinker",
+      "hf26challenge",
+      "devchallenge",
+      "hacktoberfest"
+     ],
+     "desc": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady  N 86°29'...",
+     "time": 1792946392,
+     "id": "4916473"
+    },
+    {
+     "title": "Yes, {} + [] = 0. No, JavaScript Isn’t Broken",
+     "url": "https://dev.to/sylwia-lask/yes-0-no-javascript-isnt-broken-14ob",
+     "score": 23,
+     "comments": 10,
+     "author": "Sylwia Laskowska",
+     "tags": [
+      "javascript",
+      "webdev",
+      "node",
+      "programming"
+     ],
+     "desc": "JavaScript is a legendary programming language. Created in the mid-1990s in just 10 days, it was born...",
+     "time": 1793304533,
+     "id": "4943245"
+    },
+    {
+     "title": "The Most Embarrassing Private Key in Web PKI History",
+     "url": "https://dev.to/varshithvhegde/the-most-embarrassing-private-key-in-web-pki-history-f9b",
+     "score": 41,
+     "comments": 24,
+     "author": "Varshith V Hegde",
+     "tags": [
+      "security",
+      "webdev",
+      "devops",
+      "ai"
+     ],
+     "desc": "The strange thing about this incident is that the certificates looked normal.  They had familiar CA...",
+     "time": 1793080567,
+     "id": "4925970"
+    },
+    {
+     "title": "Não precisa ser popular pra compartilhar: minha história até Berlim",
+     "url": "https://dev.to/he4rt/nao-precisa-ser-popular-pra-compartilhar-minha-historia-ate-berlim-1hbc",
+     "score": 142,
+     "comments": 6,
+     "author": "Alicia Marianne Gonçalves",
+     "tags": [
+      "community",
+      "braziliandevs",
+      "career",
+      "onceuponaws"
+     ],
+     "desc": "Hoje não venho escrever algo técnico ou teórico. Hoje vou contar pra vocês como a menina criada nas...",
+     "time": 1793029813,
+     "id": "4914505"
+    }
+   ]
+  },
+  "lobsters": {
+   "items": [
+    {
+     "title": "London meetup",
+     "url": "https://lobste.rs/s/dsrruj",
+     "score": 20,
+     "comments": 11,
+     "author": "prole",
+     "tags": [
+      "event"
+     ],
+     "desc": "<p>Hi everyone,</p>\n<p>I recently saw a post about an NYC lobsters meetup, and am wondering how many people here could make it to a London meetup.</p>\n<p>If more than a couple of people here are based in London and can make it, I'll organise one in central London.</p>\n<p>If you could also let me know which day of the week works best for you, that would be great too!</p>\n<p>Cheers!</p>\n",
+     "time": 1793289403,
+     "id": "dsrruj"
+    },
+    {
+     "title": "NetBSD adds a new Emacs-like text editor called atto",
+     "url": "https://mastodon.sdf.org/@netbsd/117518160563539748",
+     "score": 43,
+     "comments": 25,
+     "author": "luke8086",
+     "tags": [
+      "editors",
+      "netbsd"
+     ],
+     "desc": "",
+     "time": 1793257080,
+     "id": "m6fw0x"
+    },
+    {
+     "title": "What the fox say?",
+     "url": "https://entropicthoughts.com/what-the-fox-say",
+     "score": 58,
+     "comments": 12,
+     "author": "kqr",
+     "tags": [
+      "games"
+     ],
+     "desc": "",
+     "time": 1793238160,
+     "id": "7qaac6"
+    },
+    {
+     "title": "Shared password manager for families?",
+     "url": "https://lobste.rs/s/eccbci",
+     "score": 26,
+     "comments": 32,
+     "author": "icefox",
+     "tags": [
+      "ask",
+      "security"
+     ],
+     "desc": "<p>Long story short, I need to have a bunch of shared accounts with family for finance and insurance and stuff, mostly for the sake of family members who are getting old and need help keeping things organized.  So the requirements are:</p>\n<ul>\n<li>Shared over long distances; just having each of us have our own password manager won't work well</li>\n<li>Usable for non-techie people, so no command line stuff</li>\n<li>I can self-host a web thing if necessary</li>\n<li>Works on Linux and MacOS/iOS</li>\n</ul>\n<p>I <em>would</em> just use 1Password, but recent events have demonstrated them as not exactly competent.  I could always use KeepassXC and keep the file in a Google Drive folder, or maybe teach my siblings to use Syncthing, but that feels like extra steps we could do without.  Anyone have any recommendations for how to do this well?</p>\n",
+     "time": 1793266791,
+     "id": "eccbci"
+    },
+    {
+     "title": "My favourite PowerMac is a Nintendo Wii",
+     "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+     "score": 31,
+     "comments": 1,
+     "author": "ninakali",
+     "tags": [
+      "retrocomputing",
+      "reversing"
+     ],
+     "desc": "",
+     "time": 1793273538,
+     "id": "siebde"
+    },
+    {
+     "title": "C2PA's eMudhra Moment",
+     "url": "https://www.da.vidbuchanan.co.uk/blog/c2pa-four.html",
+     "score": 10,
+     "comments": 0,
+     "author": "retr0id",
+     "tags": [
+      "cryptography",
+      "security"
+     ],
+     "desc": "",
+     "time": 1793288024,
+     "id": "2matgw"
+    },
+    {
+     "title": "Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5",
+     "url": "https://divagr.com/blog/qwenputer",
+     "score": 41,
+     "comments": 4,
+     "author": "ndr",
+     "tags": [
+      "ai"
+     ],
+     "desc": "",
+     "time": 1793250004,
+     "id": "zftely"
+    },
+    {
+     "title": "EMACS turns 50",
+     "url": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
+     "score": 74,
+     "comments": 9,
+     "author": "facundoolano",
+     "tags": [
+      "emacs",
+      "historical"
+     ],
+     "desc": "",
+     "time": 1793213832,
+     "id": "uimyck"
+    },
+    {
+     "title": "Apple's git still trusts the compromised eMudhra certificates",
+     "url": "https://emudhra.we-have-a-problem.com/apple.html",
+     "score": 119,
+     "comments": 26,
+     "author": "galadran",
+     "tags": [
+      "cryptography",
+      "mac"
+     ],
+     "desc": "",
+     "time": 1793167436,
+     "id": "xybmsj"
+    },
+    {
+     "title": "Phorge",
+     "url": "https://www.phorge.it/",
+     "score": 13,
+     "comments": 6,
+     "author": "miro",
+     "tags": [
+      "php",
+      "vcs"
+     ],
+     "desc": "",
+     "time": 1793272127,
+     "id": "tw3rsp"
+    },
+    {
+     "title": "GitLab security incident: attempted exploitation of CVE-2026-97229",
+     "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+     "score": 42,
+     "comments": 6,
+     "author": "durrendal",
+     "tags": [
+      "linux",
+      "security"
+     ],
+     "desc": "",
+     "time": 1793210486,
+     "id": "2zsjwt"
+    },
+    {
+     "title": "Building NixOS using Nixtamal",
+     "url": "https://nixtamal.toast.al/cookbook/nixos-using-nixtamal/",
+     "score": 6,
+     "comments": 5,
+     "author": "toastal",
+     "tags": [
+      "nix"
+     ],
+     "desc": "",
+     "time": 1793263555,
+     "id": "4x3ten"
+    },
+    {
+     "title": "Why Is This Fingerprinting Script Creating Bioweapons?",
+     "url": "https://nullpt.rs/fingerprinting-bioweapons",
+     "score": 111,
+     "comments": 11,
+     "author": "haze",
+     "tags": [
+      "reversing"
+     ],
+     "desc": "",
+     "time": 1793195715,
+     "id": "gvy5gz"
+    },
+    {
+     "title": "XSS in yarr RSS reader",
+     "url": "https://0x67673068.me/xss-in-yarr/",
+     "score": 5,
+     "comments": 0,
+     "author": "zk",
+     "tags": [
+      "go",
+      "security",
+      "web"
+     ],
+     "desc": "<p>Note: The dark mode of this site is kind of hard to read.</p>\n",
+     "time": 1793300154,
+     "id": "1r7enm"
+    },
+    {
+     "title": "Extremely brief history of PDP computers",
+     "url": "https://entropicthoughts.com/history-of-pdp-computers",
+     "score": 8,
+     "comments": 3,
+     "author": "icefox",
+     "tags": [
+      "hardware",
+      "historical"
+     ],
+     "desc": "",
+     "time": 1793267289,
+     "id": "ldvd3n"
+    }
+   ]
+  }
+ },
+ "crypto": [
+  {
+   "id": "bitcoin",
+   "name": "BTC 比特币",
+   "cny": 512093,
+   "change": -4.731258048029213
+  },
+  {
+   "id": "ethereum",
+   "name": "ETH 以太坊",
+   "cny": 14596.93,
+   "change": -6.26348169519729
+  },
+  {
+   "id": "binancecoin",
+   "name": "BNB 币安币",
+   "cny": 4626.54,
+   "change": -7.806244147087995
+  },
+  {
+   "id": "solana",
+   "name": "SOL",
+   "cny": 625.15,
+   "change": -7.255526298259701
+  },
+  {
+   "id": "ripple",
+   "name": "XRP 瑞波",
+   "cny": 8.05,
+   "change": -8.043662370577117
+  },
+  {
+   "id": "dogecoin",
+   "name": "DOGE",
+   "cny": 0.492913,
+   "change": -6.454190903702825
+  },
+  {
+   "id": "cardano",
+   "name": "ADA 艾达",
+   "cny": 1.24,
+   "change": -8.11921811078162
+  },
+  {
+   "id": "tron",
+   "name": "TRX 波场",
+   "cny": 2.38,
+   "change": 8.546826502634291
+  }
+ ]
+}
