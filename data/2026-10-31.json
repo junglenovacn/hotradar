@@ -1,0 +1,1096 @@
+{
+ "date": "2026-10-31",
+ "generated_at": "2026-10-31T09:26:14+08:00",
+ "sources": {
+  "hackernews": {
+   "items": [
+    {
+     "title": "My favourite PowerMac is a Nintendo Wii",
+     "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+     "score": 241,
+     "comments": 64,
+     "author": "DHowett",
+     "tags": [],
+     "desc": "",
+     "time": 1793381115,
+     "id": "50307190"
+    },
+    {
+     "title": "Cloudflare Turnstile solver library (no headless browser required)",
+     "url": "https://github.com/chris124567/cfsolve",
+     "score": 73,
+     "comments": 25,
+     "author": "costco",
+     "tags": [],
+     "desc": "",
+     "time": 1793208563,
+     "id": "50277379"
+    },
+    {
+     "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+     "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+     "score": 771,
+     "comments": 483,
+     "author": "_chall",
+     "tags": [],
+     "desc": "",
+     "time": 1793344152,
+     "id": "50300683"
+    },
+    {
+     "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+     "url": "https://tng.episodle.com/",
+     "score": 35,
+     "comments": 12,
+     "author": "francisofascii",
+     "tags": [],
+     "desc": "",
+     "time": 1793404284,
+     "id": "50311686"
+    },
+    {
+     "title": "Northflank Breached",
+     "url": "https://status.northflank.com",
+     "score": 357,
+     "comments": 272,
+     "author": "js4ever",
+     "tags": [],
+     "desc": "",
+     "time": 1793373031,
+     "id": "50305025"
+    },
+    {
+     "title": "Infinite Mac: BeOS",
+     "url": "https://blog.persistent.info/2026/10/infinite-mac-beos.html",
+     "score": 104,
+     "comments": 33,
+     "author": "ecliptik",
+     "tags": [],
+     "desc": "",
+     "time": 1793388609,
+     "id": "50309029"
+    },
+    {
+     "title": "Breaking the open web won't stop the bad bots",
+     "url": "https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/",
+     "score": 188,
+     "comments": 78,
+     "author": "raybb",
+     "tags": [],
+     "desc": "",
+     "time": 1793126575,
+     "id": "50263837"
+    },
+    {
+     "title": "Jules Verne's Lost Novel",
+     "url": "https://blue-continuum.com/verne-paris",
+     "score": 79,
+     "comments": 14,
+     "author": "dnetesn",
+     "tags": [],
+     "desc": "",
+     "time": 1793390110,
+     "id": "50309314"
+    },
+    {
+     "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+     "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+     "score": 306,
+     "comments": 216,
+     "author": "domhudson",
+     "tags": [],
+     "desc": "",
+     "time": 1793364601,
+     "id": "50303172"
+    },
+    {
+     "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+     "url": "https://github.com/dbreunig/nesformer",
+     "score": 189,
+     "comments": 111,
+     "author": "dbreunig",
+     "tags": [],
+     "desc": "",
+     "time": 1793378422,
+     "id": "50306442"
+    },
+    {
+     "title": "sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
+     "url": "https://www.firezone.dev/blog/introducing-sanstun",
+     "score": 56,
+     "comments": 10,
+     "author": "wh33zle",
+     "tags": [],
+     "desc": "",
+     "time": 1793395800,
+     "id": "50310398"
+    },
+    {
+     "title": "The oldest ice disappears and the Stone Age emerges from it",
+     "url": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
+     "score": 87,
+     "comments": 31,
+     "author": "dxs",
+     "tags": [],
+     "desc": "",
+     "time": 1793389893,
+     "id": "50309266"
+    },
+    {
+     "title": "Florilegium: Procedural Flowers in LaTeX",
+     "url": "https://github.com/kevinraymond/florilegium",
+     "score": 215,
+     "comments": 36,
+     "author": "nanna",
+     "tags": [],
+     "desc": "",
+     "time": 1793375292,
+     "id": "50305637"
+    },
+    {
+     "title": "Do At-Proto Users Know This Is Public?",
+     "url": "https://melaniekat.com/blog/public-on-pds/",
+     "score": 3,
+     "comments": 0,
+     "author": "rowbin",
+     "tags": [],
+     "desc": "",
+     "time": 1793408783,
+     "id": "50312221"
+    },
+    {
+     "title": "The federated code forge",
+     "url": "https://tangled.org/blog/forge/",
+     "score": 231,
+     "comments": 77,
+     "author": "zlliang",
+     "tags": [],
+     "desc": "",
+     "time": 1793375069,
+     "id": "50305573"
+    },
+    {
+     "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+     "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
+     "score": 199,
+     "comments": 119,
+     "author": "apress",
+     "tags": [],
+     "desc": "",
+     "time": 1793391810,
+     "id": "50309647"
+    },
+    {
+     "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
+     "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+     "score": 261,
+     "comments": 51,
+     "author": "swq115",
+     "tags": [],
+     "desc": "",
+     "time": 1793354775,
+     "id": "50301854"
+    },
+    {
+     "title": "Turning a solar power system into its own backup",
+     "url": "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/",
+     "score": 32,
+     "comments": 10,
+     "author": "PaulHoule",
+     "tags": [],
+     "desc": "",
+     "time": 1793297433,
+     "id": "50293437"
+    },
+    {
+     "title": "Linode Security Incident",
+     "url": "https://status.linode.com/incidents/nt58zhx3pmgm",
+     "score": 141,
+     "comments": 73,
+     "author": "lacoolj",
+     "tags": [],
+     "desc": "",
+     "time": 1793397460,
+     "id": "50310687"
+    },
+    {
+     "title": "Building an AI-native engineering org",
+     "url": "https://twitter.com/sgondala2/status/2115832070274723875",
+     "score": 110,
+     "comments": 142,
+     "author": "sgondala_ycapp",
+     "tags": [],
+     "desc": "",
+     "time": 1793311114,
+     "id": "50296730"
+    }
+   ]
+  },
+  "github": {
+   "items": [
+    {
+     "title": "unclebob/ub-mode",
+     "url": "https://github.com/unclebob/ub-mode",
+     "score": 5385,
+     "comments": 8,
+     "author": "unclebob",
+     "tags": [],
+     "desc": "",
+     "time": 1792944249,
+     "id": "1433377156"
+    },
+    {
+     "title": "anhao/ai-pose-gallery-zh",
+     "url": "https://github.com/anhao/ai-pose-gallery-zh",
+     "score": 3975,
+     "comments": 4,
+     "author": "anhao",
+     "tags": [
+      "HTML"
+     ],
+     "desc": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+     "time": 1793103877,
+     "id": "1435695423"
+    },
+    {
+     "title": "interplains/Zero-Breach-Toolkit",
+     "url": "https://github.com/interplains/Zero-Breach-Toolkit",
+     "score": 3873,
+     "comments": 8,
+     "author": "interplains",
+     "tags": [
+      "Python"
+     ],
+     "desc": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
+     "time": 1792939294,
+     "id": "1433297111"
+    },
+    {
+     "title": "designfuchen/word-atlas",
+     "url": "https://github.com/designfuchen/word-atlas",
+     "score": 3370,
+     "comments": 26,
+     "author": "designfuchen",
+     "tags": [
+      "TypeScript"
+     ],
+     "desc": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
+     "time": 1792916842,
+     "id": "1432980411"
+    },
+    {
+     "title": "ccch1mneyyy/dsh-Go",
+     "url": "https://github.com/ccch1mneyyy/dsh-Go",
+     "score": 2533,
+     "comments": 132,
+     "author": "ccch1mneyyy",
+     "tags": [
+      "Dart"
+     ],
+     "desc": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+     "time": 1792915792,
+     "id": "1432967563"
+    },
+    {
+     "title": "valentderah/totk-pc-recomp",
+     "url": "https://github.com/valentderah/totk-pc-recomp",
+     "score": 1601,
+     "comments": 136,
+     "author": "valentderah",
+     "tags": [
+      "C"
+     ],
+     "desc": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.",
+     "time": 1793277166,
+     "id": "1438394948"
+    },
+    {
+     "title": "andyhuo520/digital-human-koubo",
+     "url": "https://github.com/andyhuo520/digital-human-koubo",
+     "score": 1555,
+     "comments": 3,
+     "author": "andyhuo520",
+     "tags": [
+      "TypeScript"
+     ],
+     "desc": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+     "time": 1792989249,
+     "id": "1433904617"
+    },
+    {
+     "title": "qybaihe/bla",
+     "url": "https://github.com/qybaihe/bla",
+     "score": 1414,
+     "comments": 1,
+     "author": "qybaihe",
+     "tags": [
+      "TypeScript"
+     ],
+     "desc": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
+     "time": 1792905945,
+     "id": "1432859403"
+    },
+    {
+     "title": "wangzan101/Mika",
+     "url": "https://github.com/wangzan101/Mika",
+     "score": 1365,
+     "comments": 13,
+     "author": "wangzan101",
+     "tags": [
+      "Kotlin"
+     ],
+     "desc": "Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.",
+     "time": 1793284447,
+     "id": "1438540053"
+    },
+    {
+     "title": "DenisSergeevitch/ex-ussr-kinship-research",
+     "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
+     "score": 1346,
+     "comments": 1,
+     "author": "DenisSergeevitch",
+     "tags": [
+      "Python"
+     ],
+     "desc": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
+     "time": 1792922756,
+     "id": "1433057196"
+    },
+    {
+     "title": "heydamir/unslop",
+     "url": "https://github.com/heydamir/unslop",
+     "score": 1299,
+     "comments": 3,
+     "author": "heydamir",
+     "tags": [
+      "JavaScript"
+     ],
+     "desc": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+     "time": 1793288481,
+     "id": "1438623288"
+    },
+    {
+     "title": "aschmelyun/print-my-profile-pic",
+     "url": "https://github.com/aschmelyun/print-my-profile-pic",
+     "score": 1214,
+     "comments": 5,
+     "author": "aschmelyun",
+     "tags": [],
+     "desc": "Say cheese! Star this repo and your profile picture gets printed out on a receipt printer.",
+     "time": 1793133605,
+     "id": "1436254894"
+    },
+    {
+     "title": "paipiange/nvzhuang",
+     "url": "https://github.com/paipiange/nvzhuang",
+     "score": 1206,
+     "comments": 0,
+     "author": "paipiange",
+     "tags": [
+      "Go"
+     ],
+     "desc": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+     "time": 1793254080,
+     "id": "1438018242"
+    },
+    {
+     "title": "Motionsites-AI/claude-skill",
+     "url": "https://github.com/Motionsites-AI/claude-skill",
+     "score": 1188,
+     "comments": 0,
+     "author": "Motionsites-AI",
+     "tags": [
+      "Python"
+     ],
+     "desc": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
+     "time": 1792997925,
+     "id": "1434017230"
+    },
+    {
+     "title": "smithjohn78390/tongjiang-lab",
+     "url": "https://github.com/smithjohn78390/tongjiang-lab",
+     "score": 1101,
+     "comments": 13,
+     "author": "smithjohn78390",
+     "tags": [
+      "HTML"
+     ],
+     "desc": "Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app",
+     "time": 1793161769,
+     "id": "1436598075"
+    },
+    {
+     "title": "KillaBoi/StealMyBitcoin-PoC",
+     "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
+     "score": 1017,
+     "comments": 3,
+     "author": "KillaBoi",
+     "tags": [
+      "Python"
+     ],
+     "desc": "A public release of the Steal My Bitcoin challenge",
+     "time": 1792964912,
+     "id": "1433653089"
+    },
+    {
+     "title": "lexifina/global-law",
+     "url": "https://github.com/lexifina/global-law",
+     "score": 988,
+     "comments": 4,
+     "author": "lexifina",
+     "tags": [
+      "HTML"
+     ],
+     "desc": "Git for Global Law: the law of every country as one git history, each country's record a submodule, every commit one law taking effect",
+     "time": 1793194456,
+     "id": "1437131455"
+    },
+    {
+     "title": "ZiChuanLan/agent-purge",
+     "url": "https://github.com/ZiChuanLan/agent-purge",
+     "score": 913,
+     "comments": 0,
+     "author": "ZiChuanLan",
+     "tags": [
+      "JavaScript"
+     ],
+     "desc": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
+     "time": 1792908362,
+     "id": "1432883796"
+    },
+    {
+     "title": "deepopen-com/deepopen-3d-webs",
+     "url": "https://github.com/deepopen-com/deepopen-3d-webs",
+     "score": 878,
+     "comments": 0,
+     "author": "deepopen-com",
+     "tags": [
+      "Python"
+     ],
+     "desc": "Image-driven 3D scene generation system. Users provide a reference image and prompt words, and the system generates previewable, replayable, and traceable scene results according to the camera trajectory; official 3D demonstration assets allow direct viewing of color/depth animations and Gaussian point clouds in the browser 图像驱动的三维场景生成系统",
+     "time": 1793016827,
+     "id": "1434335249"
+    },
+    {
+     "title": "kargulstudio/calender-app-design",
+     "url": "https://github.com/kargulstudio/calender-app-design",
+     "score": 830,
+     "comments": 3,
+     "author": "kargulstudio",
+     "tags": [
+      "TypeScript"
+     ],
+     "desc": "",
+     "time": 1793039936,
+     "id": "1434789878"
+    }
+   ]
+  },
+  "v2ex": {
+   "items": [
+    {
+     "title": "就是想买，有人劝醒我么？",
+     "url": "https://www.v2ex.com/t/1253091",
+     "score": 0,
+     "comments": 184,
+     "author": "Roy0526",
+     "tags": [
+      "摄影"
+     ],
+     "desc": "以前也没玩过微单，所以想买一个微单来拍拍娃和风景。毕竟也不便宜，怕冲动消费最后吃灰（无人机还在吃灰）。\r\n已经拖了半个多月，越拖越想买。\r\n机器考虑：a7c2 （ 8300 ）、a7m5 （ 13500 ）\r\n镜头: 20mm-70mm f4 (5800)\r\n有没有买过之后一直吃灰的过来人劝一下。",
+     "time": 1793327455,
+     "id": "1253091"
+    },
+    {
+     "title": "我没有任何办法用 Claude 了吗？",
+     "url": "https://www.v2ex.com/t/1253076",
+     "score": 0,
+     "comments": 135,
+     "author": "ggp1ot2",
+     "tags": [
+      "Claude"
+     ],
+     "desc": "有一个 Google 老号，今年 1 月订阅 Max 到这个月初，一切好好的\r\n\r\n10 月中旬，这个老号，直接被封。\r\n\r\n然后立刻，换了一个相对老一点的 gmail 账号，重新订阅 Max\r\n\r\n用到今天早上弹认证，然后 CN 护照认证，直接被封\r\n\r\n然后又用了一个比较新的 gmail ，开通 Max ，支付成功",
+     "time": 1793326377,
+     "id": "1253076"
+    },
+    {
+     "title": "第一次相亲的一点情况",
+     "url": "https://www.v2ex.com/t/1253104",
+     "score": 0,
+     "comments": 127,
+     "author": "Orris",
+     "tags": [
+      "生活"
+     ],
+     "desc": "### 介绍认识\r\n\r\n对方父母和我家里人比较熟悉，他们得知双方子女都没有对象后，遂起了介绍双方子女认识的心思。\r\n\r\n我起初不想相亲，因为我知道我不会聊天也不会追人。但迫于家中的压力，我还是同意了。\r\n\r\n双方先经过父母交换了照片，觉得都还可以，然后对方提出想见一面线下聊，看看有没有眼缘。我和对方加了微信，聊了一会，",
+     "time": 1793328423,
+     "id": "1253104"
+    },
+    {
+     "title": "为啥这帮煞笔前端设计师，把 PC WEB 滚动条 搞 那么细？",
+     "url": "https://www.v2ex.com/t/1253068",
+     "score": 0,
+     "comments": 114,
+     "author": "archxm",
+     "tags": [
+      "程序员"
+     ],
+     "desc": "- 纯吐槽，不知道大家有没有同感？\r\n- 鼠标很难准确点到，需要仔细，浪费大脑算力，浪费眼力。\r\n- 这帮设计师是怎么想的，自己网站，自己不用？",
+     "time": 1793325712,
+     "id": "1253068"
+    },
+    {
+     "title": "有女朋友但是看到胸大屁股大的女生内心还是蠢蠢欲动",
+     "url": "https://www.v2ex.com/t/1253134",
+     "score": 0,
+     "comments": 110,
+     "author": "jiashuaishi666",
+     "tags": [
+      "生活"
+     ],
+     "desc": "本人恪守原则，恋爱也谈过几段期间也没什么出轨等狗血剧情。\r\n\r\n这段是最久的，也是第一个进入身体的，之前的恋爱都是比较克制而且淡淡的，坚持了两年主要原因就是 x 生活比较和谐，但是每次走在街上还是忍不住观察，遇到惊艳的身体就想入非非。我想我就算结婚了有了一定的财富和地位可能也不安分守己，每次想到这里就心乱如麻。",
+     "time": 1793331904,
+     "id": "1253134"
+    },
+    {
+     "title": "推荐一款日常打字聊天就可以顺便学习英语的工具",
+     "url": "https://www.v2ex.com/t/1253095",
+     "score": 0,
+     "comments": 79,
+     "author": "vjodjfo",
+     "tags": [
+      "macOS"
+     ],
+     "desc": "![Glint：输入中文，顺手看见英文]( https://raw.githubusercontent.com/jsogn/Glint/main/docs/assets/glint-video-cover-clean.jpg)\r\n\r\nGlint 是一个 macOS 工具，把中文输入法候选变成英文记忆入口。用简体拼音正常",
+     "time": 1793328122,
+     "id": "1253095"
+    },
+    {
+     "title": "同居一年，男友却要每周出去一天",
+     "url": "https://www.v2ex.com/t/1253058",
+     "score": 0,
+     "comments": 77,
+     "author": "liuhuakawaii",
+     "tags": [
+      "生活"
+     ],
+     "desc": "听我老婆讲了一个公司里的瓜。\r\n\r\nA 和 B 谈了两年，分手时对外说的原因是 B 要去异地。后来有人继续往下扒，才发现事情很玄妙\r\n\r\n两人之前同居过一年。那段时间，B 要求 A 每周固定有一天出去住，因为她要把前男友 C 叫到家里做饭、吃饭。B 解释说，她和 C 之间是“灵魂救赎”的关系，两个人清清白白，只是互相帮",
+     "time": 1793324853,
+     "id": "1253058"
+    },
+    {
+     "title": "AppleTV 看不了国内的优爱腾，国际版的会员要另开，于是……",
+     "url": "https://www.v2ex.com/t/1253203",
+     "score": 0,
+     "comments": 66,
+     "author": "ricwangcom",
+     "tags": [
+      "Apple"
+     ],
+     "desc": "用过 AppleTV 的都懂，体验不是安卓 TV 能比的  \r\n但国内的流媒体搞不定啊   \r\n于是用 gpt 、glm 写了个 AppleTV 的客户端和服务端  \r\n服务端跑在 windows 机器上，为啥？用于转发 windows 端的四大视频网站的 app  \r\n有人问为啥不用 web 接口？因为 web 接口",
+     "time": 1793343563,
+     "id": "1253203"
+    }
+   ]
+  },
+  "reddit": {
+   "items": []
+  },
+  "devto": {
+   "items": [
+    {
+     "title": "Your DEV posts have a beautiful new share card ✨",
+     "url": "https://dev.to/devteam/your-dev-posts-have-a-beautiful-new-share-card-4be8",
+     "score": 149,
+     "comments": 34,
+     "author": "Jess Lee",
+     "tags": [
+      "devto",
+      "showdev",
+      "opensource",
+      "design"
+     ],
+     "desc": "The image that shows up when you share a DEV post just got a brand-new look!  I got to work on...",
+     "time": 1793119469,
+     "id": "4929664"
+    },
+    {
+     "title": "I Earned a Seat at GitHub Universe. It'll Stay Empty, and That's Not Fair",
+     "url": "https://dev.to/georgekobaidze/i-earned-a-seat-at-github-universe-itll-stay-empty-and-thats-not-fair-3d7k",
+     "score": 142,
+     "comments": 94,
+     "author": "Giorgi Kobaidze",
+     "tags": [
+      "conference",
+      "github"
+     ],
+     "desc": "Why Am I Writing This?   I'm writing this to show how unfair the world we live in can be,...",
+     "time": 1792910660,
+     "id": "4913784"
+    },
+    {
+     "title": "I'm Not on the DEV Team. I Still Debugged Their Missing Badges From Public Code. (And My First Test Was Wrong.)",
+     "url": "https://dev.to/dj29/im-not-on-the-dev-team-i-still-debugged-their-missing-badges-from-public-code-and-my-first-test-18oo",
+     "score": 139,
+     "comments": 63,
+     "author": "Dhruv Jani",
+     "tags": [
+      "opensource",
+      "ruby",
+      "rails",
+      "testing"
+     ],
+     "desc": "I’m not on the DEV team. I don’t have an admin panel, production database access, or internal Slack....",
+     "time": 1792865574,
+     "id": "4911807"
+    },
+    {
+     "title": "Yes, {} + [] = 0. No, JavaScript Isn’t Broken",
+     "url": "https://dev.to/sylwia-lask/yes-0-no-javascript-isnt-broken-14ob",
+     "score": 97,
+     "comments": 62,
+     "author": "Sylwia Laskowska",
+     "tags": [
+      "javascript",
+      "webdev",
+      "node",
+      "programming"
+     ],
+     "desc": "JavaScript is a legendary programming language. Created in the mid-1990s in just 10 days, it was born...",
+     "time": 1793304533,
+     "id": "4943245"
+    },
+    {
+     "title": "Doors I Walked Through to Reach DEV",
+     "url": "https://dev.to/devengers/doors-i-walked-through-to-reach-dev-5294",
+     "score": 140,
+     "comments": 89,
+     "author": "Giorgi Kobaidze",
+     "tags": [
+      "career",
+      "community",
+      "writing",
+      "devengers"
+     ],
+     "desc": "Table of Contents    Knock, Knock: The First Domino The Numbers and a Plot Twist How Did I...",
+     "time": 1793033179,
+     "id": "4916139"
+    },
+    {
+     "title": "Stratagems #32: The AI Logged a Withdrawal. P Took It as Proof.",
+     "url": "https://dev.to/xulingfeng/stratagems-32-the-ai-logged-a-withdrawal-p-took-it-as-proof-2jo2",
+     "score": 110,
+     "comments": 81,
+     "author": "xulingfeng",
+     "tags": [
+      "ai",
+      "discuss",
+      "programming",
+      "career"
+     ],
+     "desc": "Make empty what is already empty. Let doubt breed inside doubt. — The 36 Stratagems, The Empty Fort...",
+     "time": 1793119577,
+     "id": "4929675"
+    },
+    {
+     "title": "No Human Will Ever Write Code Better Than LLMs? Better at What?",
+     "url": "https://dev.to/dannwaneri/no-human-will-ever-write-code-better-than-llms-better-at-what-1dme",
+     "score": 49,
+     "comments": 39,
+     "author": "Daniel Nwaneri",
+     "tags": [
+      "ai",
+      "programming",
+      "softwareengineering",
+      "career"
+     ],
+     "desc": "A tweet went around saying: \"No human will ever write code better than LLMs. Accept this fact, stop...",
+     "time": 1793266459,
+     "id": "4919957"
+    },
+    {
+     "title": "HEXAW programming language for WebAssembly instead WAT",
+     "url": "https://dev.to/pengeszikra/hexaw-a-lazy-wasm-text-format-5g5n",
+     "score": 46,
+     "comments": 15,
+     "author": "Peter Vivo",
+     "tags": [
+      "devchallenge",
+      "hf26challenge",
+      "webassembly"
+     ],
+     "desc": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady          ...",
+     "time": 1792966222,
+     "id": "4917658"
+    },
+    {
+     "title": "When Recovering From Burnout, Writing Became My Therapy. And This Week My First Coding Book Turns 1 Year Old. Ask Me Anything!",
+     "url": "https://dev.to/canro91/to-recover-from-burnout-writing-became-my-therapy-and-this-week-my-first-coding-book-turns-1-year-388e",
+     "score": 42,
+     "comments": 41,
+     "author": "Cesar Aguirre",
+     "tags": [
+      "discuss",
+      "watercooler",
+      "ama",
+      "coding"
+     ],
+     "desc": "Hi, I'm Cesar, a Senior Software Engineer with 10+ years of experience.  In 2023, I got sick and...",
+     "time": 1792990800,
+     "id": "4784405"
+    },
+    {
+     "title": "🐾 DEV Pet Corner #3: Show Us Your Pets!",
+     "url": "https://dev.to/hemapriya_kanagala/dev-pet-corner-3-show-us-your-pets-35n",
+     "score": 78,
+     "comments": 15,
+     "author": "Hemapriya Kanagala",
+     "tags": [
+      "discuss",
+      "community",
+      "watercooler",
+      "pets"
+     ],
+     "desc": "TL;DR  DEV Pet Corner is back for another Sunday! It's a weekly series where we take a little break...",
+     "time": 1792952912,
+     "id": "4917021"
+    },
+    {
+     "title": "Is Tech Actually Welcoming to Beginners, or Do We Just Say It Is?",
+     "url": "https://dev.to/sizzlebop/is-tech-actually-welcoming-to-beginners-or-do-we-just-say-it-is-3d6p",
+     "score": 40,
+     "comments": 27,
+     "author": "Jessica Doering",
+     "tags": [
+      "discuss",
+      "beginners",
+      "community",
+      "womenintech"
+     ],
+     "desc": "We hear it all the time in tech.  Everyone starts somewhere. There are no stupid questions. Don't be...",
+     "time": 1793293094,
+     "id": "4942466"
+    },
+    {
+     "title": "I Compared 6 TypeScript Validation Libraries. Here's What Surprised Me 🤔",
+     "url": "https://dev.to/nyaomaru/i-compared-6-typescript-validation-libraries-heres-what-surprised-me-325g",
+     "score": 94,
+     "comments": 42,
+     "author": "nyaomaru",
+     "tags": [
+      "typescript",
+      "opensource",
+      "webdev",
+      "frontend"
+     ],
+     "desc": "Hoi hoi! 👋 &nbsp;  I'm nyaomaru, a frontend engineer and OSS developer working mostly with...",
+     "time": 1793201873,
+     "id": "4857910"
+    },
+    {
+     "title": "A small, not-so-smart model went from 10% to 99.6% at reading property deeds for $1.15, and it says 'check this line' instead of bluffing",
+     "url": "https://dev.to/advikdivekar/a-small-not-so-smart-model-went-from-10-to-996-at-reading-property-deeds-for-115-and-it-says-490k",
+     "score": 82,
+     "comments": 35,
+     "author": "Advik Divekar",
+     "tags": [
+      "tinker",
+      "hf26challenge",
+      "devchallenge",
+      "hacktoberfest"
+     ],
+     "desc": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady  N 86°29'...",
+     "time": 1792946392,
+     "id": "4916473"
+    },
+    {
+     "title": "The Most Embarrassing Private Key in Web PKI History",
+     "url": "https://dev.to/varshithvhegde/the-most-embarrassing-private-key-in-web-pki-history-f9b",
+     "score": 53,
+     "comments": 26,
+     "author": "Varshith V Hegde",
+     "tags": [
+      "security",
+      "webdev",
+      "devops",
+      "ai"
+     ],
+     "desc": "The strange thing about this incident is that the certificates looked normal.  They had familiar CA...",
+     "time": 1793080567,
+     "id": "4925970"
+    },
+    {
+     "title": "I Almost Paid ₹1,499 for Prime Video I Never Use. An Open-Source AI Model Caught It.",
+     "url": "https://dev.to/sarvar_04/i-almost-paid-1499-for-prime-video-i-never-use-an-open-source-ai-model-caught-it-1egm",
+     "score": 44,
+     "comments": 21,
+     "author": "Sarvar Nadaf",
+     "tags": [
+      "devchallenge",
+      "hf26challenge",
+      "ai",
+      "discuss"
+     ],
+     "desc": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine    ...",
+     "time": 1793277460,
+     "id": "4938623"
+    }
+   ]
+  },
+  "lobsters": {
+   "items": [
+    {
+     "title": "Backdoors in Claude Code for VS, Cursor official extensions",
+     "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
+     "score": 140,
+     "comments": 37,
+     "author": "dsr",
+     "tags": [
+      "security"
+     ],
+     "desc": "",
+     "time": 1793340295,
+     "id": "ttp7aq"
+    },
+    {
+     "title": "Do At-Proto Users Know This Is Public?",
+     "url": "https://melaniekat.com/blog/public-on-pds/",
+     "score": 78,
+     "comments": 18,
+     "author": "robalex",
+     "tags": [
+      "privacy"
+     ],
+     "desc": "",
+     "time": 1793341363,
+     "id": "htgcuc"
+    },
+    {
+     "title": "No, npm, “estee” is not a typo of “testem”",
+     "url": "https://smoores.dev/post/no_npm_estee_is_not_a_typo/",
+     "score": 27,
+     "comments": 19,
+     "author": "smoores",
+     "tags": [
+      "javascript"
+     ],
+     "desc": "",
+     "time": 1793354516,
+     "id": "xudbqx"
+    },
+    {
+     "title": "The federated code forge",
+     "url": "https://tangled.org/blog/forge/",
+     "score": 25,
+     "comments": 13,
+     "author": "novedevo",
+     "tags": [
+      "distributed",
+      "vcs"
+     ],
+     "desc": "",
+     "time": 1793365074,
+     "id": "ukj8mm"
+    },
+    {
+     "title": "How hard is it to check for whitespace?",
+     "url": "https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace",
+     "score": 10,
+     "comments": 1,
+     "author": "serce",
+     "tags": [
+      "java",
+      "performance"
+     ],
+     "desc": "",
+     "time": 1793381149,
+     "id": "1pmuy7"
+    },
+    {
+     "title": "Infinite Mac: BeOS",
+     "url": "https://blog.persistent.info/2026/10/infinite-mac-beos.html",
+     "score": 27,
+     "comments": 5,
+     "author": "manuel",
+     "tags": [
+      "retrocomputing"
+     ],
+     "desc": "",
+     "time": 1793358416,
+     "id": "fskctn"
+    },
+    {
+     "title": "How curl was accidentally Turing-complete for nine months",
+     "url": "https://seriot.ch/computation/curl.html",
+     "score": 70,
+     "comments": 6,
+     "author": "kytta",
+     "tags": [
+      "compsci"
+     ],
+     "desc": "",
+     "time": 1793327041,
+     "id": "f4aqog"
+    },
+    {
+     "title": "If you love a website, back it up",
+     "url": "http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
+     "score": 75,
+     "comments": 21,
+     "author": "calvin",
+     "tags": [
+      "web"
+     ],
+     "desc": "",
+     "time": 1793305740,
+     "id": "6ole9g"
+    },
+    {
+     "title": "Shrinking NixOS Ram footprint and resource requirements to the bare minimum",
+     "url": "https://lowendspirit.com/discussion/11543/shrinking-nixos-ram-footprint-and-resource-requirements-to-the-bare-minimum",
+     "score": 14,
+     "comments": 6,
+     "author": "msangi",
+     "tags": [
+      "nix"
+     ],
+     "desc": "",
+     "time": 1793354684,
+     "id": "o1z9mm"
+    },
+    {
+     "title": "What are you doing this weekend?",
+     "url": "https://lobste.rs/s/u7dsbx",
+     "score": 19,
+     "comments": 36,
+     "author": "caius",
+     "tags": [
+      "ask",
+      "programming"
+     ],
+     "desc": "<p>Feel free to tell what you plan on doing this weekend and even ask for help or feedback.</p>\n<p>Please keep in mind it’s more than OK to do nothing at all too!</p>\n",
+     "time": 1793336120,
+     "id": "u7dsbx"
+    },
+    {
+     "title": "Protecting against CVE-2026-98432",
+     "url": "https://groups.google.com/g/golang-announce/c/PCoQcdxoScw",
+     "score": 7,
+     "comments": 0,
+     "author": "func25",
+     "tags": [
+      "go",
+      "security"
+     ],
+     "desc": "",
+     "time": 1793364892,
+     "id": "mp8yqt"
+    },
+    {
+     "title": "London meetup",
+     "url": "https://lobste.rs/s/dsrruj",
+     "score": 60,
+     "comments": 45,
+     "author": "prole",
+     "tags": [
+      "event"
+     ],
+     "desc": "<p>Hi everyone,</p>\n<p>I recently saw a post about an NYC lobsters meetup, and am wondering how many people here could make it to a London meetup.</p>\n<p>If more than a couple of people here are based in London and can make it, I'll organise one in central London.</p>\n<p>If you could also let me know which day of the week works best for you, that would be great too!</p>\n<p>Cheers!</p>\n",
+     "time": 1793289403,
+     "id": "dsrruj"
+    },
+    {
+     "title": "Getting Google Cast on my Soundbar",
+     "url": "https://codon.org.uk/~mjg59/blog/p/getting-google-cast-on-my-soundbar/",
+     "score": 9,
+     "comments": 0,
+     "author": "untitaker",
+     "tags": [
+      "reversing"
+     ],
+     "desc": "",
+     "time": 1793369684,
+     "id": "uyobll"
+    },
+    {
+     "title": "Switch lowering in GCC",
+     "url": "https://xoranth.net/gcc-switch/",
+     "score": 8,
+     "comments": 0,
+     "author": "jo3_l",
+     "tags": [
+      "compilers",
+      "performance"
+     ],
+     "desc": "",
+     "time": 1793372434,
+     "id": "ncclwy"
+    },
+    {
+     "title": "Pidgin 3.0 Alpha 4 2.98.0 has been released",
+     "url": "https://discourse.imfreedom.org/t/pidgin-3-0-alpha-4-2-98-0-has-been-released/445",
+     "score": 18,
+     "comments": 6,
+     "author": "grim",
+     "tags": [
+      "release"
+     ],
+     "desc": "",
+     "time": 1793314699,
+     "id": "qsvspv"
+    }
+   ]
+  }
+ },
+ "crypto": [
+  {
+   "id": "bitcoin",
+   "name": "BTC 比特币",
+   "cny": 515833,
+   "change": 0.8328090472367907
+  },
+  {
+   "id": "ethereum",
+   "name": "ETH 以太坊",
+   "cny": 14939.53,
+   "change": 1.698633925935582
+  },
+  {
+   "id": "binancecoin",
+   "name": "BNB 币安币",
+   "cny": 4705.31,
+   "change": 1.332011269036031
+  },
+  {
+   "id": "solana",
+   "name": "SOL",
+   "cny": 643.08,
+   "change": 2.9402941256839763
+  },
+  {
+   "id": "ripple",
+   "name": "XRP 瑞波",
+   "cny": 8.36,
+   "change": 3.839560850180386
+  },
+  {
+   "id": "dogecoin",
+   "name": "DOGE",
+   "cny": 0.506428,
+   "change": 2.9793370572657456
+  },
+  {
+   "id": "cardano",
+   "name": "ADA 艾达",
+   "cny": 1.3,
+   "change": 4.408947049576904
+  },
+  {
+   "id": "tron",
+   "name": "TRX 波场",
+   "cny": 2.16,
+   "change": -9.92846386467687
+  }
+ ]
+}
