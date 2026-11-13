@@ -1,0 +1,1097 @@
+{
+ "date": "2026-11-13",
+ "generated_at": "2026-11-13T10:25:45+08:00",
+ "sources": {
+  "hackernews": {
+   "items": [
+    {
+     "title": "Jensen Huang resigns",
+     "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+     "score": 3012,
+     "comments": 2823,
+     "author": "lldb",
+     "tags": [],
+     "desc": "",
+     "time": 1794491549,
+     "id": "50467087"
+    },
+    {
+     "title": "Rust 1.100",
+     "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+     "score": 447,
+     "comments": 184,
+     "author": "mbStavola",
+     "tags": [],
+     "desc": "",
+     "time": 1794508745,
+     "id": "50472038"
+    },
+    {
+     "title": "Gemini 4 Hydrogen and Orchestrator",
+     "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+     "score": 314,
+     "comments": 76,
+     "author": "jonbaer",
+     "tags": [],
+     "desc": "",
+     "time": 1794509521,
+     "id": "50472260"
+    },
+    {
+     "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+     "url": "https://github.com/simpsoka/zigzag",
+     "score": 353,
+     "comments": 143,
+     "author": "simpsoka",
+     "tags": [],
+     "desc": "",
+     "time": 1794502962,
+     "id": "50470488"
+    },
+    {
+     "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+     "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+     "score": 205,
+     "comments": 95,
+     "author": "cybermango",
+     "tags": [],
+     "desc": "",
+     "time": 1794510333,
+     "id": "50472490"
+    },
+    {
+     "title": "Foundation Models framework",
+     "url": "https://developer.apple.com/foundation-models-framework/",
+     "score": 133,
+     "comments": 17,
+     "author": "kermatt",
+     "tags": [],
+     "desc": "",
+     "time": 1794518006,
+     "id": "50474361"
+    },
+    {
+     "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+     "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+     "score": 62,
+     "comments": 17,
+     "author": "sroussey",
+     "tags": [],
+     "desc": "",
+     "time": 1794524777,
+     "id": "50475713"
+    },
+    {
+     "title": "Service degradation on Microsoft 365",
+     "url": "https://status.cloud.microsoft/",
+     "score": 531,
+     "comments": 483,
+     "author": "dkpk",
+     "tags": [],
+     "desc": "",
+     "time": 1794507648,
+     "id": "50471731"
+    },
+    {
+     "title": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
+     "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
+     "score": 147,
+     "comments": 22,
+     "author": "ozirus",
+     "tags": [],
+     "desc": "",
+     "time": 1794507742,
+     "id": "50471761"
+    },
+    {
+     "title": "I'm making LLMs work on small and old devices",
+     "url": "https://github.com/hyperionaidev/smolmaxxing/",
+     "score": 282,
+     "comments": 97,
+     "author": "mrashad74",
+     "tags": [],
+     "desc": "",
+     "time": 1794496990,
+     "id": "50468888"
+    },
+    {
+     "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+     "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+     "score": 107,
+     "comments": 101,
+     "author": "anigbrowl",
+     "tags": [],
+     "desc": "",
+     "time": 1794517789,
+     "id": "50474311"
+    },
+    {
+     "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+     "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+     "score": 243,
+     "comments": 84,
+     "author": "klaussilveira",
+     "tags": [],
+     "desc": "",
+     "time": 1794493129,
+     "id": "50467618"
+    },
+    {
+     "title": "Sift: LSP, Lint, Format Lisp, Scheme and Emacs Lisp",
+     "url": "https://github.com/jjba23/sift",
+     "score": 14,
+     "comments": 1,
+     "author": "jjba23",
+     "tags": [],
+     "desc": "",
+     "time": 1794438567,
+     "id": "50460263"
+    },
+    {
+     "title": "Relax: JIT compiler for Rust to reduce build times",
+     "url": "https://makepad.github.io/relax/",
+     "score": 121,
+     "comments": 51,
+     "author": "adamnemecek",
+     "tags": [],
+     "desc": "",
+     "time": 1794432001,
+     "id": "50458849"
+    },
+    {
+     "title": "Chicago schools to Google – we'd rather lose Search than be forced to accept AI",
+     "url": "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html",
+     "score": 50,
+     "comments": 12,
+     "author": "thunderbong",
+     "tags": [],
+     "desc": "",
+     "time": 1794530321,
+     "id": "50476586"
+    },
+    {
+     "title": "Announcement: Conductor Is Back",
+     "url": "https://twitter.com/charlieholtz/status/2120973052024598620",
+     "score": 11,
+     "comments": 6,
+     "author": "jahala",
+     "tags": [],
+     "desc": "",
+     "time": 1794515875,
+     "id": "50473888"
+    },
+    {
+     "title": "Gemini 4 Hydrogen",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+     "score": 471,
+     "comments": 300,
+     "author": "dvaplima",
+     "tags": [],
+     "desc": "",
+     "time": 1794506508,
+     "id": "50471431"
+    },
+    {
+     "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+     "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
+     "score": 192,
+     "comments": 2,
+     "author": "dverlaeckt80",
+     "tags": [],
+     "desc": "",
+     "time": 1794492757,
+     "id": "50467460"
+    },
+    {
+     "title": "Anthropic IPO",
+     "url": "https://ipo.anthropic.com/us/",
+     "score": 828,
+     "comments": 809,
+     "author": "josephljohnston",
+     "tags": [],
+     "desc": "",
+     "time": 1794484001,
+     "id": "50465829"
+    },
+    {
+     "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+     "url": "https://unemploymentlabs.com/checkpoint-forensics",
+     "score": 177,
+     "comments": 49,
+     "author": "firloop",
+     "tags": [],
+     "desc": "",
+     "time": 1794520571,
+     "id": "50474883"
+    }
+   ]
+  },
+  "github": {
+   "items": [
+    {
+     "title": "huamidev/GestaltX",
+     "url": "https://github.com/huamidev/GestaltX",
+     "score": 6968,
+     "comments": 58,
+     "author": "huamidev",
+     "tags": [
+      "Swift"
+     ],
+     "desc": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
+     "time": 1794201348,
+     "id": "1450963843"
+    },
+    {
+     "title": "tangerineturtle1/NX2navi",
+     "url": "https://github.com/tangerineturtle1/NX2navi",
+     "score": 3588,
+     "comments": 614,
+     "author": "tangerineturtle1",
+     "tags": [
+      "C"
+     ],
+     "desc": "",
+     "time": 1794045683,
+     "id": "1449231124"
+    },
+    {
+     "title": "jhaizhou-ops/S2Arm",
+     "url": "https://github.com/jhaizhou-ops/S2Arm",
+     "score": 2767,
+     "comments": 343,
+     "author": "jhaizhou-ops",
+     "tags": [
+      "C#"
+     ],
+     "desc": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。",
+     "time": 1794116986,
+     "id": "1450012790"
+    },
+    {
+     "title": "Kianuni/Erosion-CN",
+     "url": "https://github.com/Kianuni/Erosion-CN",
+     "score": 1734,
+     "comments": 13,
+     "author": "Kianuni",
+     "tags": [
+      "Swift"
+     ],
+     "desc": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
+     "time": 1794278251,
+     "id": "1452123445"
+    },
+    {
+     "title": "HybridRobotics/supermimic",
+     "url": "https://github.com/HybridRobotics/supermimic",
+     "score": 1317,
+     "comments": 23,
+     "author": "HybridRobotics",
+     "tags": [
+      "Python"
+     ],
+     "desc": "Humanoid whole-body motion tracking with one differentiable world model.",
+     "time": 1794307616,
+     "id": "1452531582"
+    },
+    {
+     "title": "agentes-chat/agentes-chat",
+     "url": "https://github.com/agentes-chat/agentes-chat",
+     "score": 1194,
+     "comments": 148,
+     "author": "agentes-chat",
+     "tags": [
+      "TypeScript"
+     ],
+     "desc": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+     "time": 1794185428,
+     "id": "1450794567"
+    },
+    {
+     "title": "Th0rgal/satmux",
+     "url": "https://github.com/Th0rgal/satmux",
+     "score": 1058,
+     "comments": 2,
+     "author": "Th0rgal",
+     "tags": [
+      "Python"
+     ],
+     "desc": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
+     "time": 1794067781,
+     "id": "1449518822"
+    },
+    {
+     "title": "apex-compute/ANR",
+     "url": "https://github.com/apex-compute/ANR",
+     "score": 1000,
+     "comments": 17,
+     "author": "apex-compute",
+     "tags": [
+      "C++"
+     ],
+     "desc": "Apex Neural Rendering (ANR) by Apex Compute",
+     "time": 1794371237,
+     "id": "1453517867"
+    },
+    {
+     "title": "HolyArrs/HolyArrs",
+     "url": "https://github.com/HolyArrs/HolyArrs",
+     "score": 980,
+     "comments": 78,
+     "author": "HolyArrs",
+     "tags": [
+      "Go"
+     ],
+     "desc": "One self-hosted app for your shows, movies and music.",
+     "time": 1794268405,
+     "id": "1452008226"
+    },
+    {
+     "title": "FrigadeHQ/yogurt",
+     "url": "https://github.com/FrigadeHQ/yogurt",
+     "score": 967,
+     "comments": 14,
+     "author": "FrigadeHQ",
+     "tags": [
+      "TypeScript"
+     ],
+     "desc": "Private AI meeting notes. Free and open source.",
+     "time": 1794340861,
+     "id": "1453132706"
+    },
+    {
+     "title": "Goblinmine/homelab-diagram",
+     "url": "https://github.com/Goblinmine/homelab-diagram",
+     "score": 940,
+     "comments": 2,
+     "author": "Goblinmine",
+     "tags": [
+      "Python"
+     ],
+     "desc": "Renders an r/homelab-style network diagram from a YAML inventory (Python → SVG/PNG). Written with Claude.",
+     "time": 1794055546,
+     "id": "1449349157"
+    },
+    {
+     "title": "dabingfy-dot/solo-to-team-skills",
+     "url": "https://github.com/dabingfy-dot/solo-to-team-skills",
+     "score": 790,
+     "comments": 23,
+     "author": "dabingfy-dot",
+     "tags": [],
+     "desc": "Skills for human-led AI teams: delegate tasks, verify evidence, explain steps clearly, and learn from real cases. 一个人统筹 AI 团队：派活、核证、清楚说明、经验复用。",
+     "time": 1794015388,
+     "id": "1448924811"
+    },
+    {
+     "title": "kolbicz/WQFiles",
+     "url": "https://github.com/kolbicz/WQFiles",
+     "score": 745,
+     "comments": 9,
+     "author": "kolbicz",
+     "tags": [
+      "Objective-C"
+     ],
+     "desc": "File browser, app data manager and cache cleaner for iOS 26 and 27 (worse_query, no jailbreak)",
+     "time": 1794231820,
+     "id": "1451419767"
+    },
+    {
+     "title": "Goldoire/fefw-recomp",
+     "url": "https://github.com/Goldoire/fefw-recomp",
+     "score": 655,
+     "comments": 42,
+     "author": "Goldoire",
+     "tags": [
+      "C++"
+     ],
+     "desc": "Native Windows PC port of Fire Emblem: Fortune's Weave by static recompilation. Bring your own dump; no game files included.",
+     "time": 1794088687,
+     "id": "1449770510"
+    },
+    {
+     "title": "lxe/phoneuse",
+     "url": "https://github.com/lxe/phoneuse",
+     "score": 636,
+     "comments": 10,
+     "author": "lxe",
+     "tags": [
+      "Python"
+     ],
+     "desc": "See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.",
+     "time": 1794014910,
+     "id": "1448920409"
+    },
+    {
+     "title": "alexeyw/lot-map",
+     "url": "https://github.com/alexeyw/lot-map",
+     "score": 614,
+     "comments": 2,
+     "author": "alexeyw",
+     "tags": [
+      "TypeScript"
+     ],
+     "desc": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.",
+     "time": 1794251632,
+     "id": "1451775929"
+    },
+    {
+     "title": "JDhruv14/line-art-animation",
+     "url": "https://github.com/JDhruv14/line-art-animation",
+     "score": 593,
+     "comments": 0,
+     "author": "JDhruv14",
+     "tags": [
+      "TypeScript"
+     ],
+     "desc": "A Claude skill and TypeScript library for animated line-art SVG components: ink figures that walk and react, scenes with a day/night cycle.",
+     "time": 1794302725,
+     "id": "1452450730"
+    },
+    {
+     "title": "forcequitOS/worse_query",
+     "url": "https://github.com/forcequitOS/worse_query",
+     "score": 590,
+     "comments": 0,
+     "author": "forcequitOS",
+     "tags": [
+      "Objective-C"
+     ],
+     "desc": "A sandbox escape for iOS 26 and 27, again",
+     "time": 1794157203,
+     "id": "1450480356"
+    },
+    {
+     "title": "adriadam10/mkw-recomp",
+     "url": "https://github.com/adriadam10/mkw-recomp",
+     "score": 573,
+     "comments": 113,
+     "author": "adriadam10",
+     "tags": [
+      "C"
+     ],
+     "desc": "Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program",
+     "time": 1794238806,
+     "id": "1451554320"
+    },
+    {
+     "title": "serveroshq/panel",
+     "url": "https://github.com/serveroshq/panel",
+     "score": 543,
+     "comments": 19,
+     "author": "serveroshq",
+     "tags": [
+      "PHP"
+     ],
+     "desc": "The open source ServerOS panel: one place to run the Linux servers you already own.",
+     "time": 1794185253,
+     "id": "1450792839"
+    }
+   ]
+  },
+  "v2ex": {
+   "items": [
+    {
+     "title": "被领导叫去涨薪了",
+     "url": "https://www.v2ex.com/t/1256525",
+     "score": 0,
+     "comments": 145,
+     "author": "gotorion",
+     "tags": [
+      "职场话题"
+     ],
+     "desc": "虽然只加了 2K ，但是也很开心啊\r\n\r\n最近 V 站工作贴一片灰暗，给 V 友一些希望",
+     "time": 1794473409,
+     "id": "1256525"
+    },
+    {
+     "title": "资金垫子铺完了！",
+     "url": "https://www.v2ex.com/t/1256423",
+     "score": 0,
+     "comments": 129,
+     "author": "fakEHacker",
+     "tags": [
+      "生活"
+     ],
+     "desc": "各位老哥大家好，今天我是兴高采烈啊。我是大专，26 年毕业了来深漂。\r\n来的时候配置狠狠拉跨，那个时候支付宝欠了几千块钱，随后又问朋友借了 3000 块钱。手里除了这-3000 没有任何现钱。\r\n4 月 9 日，我找到一个工作，结果那个工作带上老板带上我总共 3~4 个人。写代码的，干了两周就跑路了。\r\n当时住在青旅里",
+     "time": 1794454818,
+     "id": "1256423"
+    },
+    {
+     "title": "[KeyVia 满血中转站] 原生 Claude Fable5.2、GPT-6 Astra 免费用",
+     "url": "https://www.v2ex.com/t/1256560",
+     "score": 0,
+     "comments": 121,
+     "author": "keyvia",
+     "tags": [
+      "推广"
+     ],
+     "desc": "站点： https://keyvia.cc\r\n\r\n完成 KeyVia 注册后，在本贴评论留 KeyVia 站内 ID ，或通过 KeyVia 页面提交工单联系客服说明来自 V2EX ，即可获得原价 112 美元的$19.99 套餐，可使用全站满血模型。\r\n\r\n容量有限，先到先得。",
+     "time": 1794479751,
+     "id": "1256560"
+    },
+    {
+     "title": "济南初级程序员几个月没招不到人，不是说行情不好，都不好找工作吗？",
+     "url": "https://www.v2ex.com/t/1256509",
+     "score": 0,
+     "comments": 87,
+     "author": "heyline",
+     "tags": [
+      "酷工作"
+     ],
+     "desc": "公司几个月没招到合适的人，最近我在几个程序员交流群、小红书，包括本站发了帖子，询问的人寥寥，不到十人，并且全是非统招本科。\r\n\r\n难道所谓的行情不好，是大专和大龄的才行情不好？\r\n\r\n招个本科的初级小伙，太难了。\r\n\r\n [济南招聘｜ Java 2-5 年初级开发工程师｜ 8-11K ｜氛围轻松，适合摸鱼养老]( ht",
+     "time": 1794470547,
+     "id": "1256509"
+    },
+    {
+     "title": "能否探讨一下皮衣黄离职，对英伟达的影响和对 AI 行业的影响？",
+     "url": "https://www.v2ex.com/t/1256671",
+     "score": 0,
+     "comments": 75,
+     "author": "alax234",
+     "tags": [
+      "问与答"
+     ],
+     "desc": "理性讨论，希望不要进深水区。。。。",
+     "time": 1794531259,
+     "id": "1256671"
+    },
+    {
+     "title": "佬们，工资太低想跳槽，该准备什么？",
+     "url": "https://www.v2ex.com/t/1256427",
+     "score": 0,
+     "comments": 70,
+     "author": "qmjcxm",
+     "tags": [
+      "职场话题"
+     ],
+     "desc": "校招进的国企，可是工资太低了，而且没有涨的希望，准备跳槽了\r\n目前就是时间宽松，早九晚六，上班的时候也能刷两道力扣的题\r\n下班了就准备软考高级",
+     "time": 1794455694,
+     "id": "1256427"
+    },
+    {
+     "title": "本月起正式停止续费 codex 了",
+     "url": "https://www.v2ex.com/t/1256551",
+     "score": 0,
+     "comments": 65,
+     "author": "wilddog",
+     "tags": [
+      "OpenAI"
+     ],
+     "desc": "之前每个月一直续费着 100 刀的套餐\r\n\r\n最近几个月是真难用啊，前段时间就算天天重置，那点用量也还是跟芝麻粒一样，蹬几下就没了\r\n\r\n反应迟钝慢的要死，外加严重降智\r\n\r\n再见了 Tibo",
+     "time": 1794478188,
+     "id": "1256551"
+    },
+    {
+     "title": "猫贷真是让我大开眼界",
+     "url": "https://www.v2ex.com/t/1256419",
+     "score": 0,
+     "comments": 52,
+     "author": "SmartNeo",
+     "tags": [
+      "生活"
+     ],
+     "desc": "看到网上猫贷的套路，真是让我感叹大千世界无奇不有哇。\r\n商家说免费领养猫，每个月给 400 块生活费，连续 24 个月。\r\n实际是养猫的人签了一个 24 期贷款，每个月还款 400 块，猫死了贷款也得继续还。\r\n我是真不能理解为什么有人会签这个合同。\r\n按我的理解，你的猫让我替你养，应该你按月拿钱给我作为猫的生活费啊，",
+     "time": 1794454118,
+     "id": "1256419"
+    }
+   ]
+  },
+  "reddit": {
+   "items": []
+  },
+  "devto": {
+   "items": [
+    {
+     "title": "Our Looping Factory Cut DEV Page Load Time by 75% and Counting",
+     "url": "https://dev.to/dailycontext/our-looping-factory-cut-dev-page-load-time-by-75-and-counting-1hnf",
+     "score": 126,
+     "comments": 34,
+     "author": "Ben Halpern",
+     "tags": [
+      "ai",
+      "agents",
+      "automation",
+      "architecture"
+     ],
+     "desc": "A month ago, an average web request on DEV took about 70 milliseconds inside Rails, with P99 response...",
+     "time": 1794240745,
+     "id": "4977112"
+    },
+    {
+     "title": "Long Live Rails",
+     "url": "https://dev.to/ben/long-live-rails-3p21",
+     "score": 83,
+     "comments": 12,
+     "author": "Ben Halpern",
+     "tags": [
+      "rails",
+      "ruby",
+      "rust",
+      "ai"
+     ],
+     "desc": "When DHH took the stage at Rails World 2026 and talked openly about going \"pencils down\" on...",
+     "time": 1794497450,
+     "id": "5024286"
+    },
+    {
+     "title": "How do you truly stand out in Tech?",
+     "url": "https://dev.to/francistrdev/how-do-you-truly-stand-out-in-tech-478a",
+     "score": 169,
+     "comments": 99,
+     "author": "FrancisTRᴅᴇᴠ",
+     "tags": [
+      "discuss",
+      "community",
+      "productivity",
+      "career"
+     ],
+     "desc": "I am not going to lie to you, the market has been rough out there. There are layoffs across different...",
+     "time": 1794237082,
+     "id": "4990845"
+    },
+    {
+     "title": "How did you end up in tech, and are you staying?",
+     "url": "https://dev.to/maame-codes/how-did-you-end-up-in-tech-and-are-you-staying-4l9b",
+     "score": 143,
+     "comments": 56,
+     "author": "Maame Afua A. P. Fordjour ",
+     "tags": [
+      "discuss",
+      "career",
+      "beginners",
+      "watercooler"
+     ],
+     "desc": "Last week you showed me where you code. This week I want to know how you ended up there in the first...",
+     "time": 1794265357,
+     "id": "5007200"
+    },
+    {
+     "title": "Necoz Has a New Home on DEV! 🐈🎉",
+     "url": "https://dev.to/necoz/necoz-has-a-new-home-on-dev-3454",
+     "score": 167,
+     "comments": 116,
+     "author": "nyaomaru",
+     "tags": [
+      "devto",
+      "community",
+      "organization",
+      "news"
+     ],
+     "desc": "Hoi hoi! 👋  A little update from Necoz! 😸  We've created our own organization here on DEV!          ...",
+     "time": 1794138629,
+     "id": "4989886"
+    },
+    {
+     "title": "MCP Is Dead Simple. And That's Exactly the Problem",
+     "url": "https://dev.to/sylwia-lask/mcp-is-dead-simple-and-thats-exactly-the-problem-5811",
+     "score": 82,
+     "comments": 53,
+     "author": "Sylwia Laskowska",
+     "tags": [
+      "mcp",
+      "ai",
+      "agents",
+      "typescript"
+     ],
+     "desc": "What exactly is MCP? Is it some mysterious technology that requires secret knowledge to implement?...",
+     "time": 1794471276,
+     "id": "5018815"
+    },
+    {
+     "title": "The C Trilogy: How Dennis Ritchie, Bjarne Stroustrup, and Anders Hejlsberg Built the Modern World 🏛️",
+     "url": "https://dev.to/devengers/the-c-trilogy-how-dennis-ritchie-bjarne-stroustrup-and-anders-hejlsberg-built-the-modern-world-1onp",
+     "score": 127,
+     "comments": 40,
+     "author": "Dhruv Jani",
+     "tags": [
+      "c",
+      "cpp",
+      "csharp",
+      "programming"
+     ],
+     "desc": "Almost every piece of software running on Earth today traces back to three people trying to solve the...",
+     "time": 1794238254,
+     "id": "4998424"
+    },
+    {
+     "title": "What was your win this week?",
+     "url": "https://dev.to/devteam/what-was-your-win-this-week-28dh",
+     "score": 121,
+     "comments": 87,
+     "author": "Jess Lee",
+     "tags": [
+      "weeklyretro"
+     ],
+     "desc": "👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...",
+     "time": 1793973600,
+     "id": "4943084"
+    },
+    {
+     "title": "We Keep Hearing About AI Productivity. The QA Group Chat Told a Different Story.",
+     "url": "https://dev.to/xulingfeng/we-keep-hearing-about-ai-productivity-the-qa-group-chat-told-a-different-story-2nma",
+     "score": 107,
+     "comments": 84,
+     "author": "xulingfeng",
+     "tags": [
+      "ai",
+      "discuss",
+      "career",
+      "programming"
+     ],
+     "desc": "An anonymous poll, a debate about multimodal testing, and some uncomfortable questions about who...",
+     "time": 1794386115,
+     "id": "5015589"
+    },
+    {
+     "title": "Ask More of Your UI",
+     "url": "https://dev.to/dailycontext/ask-more-of-your-ui-2nf7",
+     "score": 55,
+     "comments": 6,
+     "author": "Ben Halpern",
+     "tags": [
+      "ai",
+      "agents",
+      "webdev",
+      "architecture"
+     ],
+     "desc": "In my last post, I wrote about moving Forem’s performance and maintenance work into autonomous loops...",
+     "time": 1794361155,
+     "id": "4982713"
+    },
+    {
+     "title": "A 10 years old developer who has become a DEV.to Trusted Member! 😱",
+     "url": "https://dev.to/necoz/a-10-years-old-developer-who-has-become-a-devto-trusted-member-49c8",
+     "score": 76,
+     "comments": 35,
+     "author": "Sᴛᴀʀ⭐",
+     "tags": [
+      "discuss",
+      "trusted",
+      "beginners",
+      "devto"
+     ],
+     "desc": "I still can't believe it! I just noticed the Trusted Member badge on my DEV.to profile, and I'm...",
+     "time": 1794482333,
+     "id": "5022229"
+    },
+    {
+     "title": "One Year on DEV.to, 109 Articles Later",
+     "url": "https://dev.to/dannwaneri/one-year-on-devto-109-articles-later-p31",
+     "score": 64,
+     "comments": 41,
+     "author": "Daniel Nwaneri",
+     "tags": [
+      "devto",
+      "community"
+     ],
+     "desc": "On November 11, 2025, I registered my DEV.to account. When I checked my dashboard this morning, I was...",
+     "time": 1794402000,
+     "id": "5015985"
+    },
+    {
+     "title": "How much does it cost to run a text game with LLMs",
+     "url": "https://dev.to/hiper2d/how-much-does-it-cost-to-run-a-text-game-with-llms-57o7",
+     "score": 76,
+     "comments": 82,
+     "author": "Aliaksei Zelianouski",
+     "tags": [
+      "ai",
+      "llm",
+      "gamedev",
+      "machinelearning"
+     ],
+     "desc": "AI costs are confusing. Providers give you a lot of numbers and nothing to actually know how much you are going to pay in the long run. There is no point in these input/cached/output token prices if you have no idea how many reasoning tokens you'll spend on your tasks. How much will be cached. We are going to review the real-world usage of 27 frontier models.",
+     "time": 1794163579,
+     "id": "4999883"
+    },
+    {
+     "title": "🐾 DEV Pet Corner #5: Show Us Your Pets!",
+     "url": "https://dev.to/hemapriya_kanagala/dev-pet-corner-5-show-us-your-pets-dao",
+     "score": 77,
+     "comments": 13,
+     "author": "Hemapriya Kanagala",
+     "tags": [
+      "discuss",
+      "community",
+      "watercooler",
+      "pets"
+     ],
+     "desc": "TL;DR  DEV Pet Corner is back for another Sunday! It's a weekly series where we take a little break...",
+     "time": 1794156111,
+     "id": "4999516"
+    },
+    {
+     "title": "Engine Off: My 2026 Hackathon Run Is Over",
+     "url": "https://dev.to/georgekobaidze/engines-off-my-2026-hackathon-run-is-over-2ho8",
+     "score": 61,
+     "comments": 28,
+     "author": "Giorgi Kobaidze",
+     "tags": [
+      "devchallenge",
+      "community"
+     ],
+     "desc": "There's a moment after a race when you turn the engine off and everything goes quiet. That's where I...",
+     "time": 1794163260,
+     "id": "4999747"
+    }
+   ]
+  },
+  "lobsters": {
+   "items": [
+    {
+     "title": "Announcing Rust 1.100.0",
+     "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+     "score": 74,
+     "comments": 4,
+     "author": "theelx",
+     "tags": [
+      "release",
+      "rust"
+     ],
+     "desc": "",
+     "time": 1794487421,
+     "id": "81hnjw"
+    },
+    {
+     "title": "How I accidentally became a millionaire",
+     "url": "https://lyra.horse/blog/2026/11/disinformation-machine/",
+     "score": 227,
+     "comments": 27,
+     "author": "hugoarnal",
+     "tags": [
+      "security"
+     ],
+     "desc": "",
+     "time": 1794412404,
+     "id": "lnau2d"
+    },
+    {
+     "title": "The entirety of \"Let Over Lambda\" is now freely available online",
+     "url": "https://letoverlambda.com/",
+     "score": 49,
+     "comments": 19,
+     "author": "nemin",
+     "tags": [
+      "book",
+      "lisp"
+     ],
+     "desc": "",
+     "time": 1794465874,
+     "id": "ooshl8"
+    },
+    {
+     "title": "The anti-marketing aspect of the Gemini network",
+     "url": "https://ploum.net/2026-11-12-anti-marketing-gemini.html",
+     "score": 25,
+     "comments": 12,
+     "author": "cgrinds",
+     "tags": [
+      "web"
+     ],
+     "desc": "",
+     "time": 1794478645,
+     "id": "pty8pn"
+    },
+    {
+     "title": "Hello Baochip",
+     "url": "https://ratfactor.com/cards/hello-baochip",
+     "score": 52,
+     "comments": 6,
+     "author": "jbauer",
+     "tags": [
+      "hardware"
+     ],
+     "desc": "",
+     "time": 1794456556,
+     "id": "3gw2f4"
+    },
+    {
+     "title": "libreagi - save OS models",
+     "url": "https://libreagi.com/",
+     "score": 12,
+     "comments": 6,
+     "author": "satuke",
+     "tags": [
+      "ai",
+      "privacy"
+     ],
+     "desc": "",
+     "time": 1794476146,
+     "id": "7c4iar"
+    },
+    {
+     "title": "Paths in pieces",
+     "url": "https://stoppels.ch/2026/11/12/paths-in-pieces.html",
+     "score": 18,
+     "comments": 0,
+     "author": "stabbles",
+     "tags": [
+      "unix"
+     ],
+     "desc": "",
+     "time": 1794473366,
+     "id": "yrpo2q"
+    },
+    {
+     "title": "Adapting CPython for yk",
+     "url": "https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html",
+     "score": 18,
+     "comments": 2,
+     "author": "ltratt",
+     "tags": [
+      "compilers",
+      "python"
+     ],
+     "desc": "",
+     "time": 1794464996,
+     "id": "gejy85"
+    },
+    {
+     "title": "The Secret of Monkey Island: all 13 versions side by side",
+     "url": "https://monkeyisland.pages.dev/",
+     "score": 26,
+     "comments": 4,
+     "author": "HugoDaniel",
+     "tags": [
+      "games",
+      "graphics"
+     ],
+     "desc": "",
+     "time": 1794472655,
+     "id": "ubbxhd"
+    },
+    {
+     "title": "Hijacking Samsung TV Smart Hub Ads",
+     "url": "https://dvratil.cz/2026/11/hijacking-samsung-tv-smart-hub-ads/",
+     "score": 38,
+     "comments": 3,
+     "author": "FedericoSchonborn",
+     "tags": [
+      "networking",
+      "reversing"
+     ],
+     "desc": "",
+     "time": 1794460125,
+     "id": "2drgwh"
+    },
+    {
+     "title": "FreeBSD Status Report Third Quarter 2026",
+     "url": "https://www.freebsd.org/status/report-2026-07-2026-09/",
+     "score": 12,
+     "comments": 0,
+     "author": "tomhukins",
+     "tags": [
+      "freebsd"
+     ],
+     "desc": "",
+     "time": 1794494702,
+     "id": "wbkayq"
+    },
+    {
+     "title": "How a false smoke alarm almost drowned Jane Street's only NYC datacenter",
+     "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+     "score": 81,
+     "comments": 15,
+     "author": "scanner_brightly",
+     "tags": [
+      "devops",
+      "ml"
+     ],
+     "desc": "",
+     "time": 1794392871,
+     "id": "ii1gzp"
+    },
+    {
+     "title": "For the first time, a C++ standard failed to pass the national bodies",
+     "url": "https://herecomesthemoon.net/2026/11/cpp26-failed-the-national-bodies/",
+     "score": 37,
+     "comments": 10,
+     "author": "mond",
+     "tags": [
+      "c++"
+     ],
+     "desc": "",
+     "time": 1794401375,
+     "id": "lrpb0m"
+    },
+    {
+     "title": "Let’s Write a PostScript Interpreter",
+     "url": "https://beyondloom.com/blog/postscript.html",
+     "score": 6,
+     "comments": 0,
+     "author": "janerik",
+     "tags": [
+      "concatenative"
+     ],
+     "desc": "",
+     "time": 1794500252,
+     "id": "8kdcdd"
+    },
+    {
+     "title": "How do you actually self-host securely?",
+     "url": "https://lobste.rs/s/m43bas",
+     "score": 125,
+     "comments": 72,
+     "author": "pralkarz",
+     "tags": [
+      "ask",
+      "devops"
+     ],
+     "desc": "<p>I recognize that the title is rather vague, but I'm completely green when it comes to self-hosting, so I figured here would be a good place to ask for some pointers given the discussions I sometimes see happening in the comments. I tried researching first through DDG and Google, but (and I recognize this might be a skill issue) most things I found are either SEO slop or trying to sell/market some service.</p>\n<p>For some more context and to give a concrete example as to what I'm interested in, I got my hands on a Raspberry Pi which I'd like to use to start tinkering with self-hosting. My main goal would be to host my (static) website on it, potentially adding more things in the future.</p>\n<p>Some people I asked this question recommended solutions like Cloudflare Tunnels to make it secure, but using such a provider almost feels like it defeats the point of self-hosting, so I'm curious whether it's viable to do it using open source tooling, any gotchas one might encounter, and generally any thoughts you might have on the topic.</p>\n<p>(Also, feel free to suggest a tag other than <code>devops</code>, I figured <code>security</code> doesn't quite apply since it's a question and not a write-up/resource regarding security.)</p>\n",
+     "time": 1794376879,
+     "id": "m43bas"
+    }
+   ]
+  }
+ },
+ "crypto": [
+  {
+   "id": "bitcoin",
+   "name": "BTC 比特币",
+   "cny": 470747,
+   "change": -4.359651243464569
+  },
+  {
+   "id": "ethereum",
+   "name": "ETH 以太坊",
+   "cny": 13349.71,
+   "change": -2.684961611093913
+  },
+  {
+   "id": "binancecoin",
+   "name": "BNB 币安币",
+   "cny": 4342.49,
+   "change": -4.187052395268473
+  },
+  {
+   "id": "solana",
+   "name": "SOL",
+   "cny": 539.42,
+   "change": -3.139366422693129
+  },
+  {
+   "id": "ripple",
+   "name": "XRP 瑞波",
+   "cny": 6.84,
+   "change": -2.523537147078083
+  },
+  {
+   "id": "dogecoin",
+   "name": "DOGE",
+   "cny": 0.438904,
+   "change": -2.53685725220577
+  },
+  {
+   "id": "cardano",
+   "name": "ADA 艾达",
+   "cny": 1.15,
+   "change": -0.7223622750199384
+  },
+  {
+   "id": "tron",
+   "name": "TRX 波场",
+   "cny": 2.1,
+   "change": -0.5369333128104403
+  }
+ ]
+}
