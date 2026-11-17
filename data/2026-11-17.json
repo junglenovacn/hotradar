@@ -1,0 +1,1133 @@
+{
+ "date": "2026-11-17",
+ "generated_at": "2026-11-17T12:20:14+08:00",
+ "sources": {
+  "hackernews": {
+   "items": [
+    {
+     "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+     "url": "https://www.cs.cmu.edu/learn/",
+     "score": 943,
+     "comments": 147,
+     "author": "pcompeau",
+     "tags": [],
+     "desc": "",
+     "time": 1794861816,
+     "id": "50522980"
+    },
+    {
+     "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+     "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+     "score": 356,
+     "comments": 217,
+     "author": "cwaffles",
+     "tags": [],
+     "desc": "",
+     "time": 1794869900,
+     "id": "50524736"
+    },
+    {
+     "title": "BugMeNot has closed",
+     "url": "https://www.bugmenot.com/",
+     "score": 393,
+     "comments": 197,
+     "author": "lode",
+     "tags": [],
+     "desc": "",
+     "time": 1794864737,
+     "id": "50523601"
+    },
+    {
+     "title": "Optimizely compromised, served malware on Zoom, GitLab",
+     "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+     "score": 174,
+     "comments": 87,
+     "author": "kristjansson",
+     "tags": [],
+     "desc": "",
+     "time": 1794870034,
+     "id": "50524767"
+    },
+    {
+     "title": "Running coding agents without handing them my credentials",
+     "url": "https://blog.antonio.cx/running-agents-with-lend",
+     "score": 55,
+     "comments": 23,
+     "author": "antoniomika",
+     "tags": [],
+     "desc": "",
+     "time": 1794878336,
+     "id": "50526152"
+    },
+    {
+     "title": "If an App Asks for Full Disk Access or System and App Protection Override",
+     "url": "https://support.apple.com/en-us/149699",
+     "score": 36,
+     "comments": 17,
+     "author": "jshier",
+     "tags": [],
+     "desc": "",
+     "time": 1794881824,
+     "id": "50526560"
+    },
+    {
+     "title": "OpenCode Browse",
+     "url": "https://opencode.ai/product/browse",
+     "score": 164,
+     "comments": 72,
+     "author": "mfiguiere",
+     "tags": [],
+     "desc": "",
+     "time": 1794864037,
+     "id": "50523459"
+    },
+    {
+     "title": "Mem Is Shutting Down",
+     "url": "https://get.mem.ai/blog/mem-is-shutting-down",
+     "score": 27,
+     "comments": 28,
+     "author": "qainsights",
+     "tags": [],
+     "desc": "",
+     "time": 1794881621,
+     "id": "50526537"
+    },
+    {
+     "title": "Chemistry is Actually Geometry",
+     "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
+     "score": 152,
+     "comments": 76,
+     "author": "sebg",
+     "tags": [],
+     "desc": "",
+     "time": 1794860538,
+     "id": "50522643"
+    },
+    {
+     "title": "Frame – 31.5\" color ePaper display",
+     "url": "https://trmnl.com/blog/introducing-frame",
+     "score": 337,
+     "comments": 236,
+     "author": "geerlingguy",
+     "tags": [],
+     "desc": "",
+     "time": 1794846202,
+     "id": "50519354"
+    },
+    {
+     "title": "Jiff 1.0: A datetime library for Rust",
+     "url": "https://burntsushi.net/jiff/",
+     "score": 338,
+     "comments": 77,
+     "author": "burntsushi",
+     "tags": [],
+     "desc": "",
+     "time": 1794848019,
+     "id": "50519744"
+    },
+    {
+     "title": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
+     "url": "https://news.ycombinator.com/item?id=50522776",
+     "score": 34,
+     "comments": 11,
+     "author": "arshpatankar",
+     "tags": [],
+     "desc": "",
+     "time": 1794860988,
+     "id": "50522776"
+    },
+    {
+     "title": "Formal Verification Is Not Verifiable",
+     "url": "https://alperenkeles.com/posts/formal-verification-is-not-verifiable/",
+     "score": 84,
+     "comments": 23,
+     "author": "zdw",
+     "tags": [],
+     "desc": "",
+     "time": 1794668868,
+     "id": "50497621"
+    },
+    {
+     "title": "Grazing sheep in fields with solar arrays",
+     "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
+     "score": 239,
+     "comments": 233,
+     "author": "PaulHoule",
+     "tags": [],
+     "desc": "",
+     "time": 1794850066,
+     "id": "50520182"
+    },
+    {
+     "title": "How to Break into Security, Ptacek Edition (2012)",
+     "url": "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
+     "score": 91,
+     "comments": 21,
+     "author": "ronfriedhaber",
+     "tags": [],
+     "desc": "",
+     "time": 1794867563,
+     "id": "50524225"
+    },
+    {
+     "title": "Do Repeat Yourself",
+     "url": "https://arcentry.com/blog/do-repeat-yourself/",
+     "score": 50,
+     "comments": 17,
+     "author": "max_sendfeld",
+     "tags": [],
+     "desc": "",
+     "time": 1794830806,
+     "id": "50516689"
+    },
+    {
+     "title": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case",
+     "url": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
+     "score": 84,
+     "comments": 65,
+     "author": "jaredwiener",
+     "tags": [],
+     "desc": "",
+     "time": 1794862088,
+     "id": "50523025"
+    },
+    {
+     "title": "Spamhaus new email sender requirements in November",
+     "url": "https://www.spamhaus.org/sender-guidelines/",
+     "score": 78,
+     "comments": 75,
+     "author": "computer23",
+     "tags": [],
+     "desc": "",
+     "time": 1794865639,
+     "id": "50523784"
+    },
+    {
+     "title": "Why did modems have speakers? (2019)",
+     "url": "https://retrocomputing.stackexchange.com/questions/11765",
+     "score": 5,
+     "comments": 3,
+     "author": "Skyfall106",
+     "tags": [],
+     "desc": "",
+     "time": 1794778049,
+     "id": "50510969"
+    },
+    {
+     "title": "Atomic Nuked Veteran",
+     "url": "https://www.armscontrolwonk.com/archive/201309/atomic-nuked-veteran/",
+     "score": 31,
+     "comments": 5,
+     "author": "hubraumhugo",
+     "tags": [],
+     "desc": "",
+     "time": 1794810594,
+     "id": "50514680"
+    }
+   ]
+  },
+  "github": {
+   "items": [
+    {
+     "title": "deepseek-ai/chat-demo",
+     "url": "https://github.com/deepseek-ai/chat-demo",
+     "score": 4193,
+     "comments": 1,
+     "author": "deepseek-ai",
+     "tags": [
+      "TypeScript"
+     ],
+     "desc": "Chat Demo",
+     "time": 1794470899,
+     "id": "1455006582"
+    },
+    {
+     "title": "apex-compute/ANR",
+     "url": "https://github.com/apex-compute/ANR",
+     "score": 2491,
+     "comments": 25,
+     "author": "apex-compute",
+     "tags": [
+      "C++"
+     ],
+     "desc": "Apex Neural Rendering (ANR) by Apex Compute",
+     "time": 1794371237,
+     "id": "1453517867"
+    },
+    {
+     "title": "hitkeeen/blender-ai-mcp-addon",
+     "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
+     "score": 2269,
+     "comments": 78,
+     "author": "hitkeeen",
+     "tags": [],
+     "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+     "time": 1794493935,
+     "id": "1455416555"
+    },
+    {
+     "title": "Noniv/abyssal-garden",
+     "url": "https://github.com/Noniv/abyssal-garden",
+     "score": 1788,
+     "comments": 6,
+     "author": "Noniv",
+     "tags": [
+      "JavaScript"
+     ],
+     "desc": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
+     "time": 1794491854,
+     "id": "1455374283"
+    },
+    {
+     "title": "duwqijlk/muse-protocol",
+     "url": "https://github.com/duwqijlk/muse-protocol",
+     "score": 1487,
+     "comments": 2,
+     "author": "duwqijlk",
+     "tags": [
+      "Python"
+     ],
+     "desc": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+     "time": 1794619498,
+     "id": "1457270665"
+    },
+    {
+     "title": "Eynnzerr/TelemetryCleaner",
+     "url": "https://github.com/Eynnzerr/TelemetryCleaner",
+     "score": 1355,
+     "comments": 7,
+     "author": "Eynnzerr",
+     "tags": [
+      "Kotlin"
+     ],
+     "desc": "基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块",
+     "time": 1794378310,
+     "id": "1453604719"
+    },
+    {
+     "title": "ZiChuanLan/freebie-radar",
+     "url": "https://github.com/ZiChuanLan/freebie-radar",
+     "score": 1194,
+     "comments": 1,
+     "author": "ZiChuanLan",
+     "tags": [
+      "TypeScript"
+     ],
+     "desc": "白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送",
+     "time": 1794474491,
+     "id": "1455066549"
+    },
+    {
+     "title": "opencoredev/islandcn",
+     "url": "https://github.com/opencoredev/islandcn",
+     "score": 784,
+     "comments": 3,
+     "author": "opencoredev",
+     "tags": [
+      "TypeScript"
+     ],
+     "desc": "The open-source Dynamic Island for React, installed with shadcn.",
+     "time": 1794570650,
+     "id": "1456537250"
+    },
+    {
+     "title": "AIRzZ90/study-materials-fork",
+     "url": "https://github.com/AIRzZ90/study-materials-fork",
+     "score": 743,
+     "comments": 1,
+     "author": "AIRzZ90",
+     "tags": [
+      "TypeScript"
+     ],
+     "desc": "A cross-platform Tauri 2 interface and interaction practice project",
+     "time": 1794480752,
+     "id": "1455173808"
+    },
+    {
+     "title": "haziqahmedqasmi/PeakCut",
+     "url": "https://github.com/haziqahmedqasmi/PeakCut",
+     "score": 685,
+     "comments": 24,
+     "author": "haziqahmedqasmi",
+     "tags": [
+      "Python"
+     ],
+     "desc": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
+     "time": 1794641900,
+     "id": "1457509118"
+    },
+    {
+     "title": "linknimiball1974/ai-texture-forge",
+     "url": "https://github.com/linknimiball1974/ai-texture-forge",
+     "score": 685,
+     "comments": 48,
+     "author": "linknimiball1974",
+     "tags": [],
+     "desc": "An AI-powered texture forge for Blender — turn text prompts into seamless PBR materials, concept art and scene-wide projections with local or cloud diffusion models, straight inside the 3D viewport on Windows. · dream textures · dream textures blender · dream textures addon · dream textures ai · dream textures seamless · dream textures pbr",
+     "time": 1794424158,
+     "id": "1454389076"
+    },
+    {
+     "title": "rivet-dev/open-orange",
+     "url": "https://github.com/rivet-dev/open-orange",
+     "score": 637,
+     "comments": 8,
+     "author": "rivet-dev",
+     "tags": [
+      "TypeScript"
+     ],
+     "desc": "Run Cloudflare Workers and Durable Objects unchanged on AWS, GCP, Azure or your own servers.",
+     "time": 1794444252,
+     "id": "1454661440"
+    },
+    {
+     "title": "n4ze3m/tiny-voca",
+     "url": "https://github.com/n4ze3m/tiny-voca",
+     "score": 629,
+     "comments": 0,
+     "author": "n4ze3m",
+     "tags": [
+      "Python"
+     ],
+     "desc": "A 4.5M-parameter two-voice English text-to-speech model, trained from scratch",
+     "time": 1794672176,
+     "id": "1457919852"
+    },
+    {
+     "title": "Immortal-Protocols/lastbook",
+     "url": "https://github.com/Immortal-Protocols/lastbook",
+     "score": 625,
+     "comments": 32,
+     "author": "Immortal-Protocols",
+     "tags": [
+      "Python"
+     ],
+     "desc": "Offline knowledge library for survival and rebuilding",
+     "time": 1794527343,
+     "id": "1455952445"
+    },
+    {
+     "title": "yetanotherbrowser/yab",
+     "url": "https://github.com/yetanotherbrowser/yab",
+     "score": 604,
+     "comments": 901,
+     "author": "yetanotherbrowser",
+     "tags": [
+      "Swift"
+     ],
+     "desc": "Yab, yet another browser: a fast native macOS browser with an iPhone and Android companion",
+     "time": 1794700592,
+     "id": "1458292408"
+    },
+    {
+     "title": "makepad/relax",
+     "url": "https://github.com/makepad/relax",
+     "score": 582,
+     "comments": 16,
+     "author": "makepad",
+     "tags": [
+      "Rust"
+     ],
+     "desc": "Relax Rust JIT",
+     "time": 1794424378,
+     "id": "1454392563"
+    },
+    {
+     "title": "BigPizzaV3/ClaudeMom",
+     "url": "https://github.com/BigPizzaV3/ClaudeMom",
+     "score": 560,
+     "comments": 10,
+     "author": "BigPizzaV3",
+     "tags": [
+      "Rust"
+     ],
+     "desc": "不用 Claude 账号！把 API Key 变成登录模式，Claude 桌面版全功能解锁（汉化 / 语音 / 电脑控制）",
+     "time": 1794467219,
+     "id": "1454950288"
+    },
+    {
+     "title": "faizfahmi77/ScanDot",
+     "url": "https://github.com/faizfahmi77/ScanDot",
+     "score": 542,
+     "comments": 0,
+     "author": "faizfahmi77",
+     "tags": [
+      "Kotlin"
+     ],
+     "desc": "Experimental Android 3D scanning and point-cloud viewer",
+     "time": 1794542877,
+     "id": "1456134750"
+    },
+    {
+     "title": "higurashi-ai/Haru",
+     "url": "https://github.com/higurashi-ai/Haru",
+     "score": 530,
+     "comments": 3,
+     "author": "higurashi-ai",
+     "tags": [
+      "Python"
+     ],
+     "desc": "Haru: a low-latency, multilingual, full-duplex spoken dialogue model",
+     "time": 1794482142,
+     "id": "1455196450"
+    },
+    {
+     "title": "mit-han-lab/pear",
+     "url": "https://github.com/mit-han-lab/pear",
+     "score": 526,
+     "comments": 3,
+     "author": "mit-han-lab",
+     "tags": [
+      "Python"
+     ],
+     "desc": "Training Reasoning Models in Simulation to Natively Use Real Robots",
+     "time": 1794591786,
+     "id": "1456913583"
+    }
+   ]
+  },
+  "v2ex": {
+   "items": [
+    {
+     "title": "干半天才发现：人家没读书，却比我混得好",
+     "url": "https://www.v2ex.com/t/1257459",
+     "score": 0,
+     "comments": 88,
+     "author": "pddgoods",
+     "tags": [
+      "职场话题"
+     ],
+     "desc": "1、老家那些没读过书的人，初中毕业。反而都混得不错。\r\n\r\n2、AI 浪潮他们就不担心会失业，大部分是销售",
+     "time": 1794818737,
+     "id": "1257459"
+    },
+    {
+     "title": "玩了发现恋物癖越来越严重了咋办",
+     "url": "https://www.v2ex.com/t/1257575",
+     "score": 0,
+     "comments": 81,
+     "author": "rainABC",
+     "tags": [
+      "问与答"
+     ],
+     "desc": "恋物癖越来越严重了咋办",
+     "time": 1794877173,
+     "id": "1257575"
+    },
+    {
+     "title": "[台灣站長不跑路] 不擔心封號，高穩定 Claude 中轉，評論送 5 刀（也有 Grok、GPT）",
+     "url": "https://www.v2ex.com/t/1257569",
+     "score": 0,
+     "comments": 75,
+     "author": "alexissde",
+     "tags": [
+      "推广"
+     ],
+     "desc": "### 前字節開發的中轉\r\n- 台灣站長\r\n- https://shenwenai.com/\r\n\r\n### 適合用戶跟收費：\r\n- 穩定用 Claude, Grok 。\r\n- 1 cny = 1 usd 。\r\n\r\n### 領 5 刀試用：\r\n- 註冊 https://shenwenai.com/ ，下方評論 email",
+     "time": 1794875161,
+     "id": "1257569"
+    },
+    {
+     "title": "跟异性聊天总是没话题，有没有军师指点",
+     "url": "https://www.v2ex.com/t/1257456",
+     "score": 0,
+     "comments": 71,
+     "author": "bofei",
+     "tags": [
+      "生活"
+     ],
+     "desc": "真有那么多话可说吗？有时候套聊天公式觉得好别扭，好像第一天就把该说的说完了，有没有什么经验分享一下？",
+     "time": 1794818426,
+     "id": "1257456"
+    },
+    {
+     "title": "AI 离谱越权操作一则，大家引以为戒",
+     "url": "https://www.v2ex.com/t/1257395",
+     "score": 0,
+     "comments": 69,
+     "author": "tmtstudio",
+     "tags": [
+      "程序员"
+     ],
+     "desc": "## 前情提要：\r\n我自己写了一个用于服务器监控运维的的项目，能查看服务器状态，日志解析，自动运维等功能\r\n项目中存储了服务器的 ssh 密钥，运维功不让 ai 直接 ssh 到服务器，写了一个中间层 ai 想操作服务器给中间层申请，中转获取命令执行结果，中间层查看类命令全部放行，修改命令需要审核\r\n\r\n## ai 越",
+     "time": 1794807501,
+     "id": "1257395"
+    },
+    {
+     "title": "有通勤一个半小时的老哥嘛",
+     "url": "https://www.v2ex.com/t/1257548",
+     "score": 0,
+     "comments": 66,
+     "author": "helloword123",
+     "tags": [
+      "生活"
+     ],
+     "desc": "公共交通上下班都一个半小时，上班第一天，给我整得有点 emo 了",
+     "time": 1794842628,
+     "id": "1257548"
+    },
+    {
+     "title": "熊市中就开个银河免 5 定投纳指或者红利低波 ETF 吧，股票也有免 5 的。",
+     "url": "https://www.v2ex.com/t/1257573",
+     "score": 0,
+     "comments": 61,
+     "author": "daxiaolian8",
+     "tags": [
+      "推广"
+     ],
+     "desc": "熊市中少买股票，就开个银河免 5 的买买纳指或者红利低波 ETF 就行，胆子大的可以抄底!\r\n这周抽键盘迈从 Ace 68 V2 ；鼠标迈从 A7 V3 PRO+\r\n⚠️回帖即可参与抽奖！\r\n⚠️大笑脸开户，股票基金 etf 最低费率，etf 低至“万 0.5 免五”，欢迎来开！\r\n⚠️大笑脸开户推荐：\r\nYH 证券：",
+     "time": 1794876324,
+     "id": "1257573"
+    },
+    {
+     "title": "电鸡充电桩收费如此贵",
+     "url": "https://www.v2ex.com/t/1257486",
+     "score": 0,
+     "comments": 56,
+     "author": "SoulFlame",
+     "tags": [
+      "广州"
+     ],
+     "desc": "广州某城中村一个朋友：\r\n附近充电桩收费详情:\r\n0.7 元/度\r\n服务费 0.45 元/小时(0-200W)\r\n服务费 0.55 元/小时(201W-350W)\r\n服务费 0.75 元/小时(351W-500W)\r\n服务费 1.65 元/小时(501W-700W)\r\n700W 以上暂不支持\r\n\r\n他说他 2 天一充，",
+     "time": 1794823268,
+     "id": "1257486"
+    },
+    {
+     "title": "北美大豆包是真的不行啊！",
+     "url": "https://www.v2ex.com/t/1257419",
+     "score": 0,
+     "comments": 55,
+     "author": "fallimmortal",
+     "tags": [
+      "程序员"
+     ],
+     "desc": "这段时候 openai 老是卡成翔，claude 用不上\r\n看到 v 站上面有些帖子开始吹 gemini 纠结之余想着要不试试，如果可用的话等 gpt 卡的时候可以接力一下，昨天开通了 ultra 5x， 今天开始试试。 结果发现， 果然还是一坨。\r\n\r\n我的项目是个游戏，ui 上面有个小 bug ， 点击收起活动列表",
+     "time": 1794812561,
+     "id": "1257419"
+    },
+    {
+     "title": "Codex 大家会开 Full access 么",
+     "url": "https://www.v2ex.com/t/1257520",
+     "score": 0,
+     "comments": 50,
+     "author": "wangrqt196",
+     "tags": [
+      "OpenAI"
+     ],
+     "desc": "一共就三个选项\r\nAsk for approval 基本没啥用，鸡毛蒜头都要蹦弹窗。\r\nApprove for me 用过一阵子，整体还行，涉及一些工具调用还是要蹦弹窗确认。\r\nFull acces 最近开了一阵子，感觉没啥问题，但总感觉心里有点儿慌。\r\n\r\n有朋友遇到过啥 bug 么？",
+     "time": 1794831970,
+     "id": "1257520"
+    }
+   ]
+  },
+  "reddit": {
+   "items": []
+  },
+  "devto": {
+   "items": [
+    {
+     "title": "Long Live Rails",
+     "url": "https://dev.to/ben/long-live-rails-3p21",
+     "score": 139,
+     "comments": 24,
+     "author": "Ben Halpern",
+     "tags": [
+      "rails",
+      "ruby",
+      "rust",
+      "ai"
+     ],
+     "desc": "When DHH took the stage at Rails World 2026 and talked openly about going \"pencils down\" on...",
+     "time": 1794497450,
+     "id": "5024286"
+    },
+    {
+     "title": "MCP Is Dead Simple. And That's Exactly the Problem",
+     "url": "https://dev.to/sylwia-lask/mcp-is-dead-simple-and-thats-exactly-the-problem-5811",
+     "score": 196,
+     "comments": 181,
+     "author": "Sylwia Laskowska",
+     "tags": [
+      "mcp",
+      "ai",
+      "agents",
+      "typescript"
+     ],
+     "desc": "What exactly is MCP? Is it some mysterious technology that requires secret knowledge to implement?...",
+     "time": 1794471276,
+     "id": "5018815"
+    },
+    {
+     "title": "Dev Opportunity Radar #25: $120K+ Atlassian Hackathon, MLH Fellowship, and INSEAD AI Founder Sprint",
+     "url": "https://dev.to/devengers/dev-opportunity-radar-25-120k-atlassian-hackathon-mlh-fellowship-and-insead-ai-founder-sprint-m96",
+     "score": 108,
+     "comments": 9,
+     "author": "Hemapriya Kanagala",
+     "tags": [
+      "discuss",
+      "community",
+      "opportunities",
+      "resources"
+     ],
+     "desc": "TL;DR  Welcome back to Dev Opportunity Radar! 💙  This is a weekly series where I share...",
+     "time": 1794594491,
+     "id": "5031577"
+    },
+    {
+     "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine Winners!",
+     "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-4-ghost-in-the-machine-winners-nok",
+     "score": 105,
+     "comments": 46,
+     "author": "Jem",
+     "tags": [
+      "devchallenge",
+      "hf26challenge",
+      "hacktoberfest",
+      "ai"
+     ],
+     "desc": "The results are in for the final week of our Hacktoberfest DEV Challenges! For Ghost in the Machine,...",
+     "time": 1794585386,
+     "id": "5025610"
+    },
+    {
+     "title": "A 10 years old developer who has become a DEV.to Trusted Member! 😱",
+     "url": "https://dev.to/necoz/a-10-years-old-developer-who-has-become-a-devto-trusted-member-49c8",
+     "score": 97,
+     "comments": 49,
+     "author": "Sᴛᴀʀ⭐",
+     "tags": [
+      "discuss",
+      "trusted",
+      "beginners",
+      "devto"
+     ],
+     "desc": "I still can't believe it! I just noticed the Trusted Member badge on my DEV.to profile, and I'm...",
+     "time": 1794482333,
+     "id": "5022229"
+    },
+    {
+     "title": "Ghost Rovers: I Called 12 Machines NASA Left Behind. One Picked Up.",
+     "url": "https://dev.to/earlgreyhot1701d/ghost-rovers-i-called-12-machines-nasa-left-behind-one-picked-up-2575",
+     "score": 59,
+     "comments": 20,
+     "author": "Earl Grey",
+     "tags": [
+      "ai",
+      "webdev",
+      "hackathon",
+      "showdev"
+     ],
+     "desc": "A 1969 Mission Control console for kids. Built in one day for NASA Space Apps 2026.   TL;DR: For NASA...",
+     "time": 1794715228,
+     "id": "5039203"
+    },
+    {
+     "title": "One Year on DEV.to, 109 Articles Later",
+     "url": "https://dev.to/dannwaneri/one-year-on-devto-109-articles-later-p31",
+     "score": 74,
+     "comments": 46,
+     "author": "Daniel Nwaneri",
+     "tags": [
+      "devto",
+      "community"
+     ],
+     "desc": "On November 11, 2025, I registered my DEV.to account. When I checked my dashboard this morning, I was...",
+     "time": 1794402000,
+     "id": "5015985"
+    },
+    {
+     "title": "We Keep Hearing About AI Productivity. The QA Group Chat Told a Different Story.",
+     "url": "https://dev.to/xulingfeng/we-keep-hearing-about-ai-productivity-the-qa-group-chat-told-a-different-story-2nma",
+     "score": 112,
+     "comments": 112,
+     "author": "xulingfeng",
+     "tags": [
+      "ai",
+      "discuss",
+      "career",
+      "programming"
+     ],
+     "desc": "An anonymous poll, a debate about multimodal testing, and some uncomfortable questions about who...",
+     "time": 1794386115,
+     "id": "5015589"
+    },
+    {
+     "title": "Ask More of Your UI",
+     "url": "https://dev.to/dailycontext/ask-more-of-your-ui-2nf7",
+     "score": 60,
+     "comments": 8,
+     "author": "Ben Halpern",
+     "tags": [
+      "ai",
+      "agents",
+      "webdev",
+      "architecture"
+     ],
+     "desc": "In my last post, I wrote about moving Forem’s performance and maintenance work into autonomous loops...",
+     "time": 1794361155,
+     "id": "4982713"
+    },
+    {
+     "title": "Ultimate AI Roast! 😂😹",
+     "url": "https://dev.to/annavi11arrea1/ultimate-ai-roast-168b",
+     "score": 97,
+     "comments": 47,
+     "author": "Anna Villarreal",
+     "tags": [
+      "ai",
+      "webdev",
+      "claude",
+      "cli"
+     ],
+     "desc": "I asked my favorite AI to Roast me. Thanks @trickell for this idea.   You need to try this with your...",
+     "time": 1794459327,
+     "id": "5020733"
+    },
+    {
+     "title": "Meet type-tune! 🦀 Give Your TypeScript Types a Better Home! 😸",
+     "url": "https://dev.to/necoz/meet-type-tune-give-your-typescript-types-a-better-home-1p6l",
+     "score": 118,
+     "comments": 41,
+     "author": "nyaomaru",
+     "tags": [
+      "rust",
+      "typescript",
+      "showdev",
+      "opensource"
+     ],
+     "desc": "Hoi hoi! 👋  I'm @nyaomaru, a frontend engineer who is actually allergic to crabs! 🙀🦀  Today, I have...",
+     "time": 1794417562,
+     "id": "4999208"
+    },
+    {
+     "title": "What does DEV stand for?",
+     "url": "https://dev.to/devengers/what-does-dev-stand-for-2kg9",
+     "score": 96,
+     "comments": 51,
+     "author": "FrancisTRᴅᴇᴠ",
+     "tags": [
+      "discuss",
+      "community",
+      "watercooler",
+      "jokes"
+     ],
+     "desc": "This post was inspired by @mellen months ago when they made a post on MLH:         What does MLH...",
+     "time": 1794840910,
+     "id": "5048780"
+    },
+    {
+     "title": "AI is getting better. Here is my plan to stay ahead.",
+     "url": "https://dev.to/javz/ai-is-getting-better-here-is-my-plan-to-stay-ahead-2822",
+     "score": 44,
+     "comments": 29,
+     "author": "Julien Avezou",
+     "tags": [
+      "ai",
+      "productivity",
+      "programming",
+      "discuss"
+     ],
+     "desc": "AI is getting better every day.  As a software engineer, this is a topic that is often top of mind,...",
+     "time": 1794497700,
+     "id": "4911275"
+    },
+    {
+     "title": "AI Avatar v28 (Security Support, Voxel Avatar)🛡️",
+     "url": "https://dev.to/webdeveloperhyper/ai-avatar-v28-security-support-voxel-avatar-2i5i",
+     "score": 40,
+     "comments": 9,
+     "author": "Web Developer Hyper",
+     "tags": [
+      "ai",
+      "webdev",
+      "productivity",
+      "security"
+     ],
+     "desc": "Intro   AI Avatar is a free app where your VRoid (VRM) avatar cheers you with all its...",
+     "time": 1794803679,
+     "id": "5004164"
+    },
+    {
+     "title": "Detecting Flaky Tests and Finding Their Root Causes with Strands Agents and Gemini",
+     "url": "https://dev.to/m4rri4nne/detecting-flaky-tests-and-finding-their-root-causes-with-strands-agents-and-gemini-4kan",
+     "score": 84,
+     "comments": 29,
+     "author": "Alicia Marianne Gonçalves",
+     "tags": [
+      "ai",
+      "testing",
+      "python",
+      "agents"
+     ],
+     "desc": "A few years ago (three years at most), one of the biggest challenges QA Engineers faced was: how do...",
+     "time": 1794351148,
+     "id": "5012963"
+    }
+   ]
+  },
+  "lobsters": {
+   "items": [
+    {
+     "title": "What is w2rt6byl5nf1opmc-a[.]com?",
+     "url": "https://jack.cab/blog/siterate.html",
+     "score": 53,
+     "comments": 11,
+     "author": "robalex",
+     "tags": [
+      "web"
+     ],
+     "desc": "",
+     "time": 1794812531,
+     "id": "dgvb5g"
+    },
+    {
+     "title": "Migrating from GitHub to Codeberg",
+     "url": "https://yorickpeterse.com/articles/migrating-from-github-to-codeberg/",
+     "score": 67,
+     "comments": 21,
+     "author": "yorickpeterse",
+     "tags": [
+      "programming",
+      "vcs"
+     ],
+     "desc": "",
+     "time": 1794784234,
+     "id": "rhoopo"
+    },
+    {
+     "title": "How Rust Changed Me As A Developer",
+     "url": "https://blog.startifact.com/posts/how-rust-changed-me/",
+     "score": 17,
+     "comments": 3,
+     "author": "faassen",
+     "tags": [
+      "performance",
+      "rust"
+     ],
+     "desc": "",
+     "time": 1794831449,
+     "id": "s7mejx"
+    },
+    {
+     "title": "Janet Reno was talking about my friend Coolio (computer criminal)",
+     "url": "https://michael.bacarella.com/2026/11/16/janet-reno-vs-my-friend-coolio/",
+     "score": 27,
+     "comments": 9,
+     "author": "scanner_brightly",
+     "tags": [
+      "culture",
+      "security"
+     ],
+     "desc": "",
+     "time": 1794825838,
+     "id": "urcrqe"
+    },
+    {
+     "title": "A datetime library for Rust",
+     "url": "https://burntsushi.net/jiff/",
+     "score": 140,
+     "comments": 34,
+     "author": "refi64",
+     "tags": [
+      "rust"
+     ],
+     "desc": "",
+     "time": 1794760774,
+     "id": "dxxvek"
+    },
+    {
+     "title": "Squircles",
+     "url": "https://linebender.org/wiki/curves/squircle/",
+     "score": 42,
+     "comments": 5,
+     "author": "pushcx",
+     "tags": [
+      "graphics"
+     ],
+     "desc": "",
+     "time": 1794815814,
+     "id": "iihw5u"
+    },
+    {
+     "title": "On Leaving Swift for Rust",
+     "url": "https://www.prux.org/posts/goodbye-swift-hello-rust/",
+     "score": 9,
+     "comments": 6,
+     "author": "marcprux",
+     "tags": [
+      "mobile",
+      "rust",
+      "swift"
+     ],
+     "desc": "",
+     "time": 1794830205,
+     "id": "6t3oi4"
+    },
+    {
+     "title": "Improving the Wii U's Wii Mode",
+     "url": "https://garyodernichts.blogspot.com/2026/11/improving-wii-us-wii-mode.html",
+     "score": 15,
+     "comments": 0,
+     "author": "calvin",
+     "tags": [
+      "graphics",
+      "hardware",
+      "reversing"
+     ],
+     "desc": "",
+     "time": 1794847194,
+     "id": "sz6o8w"
+    },
+    {
+     "title": "Quality IMAP, Part 1: Your Mailbox Is A Database",
+     "url": "https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-1/",
+     "score": 17,
+     "comments": 5,
+     "author": "gasche",
+     "tags": [
+      "email",
+      "testing"
+     ],
+     "desc": "",
+     "time": 1794824738,
+     "id": "gm4vao"
+    },
+    {
+     "title": "Enabling the parallel frontend on nightly",
+     "url": "https://blog.rust-lang.org/2026/11/16/enabling-parallel-frontend-on-nightly/",
+     "score": 26,
+     "comments": 0,
+     "author": "fanf",
+     "tags": [
+      "rust"
+     ],
+     "desc": "",
+     "time": 1794820958,
+     "id": "8eivbk"
+    },
+    {
+     "title": "Paint in the memory of other programs",
+     "url": "https://citrons.xyz/journal/2026-04-13",
+     "score": 68,
+     "comments": 6,
+     "author": "gavinmorrow",
+     "tags": [
+      "programming",
+      "visualization"
+     ],
+     "desc": "",
+     "time": 1794778656,
+     "id": "thiekk"
+    },
+    {
+     "title": "you won't win at copyright",
+     "url": "https://ingrids.space/posts/you-wont-win-at-copyright/",
+     "score": 71,
+     "comments": 8,
+     "author": "sjamaan",
+     "tags": [
+      "culture",
+      "law",
+      "philosophy"
+     ],
+     "desc": "",
+     "time": 1794796213,
+     "id": "emdfap"
+    },
+    {
+     "title": "\"Proof of use\" as a requirement for open source contributions?",
+     "url": "https://lobste.rs/s/ki1l5r",
+     "score": 14,
+     "comments": 3,
+     "author": "twp",
+     "tags": [
+      "ai",
+      "ask",
+      "culture"
+     ],
+     "desc": "<p>As an open source maintainer, I get a lot of AI slop PRs. Some of these have genuine value. Most address edge cases that almost never occur in real life. It's not that they're not fixing real problems, it's that they're fixing problems that nobody is ever likely to encounter.</p>\n<p>I'm experimenting with \"proof of use\" as a requirement for submissions. Specifically, you need to show me that your project that depends on my project before I'll look at your PR.</p>\n<p>\"Proof of use\" can be an existing open source project that imports mine (show me the git history!) or a clear description starting with \"in our closed source project in production, we found that...\".</p>\n<p>The specific problem that I want to address is ensuring that contributions from people genuinely depending on my software are handled, while filtering out the OpenClaw/Github green square farming/drive-by LLM noise.</p>\n<p>What are lobste.rs's thoughts on this?</p>\n",
+     "time": 1794846345,
+     "id": "ki1l5r"
+    },
+    {
+     "title": "What are you doing this week?",
+     "url": "https://lobste.rs/s/isejqv",
+     "score": 13,
+     "comments": 22,
+     "author": "caius",
+     "tags": [
+      "ask",
+      "programming"
+     ],
+     "desc": "<p>What are you doing this week? Feel free to share!</p>\n<p>Keep in mind it’s OK to do nothing at all, too.</p>\n",
+     "time": 1794805410,
+     "id": "isejqv"
+    },
+    {
+     "title": "NoisyTCP",
+     "url": "https://www.openwall.com/lists/oss-security/2026/11/15/2",
+     "score": 16,
+     "comments": 1,
+     "author": "hanno",
+     "tags": [
+      "linux",
+      "security"
+     ],
+     "desc": "",
+     "time": 1794811829,
+     "id": "uegnml"
+    }
+   ]
+  }
+ },
+ "crypto": [
+  {
+   "id": "bitcoin",
+   "name": "BTC 比特币",
+   "cny": 432609,
+   "change": -0.09171821359050658
+  },
+  {
+   "id": "ethereum",
+   "name": "ETH 以太坊",
+   "cny": 12173.29,
+   "change": 0.2061489686983234
+  },
+  {
+   "id": "binancecoin",
+   "name": "BNB 币安币",
+   "cny": 3954.15,
+   "change": 0.22712627248809594
+  },
+  {
+   "id": "solana",
+   "name": "SOL",
+   "cny": 485.43,
+   "change": 1.2945329108997903
+  },
+  {
+   "id": "ripple",
+   "name": "XRP 瑞波",
+   "cny": 6.43,
+   "change": 0.151300949036369
+  },
+  {
+   "id": "dogecoin",
+   "name": "DOGE",
+   "cny": 0.39484,
+   "change": 0.4035458851037305
+  },
+  {
+   "id": "cardano",
+   "name": "ADA 艾达",
+   "cny": 1.029,
+   "change": 0.1435314924530098
+  },
+  {
+   "id": "tron",
+   "name": "TRX 波场",
+   "cny": 2.03,
+   "change": 0.22761440563781385
+  }
+ ]
+}
